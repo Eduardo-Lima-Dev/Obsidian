@@ -5,7 +5,7 @@
 		{"id":"c21ad15b05b3ae7b","type":"text","text":"Utilizar  Padrão de Commits","x":-500,"y":-110,"width":250,"height":60},
 		{"id":"3037cc85872ae9d6","type":"text","text":"Deploy Backend (Render ou Vercel)","x":-500,"y":-250,"width":250,"height":60},
 		{"id":"e815a60374d9566a","type":"link","url":"https://github.com/Luiz-Eduardo-BL/Padroes-de-Commits","x":-40,"y":-450,"width":400,"height":400},
-		{"id":"c0b3f9f9852e0de8","type":"file","file":"Pasted image 20240416085545.png","x":1,"y":20,"width":319,"height":400},
+		{"id":"c0b3f9f9852e0de8","type":"file","file":"imagem.png","x":1,"y":20,"width":319,"height":400},
 		{"id":"7bce1a443e373be3","type":"text","text":"Criar um Trello","x":-500,"y":0,"width":250,"height":60,"color":"4"},
 		{"id":"240904931ed10027","type":"text","text":"Criar e Utilizar Novas Branchs","x":-900,"y":0,"width":250,"height":60,"color":"4"},
 		{"id":"0838bf187f6d0322","type":"text","text":"Criar um Branch Developer","x":-923,"y":277,"width":273,"height":50,"color":"4"}
