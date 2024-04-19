@@ -1,7 +1,7 @@
 
 # Tópicos com ideias e requisitos do projeto
 
--  #Motivo => Pessoas com pouco conhecimento tecnológico tendem a ter dificuldade em utilizar aplicativos de gerencia de finanças, a ideia principal é desenvolver um sistema que ajude essas pessoas a gerencias suas finanças/dividas, onde elas poderão colocar o que precisa ser pago, com o valor, data de vencimento e tudo isso dentro do mês, alem de que o sistema deve notificar quando estiver perto da data de vencimento, por e-mail ou Whatsapp (Preferencia Whatsapp) 
+-  #Motivo => Pessoas com pouco conhecimento tecnológico tendem a ter dificuldade em utilizar aplicativos de gerencia de finanças, a ideia principal é desenvolver um sistema que ajude essas pessoas a gerencias suas finanças/dividas, onde elas poderão colocar o que precisa ser pago, com o valor, data de vencimento e tudo isso dentro do mês, alem de que o sistema deve notificar quando estiver perto da data de vencimento, por e-mail ou Whatsapp (Preferencia Whatsapp).
 
 ## Elicitação de Requisitos
 
