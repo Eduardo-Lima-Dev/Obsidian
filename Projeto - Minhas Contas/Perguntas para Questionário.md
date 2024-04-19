@@ -1,0 +1,21 @@
+- Qual sua principal dificuldade no momento de organizar o que sera pago?
+- Como você costuma organizar as contas que devem ser pagas?
+- Você já utilizou algum aplicativo de organização financeira?  Se sim, qual foi a sua experiência?
+- Você usaria um aplicativo focado apenas em organizar as contas que precisam ser pagas?
+- Como você considera seu nível de conhecimento tecnológico?
+	- Alto (Utilizo todos os aplicativos possíveis e sei resolver pequenos  problemas)
+	- Médio (Sei usar alguns aplicativos, mas tenho um pouco de dificuldade)
+	- Baixo (Preciso de ajuda para usar boa parte dos aplicativos)
+	- Só sei usar o Whatsapp
+- Para você o que não poderia faltar em um aplicativo para organizar contas que serão pagas?
+- Você prefere receber notificações por e-mail ou WhatsApp?
+- Você gostaria que o aplicativo tivesse alguma funcionalidade específica, como gráficos ou relatórios?
+- Você gostaria de poder categorizar suas despesas por tipo, como alimentação, transporte ou lazer?
+- Se sim, quais das categorias abaixo escolheria?
+	- Alimentação
+	- Lazer
+	- Recorrentes (Preciso pagar todo mês)
+	- Gastos diversos
+	- Outros
+- Você gostaria de poder definir metas financeiras, como economizar para uma viagem ou para a compra de um bem durável?
+- Você gostaria de poder acessar suas informações financeiras de qualquer dispositivo, como um smartphone ou um tablet?

@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"0e348d107fcd304a","type":"text","text":"Tasks Principais","x":-720,"y":-400,"width":250,"height":60},
+		{"id":"a82b8bdbe43a4dab","type":"text","text":"Modificar Métodos\n(Utilizar esse exemplo de base)","x":-740,"y":100,"width":320,"height":60},
+		{"id":"c21ad15b05b3ae7b","type":"text","text":"Utilizar  Padrão de Commits","x":-500,"y":-110,"width":250,"height":60},
+		{"id":"3037cc85872ae9d6","type":"text","text":"Deploy Backend (Render ou Vercel)","x":-500,"y":-250,"width":250,"height":60},
+		{"id":"e815a60374d9566a","type":"link","url":"https://github.com/Luiz-Eduardo-BL/Padroes-de-Commits","x":-40,"y":-450,"width":400,"height":400},
+		{"id":"c0b3f9f9852e0de8","type":"file","file":"Pasted image 20240416085545.png","x":1,"y":20,"width":319,"height":400},
+		{"id":"7bce1a443e373be3","type":"text","text":"Criar um Trello","x":-500,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"240904931ed10027","type":"text","text":"Criar e Utilizar Novas Branchs","x":-900,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"0838bf187f6d0322","type":"text","text":"Criar um Branch Developer","x":-923,"y":277,"width":273,"height":50,"color":"4"}
+	],
+	"edges":[
+		{"id":"d64c450a611433f6","fromNode":"0e348d107fcd304a","fromSide":"bottom","toNode":"c21ad15b05b3ae7b","toSide":"left"},
+		{"id":"162d4b54fa9c3e6b","fromNode":"0e348d107fcd304a","fromSide":"bottom","toNode":"a82b8bdbe43a4dab","toSide":"top"},
+		{"id":"c93579983cff5b7f","fromNode":"c21ad15b05b3ae7b","fromSide":"right","toNode":"e815a60374d9566a","toSide":"left"},
+		{"id":"6c78d51039d3492a","fromNode":"a82b8bdbe43a4dab","fromSide":"right","toNode":"c0b3f9f9852e0de8","toSide":"left"},
+		{"id":"fe65d9be61e5e6f4","fromNode":"0e348d107fcd304a","fromSide":"bottom","toNode":"3037cc85872ae9d6","toSide":"top"},
+		{"id":"d00ef0b6f4e6e0fd","fromNode":"0e348d107fcd304a","fromSide":"bottom","toNode":"240904931ed10027","toSide":"top"},
+		{"id":"9919738be9e705a9","fromNode":"0e348d107fcd304a","fromSide":"bottom","toNode":"7bce1a443e373be3","toSide":"top"},
+		{"id":"a1af15c73e13f29e","fromNode":"240904931ed10027","fromSide":"bottom","toNode":"0838bf187f6d0322","toSide":"top"}
+	]
+}

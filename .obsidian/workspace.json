@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "96e1be016bff8b5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "657683796791b017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac06480d714418a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto - Minhas Contas/Ideia Principal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ecbfb075b47754d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5894c688623185d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "be14c42a9c587be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ad11e4c6f173e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6e95fd8434fd532",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "734d014d659e0b2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6ec9af3f92dde3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "146bc1cca5233a87",
+        "type": "tabs",
+        "dimension": 38.72216844143272,
+        "children": [
+          {
+            "id": "dc28f0542a73401e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md"
+              }
+            }
+          },
+          {
+            "id": "4418dba71b701d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f525e6418f6ffc95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fc5e30b4ece8ec94",
+        "type": "tabs",
+        "dimension": 26.91190706679574,
+        "children": [
+          {
+            "id": "5b3c6f8044a5ead5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c974f6f87ecbb70",
+        "type": "tabs",
+        "dimension": 34.36592449177154,
+        "children": [
+          {
+            "id": "149ce8d308af5989",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "publish:Publicar mudanças": false
+    }
+  },
+  "active": "149ce8d308af5989",
+  "lastOpenFiles": [
+    "Daily",
+    "RediUX/Tasks.canvas",
+    "Pasted image 20240416085545.png",
+    "RediUX/Reunião dia 19 de Abril de 2024.md",
+    "Projeto - Minhas Contas/Ideia Principal.md",
+    "RediUX",
+    "Resumos - Livros/Historia da Filosofia Ocidental.md",
+    "Resumos - Livros",
+    "Projeto - Minhas Contas/Perguntas para Questionário.md",
+    "Projeto - Minhas Contas",
+    "Welcome.md"
+  ]
+}
