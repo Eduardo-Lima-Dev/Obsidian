@@ -11,14 +11,11 @@
             "id": "9ac06480d714418a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
-                "viewState": {
-                  "x": -223.2,
-                  "y": 223.2,
-                  "zoom": 0
-                }
+                "file": "Projeto - Minhas Contas/DOCUMENTO DE VISÃO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -89,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas"
+                "file": "Projeto - Minhas Contas/DOCUMENTO DE VISÃO.md"
               }
             }
           },
@@ -99,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
+                "file": "Projeto - Minhas Contas/DOCUMENTO DE VISÃO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
+                "file": "Projeto - Minhas Contas/DOCUMENTO DE VISÃO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "9ac06480d714418a",
   "lastOpenFiles": [
-    "Daily/22-04-24.md",
     "RediUX/Recuperar Senha Front.canvas",
+    "Projeto - Minhas Contas/DOCUMENTO DE VISÃO.md",
+    "Daily/22-04-24.md",
     "Projeto - Minhas Contas/Ideia Principal - Teste 2.md",
     "Sem título.md",
     "Daily/19-04-24.md",
