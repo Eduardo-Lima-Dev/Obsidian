@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"7c6c7d0ace4e6a13","x":-560,"y":19,"width":121,"height":50,"color":"4","type":"text","text":"Se OK"},
+		{"id":"2fb4a856dc1bddf5","x":-625,"y":182,"width":250,"height":60,"type":"text","text":"Email para o usuario com link de recuperação"},
+		{"id":"8aad1b047f290729","x":-641,"y":360,"width":282,"height":115,"type":"text","text":"Pagina de recuperação\nColoca a  senha e confrima a senha, se forem iguais salva e retorna para login"},
+		{"id":"d26dad015db44473","x":-375,"y":-80,"width":250,"height":60,"type":"text","text":"Pagina de confirmação \ne verificação de email"},
+		{"id":"4b2b630a6c2ea79a","x":-125,"y":19,"width":250,"height":60,"color":"1","type":"text","text":"Se não encontrar email"},
+		{"id":"d3f7f8cc439872f9","x":-400,"y":-240,"width":300,"height":60,"type":"text","text":"Esqueci minha senha (Botao)"},
+		{"id":"da94b67409f82902","x":-125,"y":181,"width":275,"height":123,"type":"text","text":"Notifica que o email  nao foi encontrado e pede para que ele entre em contaro com algum Administrador "}
+	],
+	"edges":[
+		{"id":"e0738d13bd7d8243","fromNode":"d3f7f8cc439872f9","fromSide":"bottom","toNode":"d26dad015db44473","toSide":"top"},
+		{"id":"3cda5f902da49321","fromNode":"d26dad015db44473","fromSide":"bottom","toNode":"7c6c7d0ace4e6a13","toSide":"top"},
+		{"id":"85758d8c74a9903d","fromNode":"7c6c7d0ace4e6a13","fromSide":"bottom","toNode":"2fb4a856dc1bddf5","toSide":"top"},
+		{"id":"6638e7e05fa64968","fromNode":"2fb4a856dc1bddf5","fromSide":"bottom","toNode":"8aad1b047f290729","toSide":"top"},
+		{"id":"c0dda4aecc3c145e","fromNode":"d26dad015db44473","fromSide":"bottom","toNode":"4b2b630a6c2ea79a","toSide":"top"},
+		{"id":"b94569e326373994","fromNode":"4b2b630a6c2ea79a","fromSide":"bottom","toNode":"da94b67409f82902","toSide":"top"}
+	]
+}
