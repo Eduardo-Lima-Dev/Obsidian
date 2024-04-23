@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"7c6c7d0ace4e6a13","x":-560,"y":19,"width":121,"height":50,"color":"4","type":"text","text":"Se OK"},
-		{"id":"2fb4a856dc1bddf5","x":-625,"y":182,"width":250,"height":60,"type":"text","text":"Email para o usuario com link de recuperação"},
-		{"id":"8aad1b047f290729","x":-641,"y":360,"width":282,"height":115,"type":"text","text":"Pagina de recuperação\nColoca a  senha e confrima a senha, se forem iguais salva e retorna para login"},
-		{"id":"d26dad015db44473","x":-375,"y":-80,"width":250,"height":60,"type":"text","text":"Pagina de confirmação \ne verificação de email"},
-		{"id":"4b2b630a6c2ea79a","x":-125,"y":19,"width":250,"height":60,"color":"1","type":"text","text":"Se não encontrar email"},
-		{"id":"d3f7f8cc439872f9","x":-400,"y":-240,"width":300,"height":60,"type":"text","text":"Esqueci minha senha (Botao)"},
-		{"id":"da94b67409f82902","x":-125,"y":181,"width":275,"height":123,"type":"text","text":"Notifica que o email  nao foi encontrado e pede para que ele entre em contaro com algum Administrador "}
+		{"id":"7c6c7d0ace4e6a13","type":"text","text":"Se OK","x":-560,"y":19,"width":121,"height":50,"color":"4"},
+		{"id":"2fb4a856dc1bddf5","type":"text","text":"Email para o usuario com link de recuperação","x":-625,"y":182,"width":250,"height":60},
+		{"id":"8aad1b047f290729","type":"text","text":"Pagina de recuperação\nColoca a  senha e confrima a senha, se forem iguais salva e retorna para login","x":-641,"y":360,"width":282,"height":115},
+		{"id":"d26dad015db44473","type":"text","text":"Pagina de confirmação \ne verificação de email","x":-375,"y":-80,"width":250,"height":60},
+		{"id":"4b2b630a6c2ea79a","type":"text","text":"Se não encontrar email","x":-125,"y":19,"width":250,"height":60,"color":"1"},
+		{"id":"d3f7f8cc439872f9","type":"text","text":"Esqueci minha senha (Botao)","x":-400,"y":-240,"width":300,"height":60},
+		{"id":"da94b67409f82902","type":"text","text":"Notifica que o email  nao foi encontrado e pede para que ele entre em contaro com algum Administrador ","x":-137,"y":181,"width":275,"height":123}
 	],
 	"edges":[
 		{"id":"e0738d13bd7d8243","fromNode":"d3f7f8cc439872f9","fromSide":"bottom","toNode":"d26dad015db44473","toSide":"top"},
