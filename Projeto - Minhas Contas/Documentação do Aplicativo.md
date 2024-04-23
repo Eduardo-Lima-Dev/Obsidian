@@ -49,7 +49,7 @@ Caracterização do problema/oportunidade.
 ## 3. Requisitos do Produto
 [[O que é um requisito?]]
 ### 3.1 Requisitos Funcionais
-[O  que é um requisito Funcional?]
+[[O  que é um requisito Funcional?]]
 - RF001: **Cadastro de Usuário:**
     - Permitir que os usuários se cadastrem no sistema fornecendo informações básicas, como nome e idade.
 - RF002:**Adicionar Despesas:**
@@ -62,7 +62,7 @@ Caracterização do problema/oportunidade.
     - Permitir que os usuários visualizem suas despesas registradas em uma lista, organizadas por categoria ou período de tempo.
 
 ### 3.2 Requisitos não Funcionais
-[O que é um requisito não funcional?]
+[[O que é um requisito não funcional?]]
 - RNF001: **Usabilidade:**
     - O sistema deve ser intuitivo e de fácil utilização, adequado para usuários com conhecimento tecnológico limitado.
 - RNF002: **Segurança:**
