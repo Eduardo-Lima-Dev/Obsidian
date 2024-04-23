@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Projeto - Minhas Contas/Ideia Principal.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +176,9 @@
   },
   "active": "a9a419a7fdc52358",
   "lastOpenFiles": [
-    "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
+    "Projeto - Minhas Contas/Ideia Principal.md",
+    "Daily/23-04-24.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O  que é um requisito Funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito não funcional?.md",
