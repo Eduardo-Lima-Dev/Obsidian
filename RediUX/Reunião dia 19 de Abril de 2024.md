@@ -3,7 +3,7 @@
 ---
 - Tasks e erros encontrados na plataforma em um teste rápido e superficial.
 
-1. [ ] Implementar a funcionalidade de busca ao pressionar a tecla "Enter".
+1. [x] Implementar a funcionalidade de busca ao pressionar a tecla "Enter". ✅ 2024-04-26
 2. [ ] Inserir o logotipo do sistema na aba de título da página de administração.
 3. [ ] **<span style="color:red">Redesenhar e reescrever o layout dos cards.</span>**
 4. [ ] **<span style="color:red">Garantir que o sistema seja responsivo.</span>**
@@ -25,9 +25,9 @@
 ## Tasks para semana de 22 - 26 de Abril
 ---
 
-1. [ ] Reunião com a equipe completa
-2. [ ] Reunião com a equipe de Desenvolvimento
+1. [x] Reunião com a equipe completa ✅ 2024-04-26
+2. [x] Reunião com a equipe de Desenvolvimento ✅ 2024-04-26
 3. [x] Cadastrar tasks (**Luiz Eduardo**)
-4. [ ] Modificar Métodos no arquivo API.js (**Lucas Amorim**)
+4. [x] Modificar Métodos no arquivo API.js (**Lucas Amorim**) ✅ 2024-04-26
 5. [ ] Retirar os Warnings do codigo (**Depende da Task 4**)
 6. [ ] Limpar as Dependências não utilizadas (**Depende da Task 4**)

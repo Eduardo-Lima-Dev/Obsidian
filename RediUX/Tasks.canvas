@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"0e348d107fcd304a","type":"text","text":"Tasks Principais","x":-720,"y":-400,"width":250,"height":60},
-		{"id":"a82b8bdbe43a4dab","type":"text","text":"Modificar Métodos\n(Utilizar esse exemplo de base)","x":-740,"y":100,"width":320,"height":60},
-		{"id":"c21ad15b05b3ae7b","type":"text","text":"Utilizar  Padrão de Commits","x":-500,"y":-110,"width":250,"height":60},
-		{"id":"3037cc85872ae9d6","type":"text","text":"Deploy Backend (Render ou Vercel)","x":-500,"y":-250,"width":250,"height":60},
+		{"id":"a82b8bdbe43a4dab","type":"text","text":"Modificar Métodos\n(Utilizar esse exemplo de base)","x":-740,"y":100,"width":320,"height":60,"color":"4"},
+		{"id":"c21ad15b05b3ae7b","type":"text","text":"Utilizar  Padrão de Commits","x":-500,"y":-110,"width":250,"height":60,"color":"4"},
+		{"id":"3037cc85872ae9d6","type":"text","text":"Deploy Backend (Render ou Vercel)","x":-500,"y":-250,"width":250,"height":60,"color":"4"},
 		{"id":"e815a60374d9566a","type":"link","url":"https://github.com/Luiz-Eduardo-BL/Padroes-de-Commits","x":-40,"y":-450,"width":400,"height":400},
 		{"id":"c0b3f9f9852e0de8","type":"file","file":"imagem.png","x":1,"y":20,"width":319,"height":400},
 		{"id":"7bce1a443e373be3","type":"text","text":"Criar um Trello","x":-500,"y":0,"width":250,"height":60,"color":"4"},

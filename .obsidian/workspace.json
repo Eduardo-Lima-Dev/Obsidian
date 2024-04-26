@@ -4,25 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "657683796791b017",
+        "id": "0918a48be1b1dba8",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a419a7fdc52358",
+            "id": "c4b807ecf59e734b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
-                "viewState": {
-                  "x": -273.8105831906176,
-                  "y": 123.69883677511734,
-                  "zoom": 0.8
-                }
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a73f2c438c45750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -90,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas"
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md"
               }
             }
           },
@@ -100,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Recuperar Senha Front.canvas",
+                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +185,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9a419a7fdc52358",
+  "active": "0a73f2c438c45750",
   "lastOpenFiles": [
+    "RediUX/Tasks.canvas",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
+    "RediUX/Recuperar Senha Front.canvas",
+    "Daily/26-04-24.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito não funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O  que é um requisito Funcional?.md",
@@ -186,13 +198,11 @@
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Daily/23-04-24.md",
     "Projeto - Minhas Contas/Questoes Requisitos",
-    "RediUX/Recuperar Senha Front.canvas",
     "Daily/22-04-24.md",
     "Sem título.md",
     "Daily/19-04-24.md",
     "imagem.png",
     "Daily",
-    "RediUX/Tasks.canvas",
     "RediUX",
     "Resumos - Livros/Historia da Filosofia Ocidental.md",
     "Resumos - Livros",
