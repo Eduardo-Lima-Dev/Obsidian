@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0918a48be1b1dba8",
+        "id": "0f6b53b8229a5e78",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b807ecf59e734b",
+            "id": "dbbf75dff070a017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a73f2c438c45750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
-                "mode": "source",
-                "source": false
+                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Reunião dia 19 de Abril de 2024.md"
+                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md"
               }
             }
           },
@@ -109,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Reunião dia 19 de Abril de 2024.md",
+                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,28 +170,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a73f2c438c45750",
+  "active": "dbbf75dff070a017",
   "lastOpenFiles": [
-    "RediUX/Tasks.canvas",
-    "RediUX/Reunião dia 19 de Abril de 2024.md",
-    "RediUX/Recuperar Senha Front.canvas",
-    "Daily/26-04-24.md",
+    "Projeto - Minhas Contas/Perguntas para Questionário.md",
+    "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
+    "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
+    "Pasted Image 20240503092857_117.png",
+    "RediUX/Reunião dia 19 de Abril de 2024.md",
+    "Sem título.md",
+    "Daily/03-05-24.md",
+    "Daily/26-04-24.md",
+    "RediUX/Tasks.canvas",
+    "RediUX/Recuperar Senha Front.canvas",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito não funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O  que é um requisito Funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito?.md",
-    "Projeto - Minhas Contas/Ideia Principal.md",
     "Daily/23-04-24.md",
     "Projeto - Minhas Contas/Questoes Requisitos",
     "Daily/22-04-24.md",
-    "Sem título.md",
     "Daily/19-04-24.md",
     "imagem.png",
     "Daily",
     "RediUX",
     "Resumos - Livros/Historia da Filosofia Ocidental.md",
     "Resumos - Livros",
-    "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Projeto - Minhas Contas",
     "Welcome.md"
   ]
