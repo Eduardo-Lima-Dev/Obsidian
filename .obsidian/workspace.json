@@ -11,9 +11,11 @@
             "id": "dbbf75dff070a017",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md"
+                "file": "Daily/08-05-24.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md"
+                "file": "Daily/08-05-24.md"
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
+                "file": "Daily/08-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
+                "file": "Daily/08-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +175,11 @@
   },
   "active": "dbbf75dff070a017",
   "lastOpenFiles": [
+    "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
+    "Daily/08-05-24.md",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
-    "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
     "Pasted Image 20240503092857_117.png",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
     "Sem título.md",
