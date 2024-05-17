@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "649432387574aed1",
+            "id": "7018b185522331b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md"
+                "file": "RediUX/ModeloCard.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -85,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md"
+                "file": "RediUX/ModeloCard.excalidraw.md"
               }
             }
           },
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
+                "file": "RediUX/ModeloCard.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
+                "file": "RediUX/ModeloCard.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,13 +171,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "649432387574aed1",
+  "active": "7018b185522331b4",
   "lastOpenFiles": [
-    "RediUX/Sem título.canvas",
+    "Pasted Image 20240517085314_756.jpg",
     "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
+    "RediUX/ModeloCard.excalidraw.md",
+    "RediUX/RediUXModelos.excalidraw.md",
+    "Daily/17-05-24.md",
     "Daily/10-05-24.md",
     "Daily/08-05-24.md",
-    "RediUX/Drawing 2024-05-03 09.28.40.excalidraw.md",
+    "RediUX/Sem título.canvas",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",

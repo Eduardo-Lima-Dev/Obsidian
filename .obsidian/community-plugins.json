@@ -3,5 +3,6 @@
   "calendar",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-mkdocs-publisher"
 ]
