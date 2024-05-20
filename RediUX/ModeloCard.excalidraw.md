@@ -18,6 +18,13 @@ Conteudo ^tBLumDOD
 
 Componente Card ^rasuoI65
 
+Na imagem ia houver 
+opcaidade menor  ^01AW4SnV
+
+Colocar o texto com uma 
+elevaçao ou com uma aura
+por fora ^Vf4kYf0R
+
 # Embedded files
 f1897147ecb48b41416c5d32fe1a913aaef5ccc0: [[Pasted Image 20240517085314_756.jpg]]
 ca6b13fd17284087788fd4f8d94cc977a41e2e77: [[Pasted Image 20240517094444_306.png]]
@@ -430,8 +437,8 @@ ca6b13fd17284087788fd4f8d94cc977a41e2e77: [[Pasted Image 20240517094444_306.png]
 		{
 			"id": "rasuoI65",
 			"type": "text",
-			"x": -194.5237029424029,
-			"y": 187.19786358893327,
+			"x": -173.76789496542915,
+			"y": 188.35097830932796,
 			"width": 231.86898803710938,
 			"height": 35,
 			"angle": 0,
@@ -446,11 +453,11 @@ ca6b13fd17284087788fd4f8d94cc977a41e2e77: [[Pasted Image 20240517094444_306.png]
 			"frameId": null,
 			"roundness": null,
 			"seed": 207517837,
-			"version": 32,
-			"versionNonce": 1675237059,
+			"version": 45,
+			"versionNonce": 1908521091,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1715950102452,
+			"updated": 1715950193617,
 			"link": null,
 			"locked": false,
 			"text": "Componente Card",
@@ -461,6 +468,78 @@ ca6b13fd17284087788fd4f8d94cc977a41e2e77: [[Pasted Image 20240517094444_306.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Componente Card",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "01AW4SnV",
+			"type": "text",
+			"x": -192.21753774914635,
+			"y": 267.9149303035715,
+			"width": 294.365234375,
+			"height": 70,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1579123203,
+			"version": 42,
+			"versionNonce": 1257178787,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715950194654,
+			"link": null,
+			"locked": false,
+			"text": "Na imagem ia houver \nopcaidade menor ",
+			"rawText": "Na imagem ia houver \nopcaidade menor ",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Na imagem ia houver \nopcaidade menor ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Vf4kYf0R",
+			"type": "text",
+			"x": -199.13616182398192,
+			"y": 369.38767650011755,
+			"width": 371.86956787109375,
+			"height": 105,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1104589901,
+			"version": 78,
+			"versionNonce": 690428355,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1715950191219,
+			"link": null,
+			"locked": false,
+			"text": "Colocar o texto com uma \nelevaçao ou com uma aura\npor fora",
+			"rawText": "Colocar o texto com uma \nelevaçao ou com uma aura\npor fora",
+			"fontSize": 28,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Colocar o texto com uma \nelevaçao ou com uma aura\npor fora",
 			"lineHeight": 1.25
 		},
 		{
