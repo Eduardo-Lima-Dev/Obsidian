@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7eca518bc7b2639e",
+        "id": "5c2854b2dd6f9a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "7018b185522331b4",
+            "id": "96dd6a15709c1f37",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "RediUX/ModeloCard.excalidraw.md"
+                "file": "Roteiro de Testes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/ModeloCard.excalidraw.md"
+                "file": "Roteiro de Testes.md"
               }
             }
           },
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/ModeloCard.excalidraw.md",
+                "file": "Roteiro de Testes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/ModeloCard.excalidraw.md",
+                "file": "Roteiro de Testes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,15 +172,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7018b185522331b4",
+  "active": "96dd6a15709c1f37",
   "lastOpenFiles": [
-    "Pasted Image 20240520102116_991.png",
-    "Pasted Image 20240520102101_982.png",
-    "Pasted Image 20240520101756_974.png",
-    "Pasted Image 20240517094444_306.png",
-    "Pasted Image 20240517085314_756.jpg",
-    "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
+    "Roteiro de Testes.md",
+    "Projeto - TodoTask",
+    "Imagens/Pasted Image 20240520101756_974.png",
+    "Imagens/Pasted Image 20240520102101_982.png",
+    "Imagens/Pasted Image 20240520102116_991.png",
+    "Imagens/imagem.png",
+    "Imagens",
+    "Imagens/Pasted Image 20240517094444_306.png",
+    "Imagens/Pasted Image 20240503092857_117.png",
     "RediUX/ModeloCard.excalidraw.md",
+    "Imagens/Pasted Image 20240517085314_756.jpg",
+    "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
     "RediUX/RediUXModelos.excalidraw.md",
     "Daily/17-05-24.md",
     "Daily/10-05-24.md",
@@ -188,9 +194,7 @@
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
-    "Pasted Image 20240503092857_117.png",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
-    "Sem título.md",
     "Daily/03-05-24.md",
     "Daily/26-04-24.md",
     "RediUX/Tasks.canvas",
@@ -202,7 +206,6 @@
     "Projeto - Minhas Contas/Questoes Requisitos",
     "Daily/22-04-24.md",
     "Daily/19-04-24.md",
-    "imagem.png",
     "Daily",
     "RediUX",
     "Resumos - Livros/Historia da Filosofia Ocidental.md",
