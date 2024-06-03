@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96dd6a15709c1f37",
+            "id": "42ae5b81322191fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
+                "file": "Freela-HomeLife/Briefing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e40908bf15ab992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4d1195932d10e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto - Minhas Contas/Ideia Principal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -87,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md"
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md"
               }
             }
           },
@@ -97,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96dd6a15709c1f37",
+  "active": "9e40908bf15ab992",
   "lastOpenFiles": [
+    "Freela-HomeLife/Briefing.md",
+    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
+    "Projeto - Minhas Contas/Perguntas para Questionário.md",
+    "Freela-HomeLife",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Roteiro de Testes.md",
     "Projeto - TodoTask",
@@ -195,7 +222,6 @@
     "Daily/10-05-24.md",
     "Daily/08-05-24.md",
     "RediUX/Sem título.canvas",
-    "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
     "Daily/03-05-24.md",
     "Daily/26-04-24.md",
