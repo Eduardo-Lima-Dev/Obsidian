@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e4d1195932d10e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto - Minhas Contas/Ideia Principal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md"
+                "file": "Freela-HomeLife/Briefing.md"
               }
             }
           },
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,10 +184,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e40908bf15ab992",
+  "active": "42ae5b81322191fe",
   "lastOpenFiles": [
-    "Freela-HomeLife/Briefing.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Freela-HomeLife/Briefing.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Freela-HomeLife",
