@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42ae5b81322191fe",
+  "active": "dc28f0542a73401e",
   "lastOpenFiles": [
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Freela-HomeLife/Briefing.md",
