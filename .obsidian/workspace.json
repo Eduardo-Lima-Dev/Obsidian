@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro de Testes.md",
+                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro de Testes.md"
+                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md"
               }
             }
           },
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro de Testes.md",
+                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro de Testes.md",
+                "file": "Projeto - Minhas Contas/Perguntas para Questionário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +176,8 @@
   },
   "active": "96dd6a15709c1f37",
   "lastOpenFiles": [
+    "Projeto - Minhas Contas/Ideia Principal.md",
+    "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Roteiro de Testes.md",
     "Projeto - TodoTask",
     "Imagens/Pasted Image 20240520101756_974.png",
@@ -192,8 +196,6 @@
     "Daily/08-05-24.md",
     "RediUX/Sem título.canvas",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
-    "Projeto - Minhas Contas/Ideia Principal.md",
-    "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
     "Daily/03-05-24.md",
     "Daily/26-04-24.md",
