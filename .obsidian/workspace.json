@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md"
+                "file": "Freela-HomeLife/Briefing.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,8 @@
   },
   "active": "42ae5b81322191fe",
   "lastOpenFiles": [
-    "Freela-HomeLife/Briefing.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Freela-HomeLife/Briefing.md",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Freela-HomeLife",
