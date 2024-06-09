@@ -11,6 +11,16 @@
             "id": "06495f449df9202e",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "RediUX/RediUXHome.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ea74667bb6f4b6eb",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "RediUX/Reunião 7 de Junho.md",
@@ -19,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imagens/Pasted Image 20240606164036_168.png"
+                "file": "RediUX/Reunião 7 de Junho.md"
               }
             }
           },
@@ -96,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imagens/Pasted Image 20240606164036_168.png",
+                "file": "RediUX/Reunião 7 de Junho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imagens/Pasted Image 20240606164036_168.png",
+                "file": "RediUX/Reunião 7 de Junho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "ea74667bb6f4b6eb",
   "lastOpenFiles": [
-    "Imagens/Pasted image 20240606170102.png",
-    "RediUX/Reunião 7 de Junho.md",
-    "Freela-HomeLife/Briefing.md",
     "RediUX/RediUXHome.excalidraw.md",
+    "RediUX/Reunião 7 de Junho.md",
+    "Imagens/Pasted image 20240606170102.png",
+    "Freela-HomeLife/Briefing.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Imagens/Pasted Image 20240606164036_168.png",
     "Imagens/Pasted Image 20240606163406_155.png",

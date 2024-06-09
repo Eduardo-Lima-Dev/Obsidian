@@ -5,6 +5,8 @@
 - Mudar a forma de pesquisa
 - Modelo do card
 - Imagem padrão em card
+- Mudar as Tags para um filtro (Ano, Midia, Alfabético)
+- Escolher um representante para o projeto
 
 ## Assuntos comentados
 
@@ -15,3 +17,4 @@
 ![[Pasted image 20240606162849.png]]
 - Limitar o tipo de mídia a um único tipo
 - Model de Preview para o conteúdo (Modal) 
+- Responsividade
