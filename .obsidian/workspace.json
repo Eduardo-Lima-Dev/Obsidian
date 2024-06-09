@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42ae5b81322191fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freela-HomeLife/Briefing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "06495f449df9202e",
             "type": "leaf",
             "state": {
@@ -30,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b8d1510c11d09e0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9e40908bf15ab992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md"
+                "file": "Imagens/Pasted Image 20240606164036_168.png"
               }
             }
           },
@@ -131,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md",
+                "file": "Imagens/Pasted Image 20240606164036_168.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md",
+                "file": "Imagens/Pasted Image 20240606164036_168.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,16 +173,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b8d1510c11d09e0",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
-    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Imagens/Pasted image 20240606170102.png",
     "RediUX/Reunião 7 de Junho.md",
-    "RediUX/RediUXHome.excalidraw.md",
-    "Pasted Image 20240606164036_168.png",
-    "Pasted Image 20240606163406_155.png",
-    "Pasted Image 20240606163351_148.png",
-    "Pasted image 20240606162849.png",
     "Freela-HomeLife/Briefing.md",
+    "RediUX/RediUXHome.excalidraw.md",
+    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Imagens/Pasted Image 20240606164036_168.png",
+    "Imagens/Pasted Image 20240606163406_155.png",
+    "Imagens/Pasted Image 20240606163351_148.png",
+    "Imagens/Pasted image 20240606162849.png",
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Freela-HomeLife",
@@ -230,7 +196,6 @@
     "Imagens/imagem.png",
     "Imagens",
     "Imagens/Pasted Image 20240517094444_306.png",
-    "Imagens/Pasted Image 20240503092857_117.png",
     "RediUX/ModeloCard.excalidraw.md",
     "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
     "RediUX/RediUXModelos.excalidraw.md",
