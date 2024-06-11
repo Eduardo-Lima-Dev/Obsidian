@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c2854b2dd6f9a5a",
+        "id": "edc48d690f4f3fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "06495f449df9202e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ea74667bb6f4b6eb",
+            "id": "ead872e1fc3147a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RediUX/Reunião 7 de Junho.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Reunião 7 de Junho.md"
+                "file": "Freela-HomeLife/Briefing.md"
               }
             }
           },
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Reunião 7 de Junho.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Reunião 7 de Junho.md",
+                "file": "Freela-HomeLife/Briefing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +173,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea74667bb6f4b6eb",
+  "active": "ead872e1fc3147a1",
   "lastOpenFiles": [
-    "RediUX/RediUXHome.excalidraw.md",
+    "Freela-HomeLife/Sem título.md",
     "RediUX/Reunião 7 de Junho.md",
+    "RediUX/RediUXHome.excalidraw.md",
     "Imagens/Pasted image 20240606170102.png",
     "Freela-HomeLife/Briefing.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
