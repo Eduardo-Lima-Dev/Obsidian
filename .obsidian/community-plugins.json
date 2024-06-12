@@ -4,5 +4,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "obsidian-mkdocs-publisher"
+  "obsidian-mkdocs-publisher",
+  "better-export-pdf"
 ]
