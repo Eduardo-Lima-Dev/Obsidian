@@ -22,7 +22,7 @@
 	   - **Cadastrar cartão de pagamento:** Os médicos/enfermeiros devem cadastrar os cartões que receberão o valor do seu atendimento.
    **-> Sistema dos Pacientes:**
    - **Cadastro Pessoal:** O usuário deve poder criar um cadastro com **Nome**, **Contato** e **Cidade**
-   - **Castro de Paciente:** O usuário terá a opção de cadastrar um atendimento para outra pessoa (Ex: Para uma avó)
+   - **Cadastro de Paciente:** O usuário terá a opção de cadastrar um atendimento para outra pessoa (Ex: Para uma avó)
    - **Pagamento:** O usuário poderá ter a opção de pagar diretamente pela pagina, utilizando o cartão, pix ou escolhendo pagar na hora do atendimento
    - **Seleção de Horários:** O usuário poderá selecionar o dia e hora, alem do medico/enfermeiro para o atendimento
    - **Contato:** O usuário deve ter uma forma fácil de entrar em contato principalmente por whatsapp
