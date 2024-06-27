@@ -6,4 +6,3 @@
 6. Modificar nome de Usuario;
 7. Deletar todas as taks;
 8. Criar uma task sem Titulo e sem Descrição;
-9. 
