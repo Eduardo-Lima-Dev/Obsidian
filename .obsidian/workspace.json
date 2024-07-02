@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "edc48d690f4f3fe5",
+        "id": "0b832718a5453c63",
         "type": "tabs",
         "children": [
           {
-            "id": "ead872e1fc3147a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "RediUX/RediUXHome.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "fe202ebcd522a88a",
+            "id": "36e3891e6a71be6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto - TodoTask/Roteiro de Testes.md",
+                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - TodoTask/Roteiro de Testes.md"
+                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md"
               }
             }
           },
@@ -107,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projeto - TodoTask/Roteiro de Testes.md",
+                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projeto - TodoTask/Roteiro de Testes.md",
+                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +172,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe202ebcd522a88a",
+  "active": "36e3891e6a71be6e",
   "lastOpenFiles": [
+    "Freela-HomeLife/Sem título 1.md",
+    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+    "Projeto - TodoTask/Roteiro de Testes.md",
     "RediUX/Reunião 7 de Junho.md",
     "RediUX/RediUXHome.excalidraw.md",
     "RediUX/Reunião dia 19 de Abril de 2024.md",
     "Freela-HomeLife/Briefing.md",
-    "Freela-HomeLife/Sem título.md",
     "Imagens/Pasted image 20240606170102.png",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Imagens/Pasted Image 20240606164036_168.png",
@@ -200,7 +191,6 @@
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Freela-HomeLife",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
-    "Projeto - TodoTask/Roteiro de Testes.md",
     "Projeto - TodoTask",
     "Imagens/Pasted Image 20240520101756_974.png",
     "Imagens/Pasted Image 20240520102101_982.png",
@@ -230,7 +220,6 @@
     "RediUX",
     "Resumos - Livros/Historia da Filosofia Ocidental.md",
     "Resumos - Livros",
-    "Projeto - Minhas Contas",
-    "Welcome.md"
+    "Projeto - Minhas Contas"
   ]
 }
