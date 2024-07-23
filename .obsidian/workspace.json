@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "385fef8dd473217b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RediUX/Banco de Dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md"
+                "file": "RediUX/Banco de Dados.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+                "file": "RediUX/Banco de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+                "file": "RediUX/Banco de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36e3891e6a71be6e",
+  "active": "385fef8dd473217b",
   "lastOpenFiles": [
-    "Freela-HomeLife/Sem título 1.md",
     "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+    "RediUX/Banco de Dados.md",
+    "Freela-HomeLife/Sem título 1.md",
     "Projeto - TodoTask/Roteiro de Testes.md",
     "RediUX/Reunião 7 de Junho.md",
     "RediUX/RediUXHome.excalidraw.md",
@@ -218,7 +232,6 @@
     "Daily/19-04-24.md",
     "Daily",
     "RediUX",
-    "Resumos - Livros/Historia da Filosofia Ocidental.md",
     "Resumos - Livros",
     "Projeto - Minhas Contas"
   ]
