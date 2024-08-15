@@ -1,13 +1,10 @@
-
 ## Baralho
 - O baralho contem 52 cartas
 - 4 naipes
 - 13 Numerações de 2 ate A
-
 ## Numerações
 ![[jogo-baralho-54-cartas-papel-ns250091-1-removebg-preview.png]]
 No poker as cartas com imagens são as maiores, são elas, (A, K, Q, J) onde o Ás é a maior carta seguida pelo Rei, Dama e Valete, o 2 é a menor e assim por diante.
-
 ## As Cartas
 
 - Cada jogador terá 2 cartas em mão, só ele pode ver ou usar;
@@ -21,9 +18,20 @@ No poker as cartas com imagens são as maiores, são elas, (A, K, Q, J) onde o �
 	- 20 de 5
 	- 10 de 25
 	- 10 de 50
-	- 2 de 100
-
+	- 2 de 100 
 ## Estrutura do Jogo
 
 - O Dealer é responsável por distribuir as cartas para os jogadores e as cartas comunitárias, alem de mostrar as cartas da mesa.
-- Antes de virar as 3 primeiras cartas deve ser feito a aposta inicial, apos isso é possível fazer as 3 ações
+- Antes de virar as 3 primeiras cartas deve ser feito a aposta inicial, apos isso é possível fazer as 3 ações Pagar, Aumentar ou Foldar.
+- Depois de todas as ações de todos os jogadores, o Dealer devera aplicar o Flop (Virar as 3 primeiras cartas da mesa)
+- Após o jogador 
+## Hand Rankings
+
+![[Pasted image 20240814213249.png]]![[Pasted image 20240814214449.png]]
+![[Pasted image 20240814214500.png]]
+![[Pasted image 20240814214514.png]]
+![[Pasted image 20240814214529.png]]
+![[Pasted image 20240814214541.png]]
+![[Pasted image 20240814214554.png]]
+![[Pasted image 20240814214605.png]]
+![[Pasted image 20240814214618.png]]
