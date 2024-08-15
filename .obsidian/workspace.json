@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ad7d43cedd485cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poker Como Jogar (Texas Hold´Em).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Banco de Dados.md"
+                "file": "Poker Como Jogar (Texas Hold´Em).md"
               }
             }
           },
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Banco de Dados.md",
+                "file": "Poker Como Jogar (Texas Hold´Em).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Banco de Dados.md",
+                "file": "Poker Como Jogar (Texas Hold´Em).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "385fef8dd473217b",
+  "active": "0ad7d43cedd485cb",
   "lastOpenFiles": [
-    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+    "jogo-baralho-54-cartas-papel-ns250091-1-removebg-preview.png",
     "RediUX/Banco de Dados.md",
+    "Poker Como Jogar (Texas Hold´Em).md",
+    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
     "Freela-HomeLife/Sem título 1.md",
     "Projeto - TodoTask/Roteiro de Testes.md",
     "RediUX/Reunião 7 de Junho.md",
@@ -228,8 +243,6 @@
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito?.md",
     "Daily/23-04-24.md",
     "Projeto - Minhas Contas/Questoes Requisitos",
-    "Daily/22-04-24.md",
-    "Daily/19-04-24.md",
     "Daily",
     "RediUX",
     "Resumos - Livros",
