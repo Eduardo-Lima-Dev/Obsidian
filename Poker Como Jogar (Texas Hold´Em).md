@@ -19,12 +19,15 @@ No poker as cartas com imagens são as maiores, são elas, (A, K, Q, J) onde o �
 	- 10 de 25
 	- 10 de 50
 	- 2 de 100 
+- Se nenhuma mão tem qualquer combinação (Será mostrado abaixo), a mao com maior carta ganhará.
 ## Estrutura do Jogo
 
 - O Dealer é responsável por distribuir as cartas para os jogadores e as cartas comunitárias, alem de mostrar as cartas da mesa.
 - Antes de virar as 3 primeiras cartas deve ser feito a aposta inicial, apos isso é possível fazer as 3 ações Pagar, Aumentar ou Foldar.
-- Depois de todas as ações de todos os jogadores, o Dealer devera aplicar o Flop (Virar as 3 primeiras cartas da mesa)
-- Após o jogador 
+- Depois de todas as ações de todos os jogadores, o Dealer devera aplicar o Flop (Virar as 3 primeiras cartas da mesa).
+- Após, o jogador à esquerda do Dealer deverá pedir Mesa (Passar) ou Apo;star e assim ate o ultimo jogador, então o Dealer faz o Turn (Vira a 4 carta da mesa).
+- Novamente, o jogador à esquerda do Dealer deverá pedir Mesa (Passar) ou Apostar e assim ate o ultimo jogador, então o Dealer faz o River (Vira a 5 carta da mesa).
+- Ultima rodada de apostas, depois da ação de todos os jogadores, os que ainda estiverem jogando revelam suas mãos (Showdown) para ver quem ganhou as fichas da mesa.
 ## Hand Rankings
 
 ![[Pasted image 20240814213249.png]]![[Pasted image 20240814214449.png]]
@@ -35,3 +38,7 @@ No poker as cartas com imagens são as maiores, são elas, (A, K, Q, J) onde o �
 ![[Pasted image 20240814214554.png]]
 ![[Pasted image 20240814214605.png]]
 ![[Pasted image 20240814214618.png]]
+
+
+
+Creditos: Duduh
