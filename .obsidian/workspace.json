@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b413c21491f1130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treinos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Banco de Dados.md"
+                "file": "Treinos.md"
               }
             }
           },
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RediUX/Banco de Dados.md",
+                "file": "Treinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Banco de Dados.md",
+                "file": "Treinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +197,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "2b413c21491f1130",
   "lastOpenFiles": [
+    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+    "RediUX/Banco de Dados.md",
+    "Treinos.md",
     "25-08-24.md",
     "RediUX/ModeloCard.excalidraw.md",
     "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
     "Poker Como Jogar (Texas Hold´Em).md",
     "Sem título.canvas",
-    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
     "Imagens/Pasted image 20240814213249.png",
     "Imagens/Pasted image 20240814214618.png",
     "Imagens/Pasted image 20240814214605.png",
@@ -203,7 +217,6 @@
     "Imagens/Pasted image 20240814214500.png",
     "Imagens/Pasted image 20240814214449.png",
     "Imagens/jogo-baralho-54-cartas-papel-ns250091-1-removebg-preview.png",
-    "RediUX/Banco de Dados.md",
     "Freela-HomeLife/Sem título 1.md",
     "Projeto - TodoTask/Roteiro de Testes.md",
     "RediUX/Reunião 7 de Junho.md",
@@ -229,7 +242,6 @@
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito não funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O  que é um requisito Funcional?.md",
     "Projeto - Minhas Contas/Questoes Requisitos/O que é um requisito?.md",
-    "Daily/23-04-24.md",
     "Projeto - Minhas Contas/Questoes Requisitos",
     "Daily",
     "RediUX",
