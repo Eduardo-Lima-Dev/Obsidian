@@ -8,45 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36e3891e6a71be6e",
+            "id": "6f13fd460ebd8066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+                "file": "TCC - Apresentação.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cc071619ab4165a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freela-HomeLife/Briefing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bb46b9c1db24f3a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "cd839d0380823fa9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -117,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md"
+                "file": "TCC - Apresentação.md"
               }
             }
           },
@@ -127,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+                "file": "TCC - Apresentação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+                "file": "TCC - Apresentação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,15 +174,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36e3891e6a71be6e",
+  "active": "6f13fd460ebd8066",
   "lastOpenFiles": [
+    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
+    "TCC - Apresentação.md",
     "Fluxo de Desenvimento.png",
     "Pasted image 20240916170022.png",
     "Freela-HomeLife/Briefing.md",
     "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Excalidraw",
-    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
     "Freela-HomeLife/Documento de Requisitos.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Treinos.md",
@@ -230,7 +201,6 @@
     "Imagens/Pasted image 20240814214529.png",
     "Imagens/Pasted image 20240814214514.png",
     "Imagens/Pasted image 20240814214500.png",
-    "Imagens/Pasted image 20240814214449.png",
     "Freela-HomeLife/Sem título 1.md",
     "Projeto - TodoTask/Roteiro de Testes.md",
     "RediUX/Reunião 7 de Junho.md",
