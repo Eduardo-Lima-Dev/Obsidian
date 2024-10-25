@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45780d06cfb82bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dominio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCC - Apresentação.md"
+                "file": "Dominio.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCC - Apresentação.md",
+                "file": "Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCC - Apresentação.md",
+                "file": "Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f13fd460ebd8066",
+  "active": "45780d06cfb82bed",
   "lastOpenFiles": [
-    "PIN Hydra.md",
     "TCC - Apresentação.md",
+    "Dominio.md",
+    "PIN Hydra.md",
     "Freela-HomeLife/Reunião Dia 01 de Junho.md",
     "Fluxo de Desenvimento.png",
     "Pasted image 20240916170022.png",
@@ -215,7 +229,6 @@
     "RediUX/RediUXModelos.excalidraw.md",
     "Daily/17-05-24.md",
     "Daily/10-05-24.md",
-    "Daily/08-05-24.md",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
     "RediUX/Recuperar Senha Front.canvas",
