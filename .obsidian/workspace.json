@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Horario"
             }
+          },
+          {
+            "id": "bbab106e493ed437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumos Aula 1 & 2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Horario.md"
+                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Horario"
+              "title": "Sumário de Resumos Aula 1 & 2"
             }
           },
           {
@@ -155,8 +169,29 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "00a95a4eb1b1c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "ad48ed76e3caefdb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "fc5e30b4ece8ec94",
@@ -169,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Horario.md",
+                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +214,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Horario"
+              "title": "Links inversos para Resumos Aula 1 & 2"
             }
           }
         ]
@@ -203,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +251,18 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "markdown-importer:Abrir importador Markdown": false,
       "publish:Publicar mudanças": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "db4c1808eed33a3d",
+  "active": "bbab106e493ed437",
   "lastOpenFiles": [
+    "smart-chats",
     "Horario.md",
+    "Universidade/Gerencia/Resumos Aula 1 & 2.md",
+    "Universidade/Gerencia",
+    "Universidade",
     "Dominio.md",
     "TCC - Apresentação.md",
     "PIN Hydra.md",
@@ -261,15 +301,12 @@
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Projeto - TodoTask",
     "Imagens",
-    "RediUX/RediUXModelos.excalidraw.md",
-    "Daily/17-05-24.md",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
     "RediUX/Recuperar Senha Front.canvas",
     "Projeto - Minhas Contas/Questoes Requisitos",
     "Daily",
     "RediUX",
-    "Resumos - Livros",
-    "Projeto - Minhas Contas"
+    "Resumos - Livros"
   ]
 }
