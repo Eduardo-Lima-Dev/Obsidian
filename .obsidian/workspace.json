@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0b832718a5453c63",
+        "id": "cdde233d0f98bc62",
         "type": "tabs",
         "children": [
           {
-            "id": "6f13fd460ebd8066",
+            "id": "442c78bc6ad128e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCC - Apresentação.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TCC - Apresentação"
-            }
-          },
-          {
-            "id": "45780d06cfb82bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dominio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dominio"
-            }
-          },
-          {
-            "id": "db4c1808eed33a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horario.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Horario"
-            }
-          },
-          {
-            "id": "bbab106e493ed437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumos Aula 1 & 2"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Motivo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.51103591918945
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -129,18 +82,16 @@
       {
         "id": "146bc1cca5233a87",
         "type": "tabs",
-        "dimension": 38.72216844143272,
+        "dimension": 22.210953346855984,
         "children": [
           {
             "id": "dc28f0542a73401e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Resumos Aula 1 & 2"
+              "title": "Sumário"
             }
           },
           {
@@ -169,34 +120,14 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "00a95a4eb1b1c9c3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "ad48ed76e3caefdb",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "fc5e30b4ece8ec94",
         "type": "tabs",
-        "dimension": 26.91190706679574,
+        "dimension": 33.46855983772819,
         "children": [
           {
             "id": "5b3c6f8044a5ead5",
@@ -204,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/Gerencia/Resumos Aula 1 & 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Resumos Aula 1 & 2"
+              "title": "Backlinks"
             }
           }
         ]
@@ -222,7 +152,7 @@
       {
         "id": "9c974f6f87ecbb70",
         "type": "tabs",
-        "dimension": 34.36592449177154,
+        "dimension": 44.32048681541582,
         "children": [
           {
             "id": "149ce8d308af5989",
@@ -238,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,34 +183,41 @@
       "publish:Publicar mudanças": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bbab106e493ed437",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
-    "smart-chats",
-    "Horario.md",
+    "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
+    "Soltos/Horario.md",
+    "Universidade/TCC",
+    "Universidade/Sem título.md",
+    "Soltos/Dominio.md",
+    "Universidade/Redes",
+    "Universidade/Logica",
+    "Soltos/Fluxo de Desenvimento.png",
     "Universidade/Gerencia/Resumos Aula 1 & 2.md",
+    "Soltos",
+    "Universidade/PAA",
+    "smart-chats",
     "Universidade/Gerencia",
     "Universidade",
-    "Dominio.md",
-    "TCC - Apresentação.md",
-    "PIN Hydra.md",
+    "Soltos/TCC - Apresentação.md",
+    "Soltos/PIN Hydra.md",
     "Freela-HomeLife/Reunião Dia 01 de Junho.md",
-    "Fluxo de Desenvimento.png",
     "Pasted image 20240916170022.png",
     "Freela-HomeLife/Briefing.md",
-    "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Excalidraw",
     "Freela-HomeLife/Documento de Requisitos.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
-    "Treinos.md",
+    "Soltos/Treinos.md",
     "RediUX/Banco de Dados.md",
     "25-08-24.md",
     "RediUX/ModeloCard.excalidraw.md",
     "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
-    "Poker Como Jogar (Texas Hold´Em).md",
+    "Soltos/Poker Como Jogar (Texas Hold´Em).md",
     "Sem título.canvas",
     "Imagens/Pasted image 20240814213249.png",
     "Imagens/Pasted image 20240814214618.png",
@@ -298,15 +235,8 @@
     "Projeto - Minhas Contas/Ideia Principal.md",
     "Projeto - Minhas Contas/Perguntas para Questionário.md",
     "Freela-HomeLife",
-    "Projeto - Minhas Contas/Documentação do Aplicativo.md",
-    "Projeto - TodoTask",
-    "Imagens",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
-    "RediUX/Recuperar Senha Front.canvas",
-    "Projeto - Minhas Contas/Questoes Requisitos",
-    "Daily",
-    "RediUX",
-    "Resumos - Livros"
+    "RediUX/Recuperar Senha Front.canvas"
   ]
 }
