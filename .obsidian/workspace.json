@@ -82,7 +82,7 @@
       {
         "id": "146bc1cca5233a87",
         "type": "tabs",
-        "dimension": 22.210953346855984,
+        "dimension": 28.29614604462475,
         "children": [
           {
             "id": "dc28f0542a73401e",
@@ -100,12 +100,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Horario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Horario"
+              "title": "Links de saída"
             }
           },
           {
@@ -120,14 +119,24 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "2148639ebd8d7839",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "fc5e30b4ece8ec94",
         "type": "tabs",
-        "dimension": 33.46855983772819,
+        "dimension": 35.39553752535497,
         "children": [
           {
             "id": "5b3c6f8044a5ead5",
@@ -152,7 +161,7 @@
       {
         "id": "9c974f6f87ecbb70",
         "type": "tabs",
-        "dimension": 44.32048681541582,
+        "dimension": 36.308316430020284,
         "children": [
           {
             "id": "149ce8d308af5989",
@@ -184,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "2148639ebd8d7839",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Soltos/Horario.md",
