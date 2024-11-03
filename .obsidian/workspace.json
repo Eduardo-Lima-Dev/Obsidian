@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soltos/Atividade.md",
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividade"
+              "title": "Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Atividade.md"
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Atividade"
+              "title": "Sumário de Introdução à Gerência de Configuração de Software (GC)"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soltos/Atividade.md",
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Atividade"
+              "title": "Links inversos para Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ]
@@ -203,13 +203,13 @@
   },
   "active": "442c78bc6ad128e7",
   "lastOpenFiles": [
+    "Soltos/Atividade.md",
     "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
     "29-10-24.md",
     "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Soltos/Horario.md",
     "Universidade/TCC",
     "Universidade/Sem título.md",
-    "Soltos/Atividade.md",
     "Universidade/Redes",
     "Universidade/Logica",
     "Soltos/Fluxo de Desenvimento.png",
