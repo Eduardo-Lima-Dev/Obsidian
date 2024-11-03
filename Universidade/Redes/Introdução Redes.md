@@ -41,7 +41,7 @@
     - **Rede**: realiza o roteamento de pacotes (IP e protocolos de roteamento).
     - **Enlace e Física**: cuida da transmissão de dados entre elementos vizinhos e da transferência de bits nos canais físicos (ex.: Ethernet).
 
-![[Pasted image 20241103152044.png]]
+![[Pasted image 20241103152044.png|450]]
 ### 8. **Encapsulamento de Dados**
 
 - O encapsulamento é o processo pelo qual cada camada adiciona seu próprio cabeçalho ao dado antes de enviá-lo para a próxima camada, permitindo que as informações sejam adequadamente processadas na rede.
