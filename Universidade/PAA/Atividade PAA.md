@@ -28,8 +28,6 @@ Simplificação:
 $$
 T(n)=O(n)
 $$
-
-
 2. **Escreva um algoritmo para inserir um elemento em um vetor ordenado contendo n elementos (supondo o tamanho máximo do vetor m >> n), de tal modo que após a inserção ele continue ordenado. Depois determine a complexidade desse seu algoritmo em relação ao melhor e pior caso.**
 
 ```C

@@ -31,7 +31,7 @@ Um **algoritmo** é uma sequência de passos bem definidos que recebe uma entrad
 
 ### 4. **Complexidade de Algoritmos**
 
-A **complexidade de um algoritmo** expressa o número de operações elementares que ele executa em função do tamanho da entrada. A função T(n)T(n)T(n) é usada para representar o tempo de execução em função de nnn, onde nnn é o tamanho da entrada. Cada operação fundamental do algoritmo é considerada um "passo" com tempo constante, como:
+A **complexidade de um algoritmo** expressa o número de operações elementares que ele executa em função do tamanho da entrada. A função `T(n)` é usada para representar o tempo de execução em função de `n`, onde `n` é o tamanho da entrada. Cada operação fundamental do algoritmo é considerada um "passo" com tempo constante, como:
 
 - **Atribuição** (definir um valor para uma variável)
 - **Soma** e **multiplicação**
@@ -51,13 +51,13 @@ A complexidade de um algoritmo pode ser **analisada de três maneiras**:
 
 - **Soma de um Vetor**: Um algoritmo que percorre um vetor para somar todos os elementos. Neste caso:
     
-    - O tempo para somar o vetor cresce linearmente com nnn (o tamanho do vetor).
-    - A função de complexidade para este caso é linear, representada como T(n)=2n+3T(n) = 2n + 3T(n)=2n+3, indicando que o tempo de execução aumenta proporcionalmente com o tamanho do vetor.
+    - O tempo para somar o vetor cresce linearmente com `n` (o tamanho do vetor).
+    - A função de complexidade para este caso é linear, representada como `T(n) = 2n + 3`, indicando que o tempo de execução aumenta proporcionalmente com o tamanho do vetor.
 - **Busca Sequencial**:
     
-    - Melhor caso: o elemento buscado está na primeira posição, então o algoritmo realiza poucas comparações.
-    - Pior caso: o elemento está na última posição ou não está no vetor, fazendo o algoritmo percorrer todos os elementos.
-    - Caso médio: requer uma análise probabilística para determinar o tempo médio esperado, considerando que o elemento pode estar em qualquer posição.
+    - **Melhor caso:** o elemento buscado está na primeira posição, então o algoritmo realiza poucas comparações.
+    - **Pior caso:** o elemento está na última posição ou não está no vetor, fazendo o algoritmo percorrer todos os elementos.
+    - **Caso médio:** requer uma análise probabilística para determinar o tempo médio esperado, considerando que o elemento pode estar em qualquer posição.
 
 ### 7. **Por Que Analisar Algoritmos?**
 

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiIndent",
       "LiImages",
       "LiDatabase",
       "LiBookA",
@@ -35,5 +36,6 @@
   "Universidade": "LiUniversity",
   "Resumos - Livros": "LiBookA",
   "Projeto - TodoTask": "LiDatabase",
-  "Imagens": "LiImages"
+  "Imagens": "LiImages",
+  "Sumario.md": "LiIndent"
 }
