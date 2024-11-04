@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/PAA/Análise de Algoritimos.md",
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise de Algoritimos"
+              "title": "Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ],
@@ -125,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/PAA/Análise de Algoritimos.md"
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Análise de Algoritimos"
+              "title": "Sumário de Introdução à Gerência de Configuração de Software (GC)"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/PAA/Análise de Algoritimos.md",
+                "file": "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Análise de Algoritimos"
+              "title": "Links inversos para Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ]
@@ -232,10 +232,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "23f86d5a30a84356",
   "lastOpenFiles": [
-    "Universidade/PAA/Atividade PAA.md",
     "Universidade/PAA/Análise de Algoritimos.md",
+    "Universidade/PAA/Atividade PAA.md",
     "Sumario.md",
     "Universidade/Redes/Introdução Redes.md",
     "Universidade/Redes/Camada Aplicação.md",
