@@ -64,4 +64,4 @@ A complexidade de um algoritmo pode ser **analisada de três maneiras**:
 A análise de algoritmos permite escolher o mais eficiente para um determinado problema, especialmente em sistemas com restrições de tempo e espaço. A análise fornece uma visão independente do ambiente em que o algoritmo será executado (hardware, linguagem, etc.), tornando a comparação entre diferentes algoritmos mais justa e precisa.
 
 > [!Camada Aplicação] Próximo Assunto 
-> [[Atividade PAA|Atividade PAA]]
+> [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]

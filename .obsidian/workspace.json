@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/PAA/Atividade 2.md",
+                "file": "Universidade/PAA/Lista de Exercı́cios 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividade 2"
+              "title": "Lista de Exercı́cios 2"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/PAA/Atividade 2.md"
+                "file": "Universidade/PAA/Lista de Exercı́cios 2.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Atividade 2"
+              "title": "Sumário de Lista de Exercı́cios 2"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/PAA/Atividade 2.md",
+                "file": "Universidade/PAA/Lista de Exercı́cios 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Atividade 2"
+              "title": "Links inversos para Lista de Exercı́cios 2"
             }
           }
         ]
@@ -220,12 +220,12 @@
   },
   "active": "9104b9aefc5a3329",
   "lastOpenFiles": [
+    "Universidade/PAA/Lista de Exercı́cios 1.md",
+    "Universidade/PAA/Lista de Exercı́cios 2.md",
     "Universidade/PAA/Análise de Algoritimos.md",
-    "Universidade/PAA/Atividade 2.md",
     "RediUX/Encontros Universitarios/Artigo.md",
     "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
     "RediUX/Encontros Universitarios",
-    "Universidade/PAA/Atividade PAA.md",
     "Sumario.md",
     "Universidade/Redes/Introdução Redes.md",
     "Universidade/Redes/Camada Aplicação.md",
