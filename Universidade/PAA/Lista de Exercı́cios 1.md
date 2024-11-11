@@ -58,3 +58,6 @@ Simplificação:
 $$
 T(n)=O(n)
 $$
+
+> [!Camada Aplicação] Próximo Assunto 
+> [[Lista de Exercı́cios 2]]
