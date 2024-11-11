@@ -64,9 +64,23 @@
               "icon": "lucide-file",
               "title": "Artigo"
             }
+          },
+          {
+            "id": "9104b9aefc5a3329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidade/PAA/Atividade 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atividade 2"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RediUX/Encontros Universitarios/Artigo.md"
+                "file": "Universidade/PAA/Atividade 2.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Artigo"
+              "title": "Sumário de Atividade 2"
             }
           },
           {
@@ -194,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RediUX/Encontros Universitarios/Artigo.md",
+                "file": "Universidade/PAA/Atividade 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Artigo"
+              "title": "Links inversos para Atividade 2"
             }
           }
         ]
@@ -246,12 +260,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b70e0367fc14996f",
+  "active": "9104b9aefc5a3329",
   "lastOpenFiles": [
-    "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
-    "RediUX/Encontros Universitarios/Artigo.md",
-    "RediUX/Encontros Universitarios",
     "Universidade/PAA/Análise de Algoritimos.md",
+    "Universidade/PAA/Atividade 2.md",
+    "RediUX/Encontros Universitarios/Artigo.md",
+    "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
+    "RediUX/Encontros Universitarios",
     "Universidade/PAA/Atividade PAA.md",
     "Sumario.md",
     "Universidade/Redes/Introdução Redes.md",
@@ -287,7 +302,6 @@
     "RediUX/Banco de Dados.md",
     "25-08-24.md",
     "RediUX/ModeloCard.excalidraw.md",
-    "RediUX/Drawing 2024-05-10 12.23.04.excalidraw.md",
     "Sem título.canvas",
     "Imagens/Pasted image 20240814213249.png",
     "Imagens/Pasted image 20240814214618.png",
