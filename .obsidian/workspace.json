@@ -103,7 +103,7 @@
       {
         "id": "146bc1cca5233a87",
         "type": "tabs",
-        "dimension": 41.50743099787686,
+        "dimension": 41.50743099787687,
         "children": [
           {
             "id": "dc28f0542a73401e",
@@ -220,7 +220,6 @@
       "publish:Publicar mudanças": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "copilot:Copilot Chat": false,
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
