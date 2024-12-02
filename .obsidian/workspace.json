@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/Gerencia/Aula 3 - Repositórios.md",
+                "file": "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 3 - Repositórios"
+              "title": "Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ],
@@ -103,7 +103,7 @@
       {
         "id": "146bc1cca5233a87",
         "type": "tabs",
-        "dimension": 28.29614604462475,
+        "dimension": 41.50743099787686,
         "children": [
           {
             "id": "dc28f0542a73401e",
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Gerencia/Aula 3 - Repositórios.md"
+                "file": "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula 3 - Repositórios"
+              "title": "Sumário de Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC)"
             }
           },
           {
@@ -144,16 +144,6 @@
             }
           },
           {
-            "id": "2148639ebd8d7839",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "366dd631e90af549",
             "type": "leaf",
             "state": {
@@ -167,12 +157,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "fc5e30b4ece8ec94",
         "type": "tabs",
-        "dimension": 35.39553752535497,
+        "dimension": 22.18683651804671,
         "children": [
           {
             "id": "5b3c6f8044a5ead5",
@@ -180,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/Gerencia/Aula 3 - Repositórios.md",
+                "file": "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aula 3 - Repositórios"
+              "title": "Links inversos para Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC)"
             }
           }
         ]
@@ -198,7 +189,7 @@
       {
         "id": "9c974f6f87ecbb70",
         "type": "tabs",
-        "dimension": 36.308316430020284,
+        "dimension": 36.30573248407643,
         "children": [
           {
             "id": "149ce8d308af5989",
@@ -233,18 +224,21 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "ab4e861f48bcf99f",
+  "active": "366dd631e90af549",
   "lastOpenFiles": [
-    "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
-    "Universidade/Gerencia/Introdução à Gerência de Configuração de Software (GC).md",
+    "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
+    "Universidade/Gerencia/Aula 5 - Resolvendo conﬂitos.md",
+    "Universidade/Gerencia/Aula 6 - Administrando alterações.md",
+    "Universidade/Gerencia/Aula 7 & 8 - Gerenciamento de release.md",
+    "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
+    "Modelos/Modelo GC.md",
     "Sumario.md",
     "Universidade/Gerencia/Sem título.md",
     "Universidade/PAA/Notação Assintótica.md",
     "Universidade/PAA/Análise de Algoritimos.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Logica.md",
-    "Modelos/Modelo GC.md",
     "Modelos/Modelo PAA.md",
     "Universidade/Redes/Introdução Redes.md",
     "Universidade/Redes/Camada de Transporte.md",
@@ -271,9 +265,6 @@
     "smart-chats",
     "Universidade/Gerencia",
     "Universidade",
-    "Soltos/TCC - Apresentação.md",
-    "Soltos/PIN Hydra.md",
-    "Freela-HomeLife/Reunião Dia 01 de Junho.md",
     "Pasted image 20240916170022.png",
     "Sem título.canvas",
     "Imagens/Pasted image 20240814213249.png",

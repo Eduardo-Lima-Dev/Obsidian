@@ -121,5 +121,8 @@ tipo: Revisão
 
 ---
 
-> [!Camada Aplicação] Próximo Assunto 
-> [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
+> [!Camada Aplicação] Próximos Assuntos 
+> [[Aula 4 - Branches e Merge]]
+> [[Aula 5 - Resolvendo conﬂitos]]
+> [[Aula 6 - Administrando alterações]]
+> [[Aula 7 & 8 - Gerenciamento de release]]

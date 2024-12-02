@@ -5,5 +5,5 @@ materia: GC
 tipo: Revisão
 ---
 
-> [!Camada Aplicação] Próximo Assunto 
+> [!Camada Aplicação] Próximos Assuntos 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
