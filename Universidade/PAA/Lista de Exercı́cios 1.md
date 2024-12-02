@@ -3,6 +3,7 @@ tags:
   - Universidade
 materia: PAA
 estado: Concluído
+tipo: Atividade
 ---
 1. **Escreva um algoritmo que testa se uma vetor de tamanho n esta ordenado. Depois determine a complexidade desse seu algoritmo em relação ao melhor e pior caso.**
 

@@ -2,6 +2,7 @@
 tags:
   - Universidade
 materia: PAA
+tipo: Revisão
 ---
 ### 1. **Objetivo da Análise de Algoritmos**
 

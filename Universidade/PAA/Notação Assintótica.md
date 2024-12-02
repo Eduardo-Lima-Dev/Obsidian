@@ -2,6 +2,7 @@
 tags:
   - Universidade
 materia: PAA
+tipo: Revisão
 ---
 ## Notação Assintótica
 É uma abstração que permite focar no que ocorre com $f(n)$ quando $n$ cresce indefinidamente.
@@ -44,7 +45,9 @@ $$
 -  Significa que **$f(n) \ é \ O(g(n))$**
 
 ### $G_3$
-
+- $f(n) \ não \ é \ O(\sqrt{n})$
+- $f(n) \ não \ é \ O(\log n)$
+- $f(n) \ não \ é \ O(1)$
 
 
 > [!Camada Aplicação] Próximo Assunto 

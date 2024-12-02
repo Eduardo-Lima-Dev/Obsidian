@@ -3,6 +3,7 @@ tags:
   - Universidade
 materia: PAA
 estado: Concluído
+tipo: Atividade
 ---
 9. **É verdade que $2^{n+1} = O(2^n)$? E $2^{2n} = O(2^n)$?**
 => Analisando as afirmações

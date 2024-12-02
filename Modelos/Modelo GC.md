@@ -1,7 +1,7 @@
 ---
 tags:
   - Universidade
-materia: PAA
+materia: GC
 tipo: Revisão
 ---
 

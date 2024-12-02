@@ -1,3 +1,9 @@
+---
+tags:
+  - Universidade
+materia: GC
+tipo: Revisão
+---
 
 ## Conceitos e Importância
 
