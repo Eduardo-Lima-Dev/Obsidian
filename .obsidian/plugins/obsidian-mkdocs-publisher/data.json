@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "Luiz-Eduardo-BL",
+    "repo": "Obsidian",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
