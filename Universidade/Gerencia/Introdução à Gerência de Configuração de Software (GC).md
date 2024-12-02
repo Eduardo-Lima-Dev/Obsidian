@@ -48,3 +48,6 @@ tipo: Revisão
 - **Definição**: Processo para garantir que mudanças no projeto sejam construídas e testadas rapidamente após serem introduzidas, facilitando o feedback e minimizando problemas de integração.
 - Integração contínua geralmente utiliza ferramentas que detectam mudanças no repositório e disparam uma nova build para testes.
 
+
+> [!Camada Aplicação] Próximo Assunto 
+> [[Aula 3 - Repositórios]]
