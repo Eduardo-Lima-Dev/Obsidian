@@ -8,7 +8,7 @@
       "enable": false,
       "folderName": "github-publisher"
     },
-    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "tokenPath": ".obsidian/plugins/obsidian-mkdocs-publisher/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
