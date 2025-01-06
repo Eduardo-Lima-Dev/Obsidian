@@ -37,7 +37,8 @@
               "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumario.md"
+                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sumario"
+              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           },
           {
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumario.md",
+                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sumario"
+              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
         ]
@@ -222,10 +223,10 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "4a60c60d603c22a5",
+  "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
-    "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Sumario.md",
+    "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Modelos/Modelo Roteiros.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo Redes.md",
