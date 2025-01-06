@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "Vieos/Vídeo sobre Hobbies.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,7 +223,7 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
     "Modelos/Modelo Roteiros.md",
     "Vieos/Vídeo sobre Hobbies.md",
