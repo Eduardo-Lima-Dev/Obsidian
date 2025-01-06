@@ -20,7 +20,7 @@ estado: Nao Gravado
 
 ## **3. Variedade de Hobbies: Uma Breve Jornada (1:20 - 6:00)**  
 ### **a) Esportes e Movimento:**  
-"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo, presente. É como em **Haikyuu!!**, onde cada salto e esforço são movidos por paixão. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como treinar para um Kamehameha no mundo real."
+"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo. É como em **Haikyuu!!**, onde cada salto e esforço são movidos por paixão. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como treinar para um Torneio do Dragon Ball classico no mundo real."
 
 ### **b) Pilotar e Dirigir:**  
 *"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."*
