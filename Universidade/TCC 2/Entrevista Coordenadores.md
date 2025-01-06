@@ -9,6 +9,7 @@ tipo: Atividade
 ## 3. Qual as maiores dificuldades que os alunos reclamam em relação a progressão no curso?
 ## 4. O que geralmente causa mais atraso nas progressões dos alunos?
 ## 5. O que você acredita que seria o ideal para a melhoria dessa organização dos alunos?
-## 6. Se um aluno precisar organizar as materias do semestre, ele pode vi
+## 6. Se um aluno precisar organizar as matérias do semestre, ele pode vir e procurar você para isso?
+## 7. Qual logica você costuma utilizar para ajudar esses alunos a organizar 
 > [!Camada Aplicação] Próximos Assuntos 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
