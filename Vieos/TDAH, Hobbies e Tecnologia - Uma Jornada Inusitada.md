@@ -32,7 +32,7 @@ estado: Nao Gravado
 *"Cozinhar é um ato de amor. É onde a técnica se encontra com a arte. Quando coloco os ingredientes na panela, penso: 'O que estou criando aqui?' E, às vezes, isso reflete a vida. Nem sempre sai como planejado, mas ainda pode ser incrível."*
 
 ### **e) Desenvolvimento de Software:**  
-*"Programar é um hobby que virou uma extensão do meu trabalho, mas com um toque especial. É como montar um quebra-cabeça infinito, onde você é tanto o criador quanto o solucionador. Quando resolvo um bug ou construo algo novo, é como vencer um boss em um jogo. Aliás, programar me lembra muito o treinamento do Gohan em **Dragon Ball*: trabalho árduo com um toque de criatividade."**
+*"Programar é um hobby que virou uma extensão do meu trabalho, mas com um toque especial. É como montar um quebra-cabeça infinito, onde você é tanto cria quanto resolve. Quando resolvo um bug (Geralmente eu mesmo criei kkkkk) ou construo algo novo, é como vencer um boss em um jogo. Aliás, programar me lembra muito o treinamento do Gohan em **Dragon Ball*: trabalho árduo com um toque de criatividade."***
 
 ### **f) Criatividade e Expressão:**  
 *"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
