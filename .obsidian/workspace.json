@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vieos/Vídeo sobre Hobbies.md",
+                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vídeo sobre Hobbies"
+              "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vieos/Vídeo sobre Hobbies.md"
+                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Vídeo sobre Hobbies"
+              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vieos/Vídeo sobre Hobbies.md",
+                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Vídeo sobre Hobbies"
+              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
         ]
@@ -226,7 +226,7 @@
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
     "Modelos/Modelo Roteiros.md",
-    "Vieos/Vídeo sobre Hobbies.md",
+    "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo PAA.md",
