@@ -14,13 +14,13 @@ estado: Nao Gravado
 ---
 
 ## **2. O TDAH e a Filosofia dos Hobbies (0:20 - 1:20)**  
-*"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: * 'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.'* No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."*
+*"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: * 'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.' * No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."*
 
 ---
 
 ## **3. Variedade de Hobbies: Uma Breve Jornada (1:20 - 5:30)**  
 ### **a) Esportes e Movimento:**  
-*"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma cortada me faz sentir vivo, presente. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como colocar um tijolo por vez na construção de algo maior."*  
+*"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo, presente. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como colocar um tijolo por vez na construção de algo maior."*  
 
 ### **b) Pilotar e Dirigir:**  
 *"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."*  
