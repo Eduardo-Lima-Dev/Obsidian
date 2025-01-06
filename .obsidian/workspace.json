@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
+          },
+          {
+            "id": "eb9dd0feb537cd89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelos/Modelo TCC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo TCC"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumario.md"
+                "file": "Modelos/Modelo TCC.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sumario"
+              "title": "Sumário de Modelo TCC"
             }
           },
           {
@@ -156,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sumario.md",
+                "file": "Modelos/Modelo TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sumario"
+              "title": "Links inversos para Modelo TCC"
             }
           }
         ]
@@ -208,17 +223,18 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "4a60c60d603c22a5",
+  "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
-    "Soltos/Horario - Aulas e Estudos.md",
+    "Modelos/Modelo GC.md",
+    "Modelos/Modelo TCC.md",
     "Sumario.md",
+    "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
     "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
     "Universidade/Gerencia/Aula 5 - Resolvendo conﬂitos.md",
     "Universidade/Gerencia/Aula 6 - Administrando alterações.md",
     "Universidade/Gerencia/Aula 7 & 8 - Gerenciamento de release.md",
-    "Modelos/Modelo GC.md",
     "Universidade/Gerencia/Sem título.md",
     "Universidade/PAA/Notação Assintótica.md",
     "Universidade/PAA/Análise de Algoritimos.md",
@@ -240,7 +256,6 @@
     "29-10-24.md",
     "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Universidade/TCC 2",
-    "Universidade/Sem título.md",
     "Universidade/Redes",
     "Universidade/Logica",
     "Soltos/Fluxo de Desenvimento.png",
