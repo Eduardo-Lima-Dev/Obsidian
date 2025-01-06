@@ -10,6 +10,7 @@ tipo: Atividade
 ## 4. O que geralmente causa mais atraso nas progressões dos alunos?
 ## 5. O que você acredita que seria o ideal para a melhoria dessa organização dos alunos?
 ## 6. Se um aluno precisar organizar as matérias do semestre, ele pode vir e procurar você para isso?
-## 7. Qual logica você costuma utilizar para ajudar esses alunos a organizar 
+## 7. Qual logica você costuma utilizar para ajudar esses alunos a organizar as atividades e as matérias do semestre?
+
 > [!Camada Aplicação] Próximos Assuntos 
-> [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
+> [[Forms Alunos]]
