@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
+                "file": "Modelos/Modelo TCC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro de Entrevista - Coordenadores"
+              "title": "Modelo TCC"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md"
+                "file": "Modelos/Modelo TCC.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Entrevista - Coordenadores"
+              "title": "Sumário de Modelo TCC"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
+                "file": "Modelos/Modelo TCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro de Entrevista - Coordenadores"
+              "title": "Links inversos para Modelo TCC"
             }
           }
         ]
@@ -225,11 +225,14 @@
   },
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
-    "Universidade/TCC 2/Forms Alunos.md",
+    "Modelos/Modelo Redes.md",
+    "Modelos/Modelo PAA.md",
+    "Modelos/Modelo GC.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
+    "Vieos",
+    "Universidade/TCC 2/Forms Alunos.md",
     "Sumario.md",
     "Modelos/Modelo TCC.md",
-    "Modelos/Modelo GC.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
@@ -240,9 +243,7 @@
     "Universidade/Gerencia/Sem título.md",
     "Universidade/PAA/Notação Assintótica.md",
     "Universidade/PAA/Análise de Algoritimos.md",
-    "Modelos/Modelo Redes.md",
     "Modelos/Modelo Logica.md",
-    "Modelos/Modelo PAA.md",
     "Universidade/Redes/Introdução Redes.md",
     "Universidade/Redes/Camada de Transporte.md",
     "Universidade/Redes/Camada Aplicação.md",
@@ -254,7 +255,6 @@
     "HTTP (Hypertext Transfer Protocol).md",
     "image-removebg-preview.png",
     "Imagens/Pasted image 20241103152044.png",
-    "Soltos/Atividade.md",
     "Universidade/TCC 2",
     "Universidade/Redes",
     "Universidade/Logica",
@@ -263,7 +263,6 @@
     "Universidade/PAA",
     "smart-chats",
     "Universidade/Gerencia",
-    "Universidade",
     "Pasted image 20240916170022.png",
     "Sem título.canvas",
     "Imagens/Pasted image 20240814213249.png",

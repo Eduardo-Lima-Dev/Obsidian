@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAperture",
       "LiIndent",
       "LiImages",
       "LiDatabase",
-      "LiBookA",
-      "LiUniversity"
+      "LiBookA"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "Resumos - Livros": "LiBookA",
   "Projeto - TodoTask": "LiDatabase",
   "Imagens": "LiImages",
-  "Sumario.md": "LiIndent"
+  "Sumario.md": "LiIndent",
+  "Vieos": "LiAperture"
 }
