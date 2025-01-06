@@ -27,7 +27,6 @@ estado: Concluído
 
 5. **Melhorias para a organização:**
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
-   - Há algum apoio institucional, como workshops ou treinamentos, que poderia ser oferecido para ensinar os alunos a gerenciar melhor suas disciplinas?  
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
