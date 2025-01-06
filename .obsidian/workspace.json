@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Modelo TCC.md",
+                "file": "Vieos/Vídeo sobre Hobbies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo TCC"
+              "title": "Vídeo sobre Hobbies"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/Modelo TCC.md"
+                "file": "Vieos/Vídeo sobre Hobbies.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelo TCC"
+              "title": "Sumário de Vídeo sobre Hobbies"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelos/Modelo TCC.md",
+                "file": "Vieos/Vídeo sobre Hobbies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Modelo TCC"
+              "title": "Links inversos para Vídeo sobre Hobbies"
             }
           }
         ]
@@ -225,6 +225,9 @@
   },
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
+    "Modelos/Modelo Roteiros.md",
+    "Vieos/Vídeo sobre Hobbies.md",
+    "Modelos/Modelo TCC.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo PAA.md",
     "Modelos/Modelo GC.md",
@@ -232,7 +235,6 @@
     "Vieos",
     "Universidade/TCC 2/Forms Alunos.md",
     "Sumario.md",
-    "Modelos/Modelo TCC.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
@@ -252,7 +254,6 @@
     "Modelos",
     "RediUX/Encontros Universitarios/Artigo.md",
     "RediUX/Encontros Universitarios",
-    "HTTP (Hypertext Transfer Protocol).md",
     "image-removebg-preview.png",
     "Imagens/Pasted image 20241103152044.png",
     "Universidade/TCC 2",
