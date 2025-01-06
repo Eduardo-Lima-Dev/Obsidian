@@ -40,9 +40,9 @@ estado: Concluído
 
 ### **Perguntas Adicionais**
 
-8. **Comunicação e suporte:**
-   - Como a coordenação se comunica com os alunos para informá-los sobre a grade curricular, atualizações ou mudanças no curso?  
-   - Há algum canal oficial (e-mail, reuniões, SIGAA) que você acredita ser subutilizado pelos alunos?  
+8. **Impacto de reprovações e trancamentos:**
+   - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
+   - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
 
 9. **Eficiência do SIGAA:**
    - Na sua opinião, o SIGAA é uma ferramenta eficiente para o acompanhamento de progresso no curso?  
