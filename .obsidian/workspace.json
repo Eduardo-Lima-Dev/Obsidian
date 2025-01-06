@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vieos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vieos/Meu Racha - Um Sistema para Organizar Seu Futebol.md"
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md"
               },
               "icon": "lucide-list",
               "title": "Sumário de Meu Racha - Um Sistema para Organizar Seu Futebol"
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vieos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +223,10 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "eb9dd0feb537cd89",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
-    "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
-    "Vieos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
+    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+    "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Sumario.md",
     "Modelos/Modelo Roteiros.md",
     "Modelos/Modelo TCC.md",
@@ -234,7 +234,7 @@
     "Modelos/Modelo PAA.md",
     "Modelos/Modelo GC.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
-    "Vieos",
+    "Videos",
     "Universidade/TCC 2/Forms Alunos.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
