@@ -5,9 +5,6 @@ materia: TCC
 tipo: Atividade
 estado: Concluído
 ---
-
-# **Roteiro de Entrevista - Coordenação Universitária**
-
 ## **Gestão do Semestre e Progresso no Curso**
 
 ### **Perguntas Iniciais**
