@@ -37,8 +37,7 @@
               "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,10 +110,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
+                "file": "Sumario.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Sumário de Sumario"
             }
           },
           {
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+                "file": "Sumario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Links inversos para Sumario"
             }
           }
         ]
@@ -223,10 +222,11 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "eb9dd0feb537cd89",
+  "active": "4a60c60d603c22a5",
   "lastOpenFiles": [
-    "Modelos/Modelo Roteiros.md",
     "Vieos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+    "Sumario.md",
+    "Modelos/Modelo Roteiros.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo PAA.md",
@@ -234,7 +234,6 @@
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Vieos",
     "Universidade/TCC 2/Forms Alunos.md",
-    "Sumario.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
