@@ -34,8 +34,8 @@ estado: Nao Gravado
 ### **e) Desenvolvimento de Software:**  
 *"Programar é um hobby que virou uma extensão do meu trabalho, mas com um toque especial. É como montar um quebra-cabeça infinito, onde você é tanto cria quanto resolve. Quando resolvo um bug (Geralmente eu mesmo criei kkkkk) ou construo algo novo, é como vencer um boss em um jogo. Aliás, programar me lembra muito o treinamento do Gohan em **Dragon Ball*: trabalho árduo com um toque de criatividade."***
 
-### **f) Criatividade e Expressão:**  
-*"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
+### **f) Construção e Gambiarras Funcionais:**  
+*"Aqui está um dos meus hobbies mais únicos: criar gambiarras que realmente funcionam. Seja adaptando um suporte para câmera com materiais que eu já tenho em casa ou inventando uma solução para um problema diário, é como transformar o impossível no possível. É a alquimia prática da vida real. É divertido, útil e, muitas vezes, me faz pensar: 'Por que eu não fiz isso antes?' Para quem tem TDAH, esse tipo de hobby é perfeito, porque une criatividade e resolução de problemas em um só pacote."*
 
 ### **g) Criatividade e Expressão:**  
 *"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
