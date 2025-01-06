@@ -20,13 +20,13 @@ estado: Nao Gravado
 
 ## **3. Variedade de Hobbies: Uma Breve Jornada (1:20 - 6:00)**  
 ### **a) Esportes e Movimento:**  
-"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo. É como em **Haikyuu!!**, onde cada salto e esforço são movidos por paixão. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como treinar para um Torneio do Dragon Ball clássico no mundo real."
+*"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo. É como em **Haikyuu!!**, onde cada salto e esforço são movidos por paixão. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como treinar para um Torneio do Dragon Ball clássico no mundo real."*
 
 ### **b) Pilotar e Dirigir:**  
-"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."
+*"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."*
 
 ### **c) Jogos Eletrônicos:**  
-"Em Hades e Dead Cells, cada fase me ensina algo: paciência, estratégia e adaptação. É como um microcosmo da vida. Não é sobre ganhar de primeira, mas aprender com cada tentativa. Já em Balatro, há espaço para criatividade e improvisação. É o equilíbrio entre lógica e intuição, assim como Edward Elric em *Fullmetal Alchemist*, buscando a solução perfeita para cada situação."
+*"Em Hades e Dead Cells, cada fase me ensina algo: paciência, estratégia e adaptação. É como um microcosmo da vida. Não é sobre ganhar de primeira, mas aprender com cada tentativa. Já em Balatro, há espaço para criatividade e improvisação. É o equilíbrio entre lógica e intuição, assim como Edward Elric em *Fullmetal Alchemist*, buscando a solução perfeita para cada situação."*
 
 ### **d) Cozinhar e Criar:**  
 *"Cozinhar é um ato de amor. É onde a técnica se encontra com a arte. Quando coloco os ingredientes na panela, penso: 'O que estou criando aqui?' E, às vezes, isso reflete a vida. Nem sempre sai como planejado, mas ainda pode ser incrível."*
