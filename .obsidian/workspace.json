@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Motivo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,7 +223,7 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "eb9dd0feb537cd89",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
     "Modelos/Modelo Roteiros.md",
     "Vieos/Vídeo sobre Hobbies.md",
