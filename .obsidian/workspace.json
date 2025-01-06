@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Modelo TCC.md",
+                "file": "Universidade/TCC 2/Forms Cordenadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo TCC"
+              "title": "Forms Cordenadores"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos/Modelo TCC.md"
+                "file": "Universidade/TCC 2/Forms Cordenadores.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelo TCC"
+              "title": "Sumário de Forms Cordenadores"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelos/Modelo TCC.md",
+                "file": "Universidade/TCC 2/Forms Cordenadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Modelo TCC"
+              "title": "Links inversos para Forms Cordenadores"
             }
           }
         ]
@@ -225,8 +225,9 @@
   },
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
-    "Modelos/Modelo GC.md",
     "Modelos/Modelo TCC.md",
+    "Universidade/TCC 2/Forms Cordenadores.md",
+    "Modelos/Modelo GC.md",
     "Sumario.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
@@ -254,7 +255,6 @@
     "Imagens/Pasted image 20241103152044.png",
     "Soltos/Atividade.md",
     "29-10-24.md",
-    "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Universidade/TCC 2",
     "Universidade/Redes",
     "Universidade/Logica",
