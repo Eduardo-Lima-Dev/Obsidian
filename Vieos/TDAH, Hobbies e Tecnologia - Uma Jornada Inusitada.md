@@ -37,6 +37,9 @@ estado: Nao Gravado
 ### **f) Criatividade e Expressão:**  
 *"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
 
+### **g) Criatividade e Expressão:**  
+*"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
+
 ---
 
 ## **4. Reflexão: O Que Aprendi com Meus Hobbies (6:00 - 7:30)**  
