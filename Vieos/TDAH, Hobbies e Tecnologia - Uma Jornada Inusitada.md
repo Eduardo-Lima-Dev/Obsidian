@@ -6,7 +6,7 @@ tipo: Atividade
 estado: Nao Gravado
 ---
 ## **1. Abertura Impactante (0:00 - 0:20)**  
-*"Você já se pegou pulando de uma atividade para outra, como se estivesse buscando algo que finalmente te complete? Eu sou assim. E se você, como eu, tem TDAH, sabe que nossos hobbies são mais do que passatempo: são formas de nos conectar com o mundo. Hoje vou te contar como minha mente inquieta abraça tudo, de esportes a tecnologia, de cozinha a dirigir, e como isso molda minha vida. Vamos juntos nessa jornada?"*
+*"Você já se pegou pulando de uma atividade para outra, como se estivesse buscando algo que finalmente te complete? Eu sou assim. E se você, como eu, tem TDAH, sabe que nossos hobbies são mais do que passatempo: são formas de nos conectar com o mundo. Hoje vou te contar como minha mente inquieta abraça tudo, de esportes a tecnologia, de cozinhar a programar, e como isso molda minha vida. Vamos juntos nessa jornada?"*
 
 **Call to Action inicial:**  
 *"Se você também é curioso sobre como hobbies podem nos transformar ou quer ideias para explorar os seus, já deixa seu like e se inscreve aqui no canal!"*
@@ -14,29 +14,32 @@ estado: Nao Gravado
 ---
 
 ## **2. O TDAH e a Filosofia dos Hobbies (0:20 - 1:20)**  
-*"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: * 'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.' * No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."*
+*"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: *'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.'* No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."*
 
 ---
 
-## **3. Variedade de Hobbies: Uma Breve Jornada (1:20 - 5:30)**  
+## **3. Variedade de Hobbies: Uma Breve Jornada (1:20 - 6:00)**  
 ### **a) Esportes e Movimento:**  
-*"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma recepção me faz sentir vivo, presente. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como colocar um tijolo por vez na construção de algo maior."*  
+*"Futebol e vôlei são meus escapes para o mundo físico. É algo simples: a conexão entre o corpo e a mente. Correr atrás de uma bola ou acertar uma cortada me faz sentir vivo, presente. É como em *Haikyuu!!*, onde cada salto e esforço são movidos por paixão. Agora, na musculação, é diferente. É sobre disciplina e superação. Cada repetição me lembra que o progresso é lento, mas constante. É como treinar para um Kamehameha no mundo real."*
 
 ### **b) Pilotar e Dirigir:**  
-*"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."*  
+*"Estar no volante é uma experiência meditativa. Pilotar ou dirigir, para mim, é sobre controle e liberdade. Sabe aquele momento em que tudo à sua volta se alinha e você sente o motor responder ao menor toque? É quase filosófico. É sobre confiar em você mesmo e no caminho, literal e metaforicamente."*
 
 ### **c) Jogos Eletrônicos:**  
-*"Em Hades e Dead Cells, cada fase me ensina algo: paciência, estratégia e adaptação. É como um microcosmo da vida. Não é sobre ganhar de primeira, mas aprender com cada tentativa. Já em Balatro, há espaço para criatividade e improvisação. É o equilíbrio entre lógica e intuição."*  
+*"Em Hades e Dead Cells, cada fase me ensina algo: paciência, estratégia e adaptação. É como um microcosmo da vida. Não é sobre ganhar de primeira, mas aprender com cada tentativa. Já em Balatro, há espaço para criatividade e improvisação. É o equilíbrio entre lógica e intuição, assim como Edward Elric em *Fullmetal Alchemist*, buscando a solução perfeita para cada situação."*
 
 ### **d) Cozinhar e Criar:**  
-*"Cozinhar é um ato de amor. É onde a técnica se encontra com a arte. Quando coloco os ingredientes na panela, penso: 'O que estou criando aqui?' E, às vezes, isso reflete a vida. Nem sempre sai como planejado, mas ainda pode ser incrível."*  
+*"Cozinhar é um ato de amor. É onde a técnica se encontra com a arte. Quando coloco os ingredientes na panela, penso: 'O que estou criando aqui?' E, às vezes, isso reflete a vida. Nem sempre sai como planejado, mas ainda pode ser incrível."*
 
-### **e) Criatividade e Expressão:**  
+### **e) Desenvolvimento de Software:**  
+*"Programar é um hobby que virou uma extensão do meu trabalho, mas com um toque especial. É como montar um quebra-cabeça infinito, onde você é tanto o criador quanto o solucionador. Quando resolvo um bug ou construo algo novo, é como vencer um boss em um jogo. Aliás, programar me lembra muito o treinamento do Gohan em *Dragon Ball*: trabalho árduo com um toque de criatividade."*
+
+### **f) Criatividade e Expressão:**  
 *"Escrever e desenhar são como falar com uma parte de mim mesmo que não conheço. É algo que me ajuda a entender o mundo e a mim mesmo. Já criar conteúdo para este canal é como compartilhar um pedacinho dessa jornada com vocês. É um hobby que une trabalho, paixão e conexão."*
 
 ---
 
-## **4. Reflexão: O Que Aprendi com Meus Hobbies (5:30 - 7:30)**  
+## **4. Reflexão: O Que Aprendi com Meus Hobbies (6:00 - 7:30)**  
 *"Meus hobbies me ensinaram algo valioso: a vida não é sobre encontrar a felicidade pronta, mas construí-la aos poucos. Quando cozinho, jogo, levanto pesos ou estou no volante, percebo que cada momento é uma chance de aprender algo novo. Como já dizia Aristóteles, 'Somos aquilo que repetidamente fazemos. A excelência, então, não é um ato, mas um hábito.' Meus hobbies são essa busca constante pela excelência, não para impressionar os outros, mas para me encontrar."*
 
 ---
