@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenação.md",
+                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro de Entrevista - Coordenação"
+              "title": "Roteiro de Entrevista - Coordenadores"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenação.md"
+                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Entrevista - Coordenação"
+              "title": "Sumário de Roteiro de Entrevista - Coordenadores"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenação.md",
+                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro de Entrevista - Coordenação"
+              "title": "Links inversos para Roteiro de Entrevista - Coordenadores"
             }
           }
         ]
@@ -226,7 +226,7 @@
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
     "Universidade/TCC 2/Forms Alunos.md",
-    "Universidade/TCC 2/Roteiro de Entrevista - Coordenação.md",
+    "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Sumario.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo GC.md",

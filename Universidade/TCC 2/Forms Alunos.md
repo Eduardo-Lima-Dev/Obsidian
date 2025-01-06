@@ -6,4 +6,4 @@ tipo: Atividade
 ---
 
 > [!Camada Aplicação] Próximos Assuntos 
-> [[Roteiro de Entrevista - Coordenação]]
+> [[Roteiro de Entrevista - Coordenadores]]

@@ -5,10 +5,6 @@ materia: TCC
 tipo: Atividade
 estado: Concluído
 ---
-## **Gestão do Semestre e Progresso no Curso**
-
-### **Perguntas Iniciais**
-
 1. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
@@ -36,36 +32,9 @@ estado: Concluído
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
    - Você leva em conta fatores como carga horária, disciplinas obrigatórias, eletivas ou pré-requisitos ao sugerir um plano?  
 
----
-
-### **Perguntas Adicionais**
-
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
-
-9. **Eficiência do SIGAA:**
-   - Na sua opinião, o SIGAA é uma ferramenta eficiente para o acompanhamento de progresso no curso?  
-   - Quais melhorias você sugeriria no sistema para facilitar o uso pelos alunos?  
-
-10. **Diferentes perfis de alunos:**
-    - Você percebe diferenças na forma como alunos que trabalham, têm filhos ou outras responsabilidades lidam com o planejamento do semestre?  
-    - Que tipo de orientação adicional é dada para esses perfis?  
-
-11. **Impacto de reprovações e trancamentos:**
-    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
-    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica?  
-
-12. **Parcerias e apoio institucional:**
-    - Há parcerias ou iniciativas dentro da universidade que ajudam os alunos na gestão do semestre (ex.: monitorias, mentorias ou apoio psicológico)?  
-    - Você acredita que a universidade deveria investir mais em alguma dessas áreas?  
-
-13. **Casos de sucesso:**
-    - Você poderia compartilhar algum exemplo de como a coordenação ajudou um aluno a superar atrasos ou dificuldades na progressão do curso?  
-
-14. **Visão para o futuro:**
-    - Como você imagina que a gestão acadêmica e o apoio aos alunos podem evoluir nos próximos anos?  
-    - Há inovações ou práticas de outras instituições que poderiam ser aplicadas na universidade?  
 
 
 > [!Camada Aplicação] Próximos Assuntos 
