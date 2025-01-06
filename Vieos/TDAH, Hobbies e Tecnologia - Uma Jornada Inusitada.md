@@ -40,7 +40,7 @@ estado: Nao Gravado
 ---
 
 ## **4. Reflexão: O Que Aprendi com Meus Hobbies (6:00 - 7:30)**  
-*"Meus hobbies me ensinaram algo valioso: a vida não é sobre encontrar a felicidade pronta, mas construí-la aos poucos. Quando cozinho, jogo, levanto pesos ou estou no volante, percebo que cada momento é uma chance de aprender algo novo. Como já dizia Aristóteles, 'Somos aquilo que repetidamente fazemos. A excelência, então, não é um ato, mas um hábito.' Meus hobbies são essa busca constante pela excelência, não para impressionar os outros, mas para me encontrar."*
+*"Meus hobbies me ensinaram algo valioso: a vida não é sobre encontrar a felicidade pronta, mas construí-la aos poucos. Quando cozinho, jogo, levanto pesos ou estou no volante, percebo que cada momento é uma chance de aprender algo novo. Como já dizia Aristóteles, **'Somos aquilo que repetidamente fazemos. A excelência, então, não é um ato, mas um hábito.'** Meus hobbies são essa busca constante pela excelência, não para impressionar os outros, mas para me encontrar."*
 
 ---
 
