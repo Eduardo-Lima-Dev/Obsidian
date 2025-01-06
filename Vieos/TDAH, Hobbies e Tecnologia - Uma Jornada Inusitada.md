@@ -14,7 +14,7 @@ estado: Nao Gravado
 ---
 
 ## **2. O TDAH e a Filosofia dos Hobbies (0:20 - 1:20)**  
-*"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: *'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.'* No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."*
+"Para quem tem TDAH, hobbies não são só uma forma de passar o tempo – eles são portais para o presente. São o que nos faz pausar a confusão mental e nos concentrar em algo que realmente importa naquele momento. Como dizia Confúcio: **'Escolha um trabalho que você ama, e você nunca terá que trabalhar um dia na vida.'** No caso, hobbies são esse trabalho voluntário para a alma. Cada atividade me lembra que não sou definido pela pressa, mas pelo que escolho dar atenção."
 
 ---
 
