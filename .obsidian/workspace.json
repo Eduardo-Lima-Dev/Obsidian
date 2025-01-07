@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+                "file": "Videos/Roteiro Vídeo e Transições.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Roteiro Vídeo e Transições"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
+                "file": "Videos/Roteiro Vídeo e Transições.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Sumário de Roteiro Vídeo e Transições"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+                "file": "Videos/Roteiro Vídeo e Transições.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Links inversos para Roteiro Vídeo e Transições"
             }
           }
         ]
@@ -225,9 +225,9 @@
   },
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
+    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Modelos/Modelo Redes.md",
     "Videos/Roteiro Vídeo e Transições.md",
-    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Roteiros.md",
     "Sumario.md",

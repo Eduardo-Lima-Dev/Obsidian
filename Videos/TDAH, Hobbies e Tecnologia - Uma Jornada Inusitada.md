@@ -60,5 +60,5 @@ estado: Nao Gravado
 
 ---
 
-> [!Camada Aplicação] Próximo Assunto 
-> []
+> [!Camada Aplicação] Roteiro das gravações do vídeo
+> [[Roteiro Vídeo e Transições]]
