@@ -101,9 +101,6 @@ estado: Nao Gravado
 - Transição **"pop-up"** com miniaturas dos próximos vídeos ou playlists relacionadas.
 
 ---
-
 - **Áudio:** Use música de fundo que acompanhe o ritmo do vídeo, alternando entre animada e introspectiva conforme o tema.
 - **Iluminação:** Luz natural ou softbox para destacar seu rosto e criar uma atmosfera profissional.
-- **Microfone:** Certifique-se de usar um microfone de qualidade para clareza no áudio.
-
 ---
