@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Roteiro Vídeo e Transições.md",
+                "file": "Videos/Roteiro de Cenas e Como Gravar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro Vídeo e Transições"
+              "title": "Roteiro de Cenas e Como Gravar"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Roteiro Vídeo e Transições.md"
+                "file": "Videos/Roteiro de Cenas e Como Gravar.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro Vídeo e Transições"
+              "title": "Sumário de Roteiro de Cenas e Como Gravar"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Roteiro Vídeo e Transições.md",
+                "file": "Videos/Roteiro de Cenas e Como Gravar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro Vídeo e Transições"
+              "title": "Links inversos para Roteiro de Cenas e Como Gravar"
             }
           }
         ]
@@ -226,8 +226,8 @@
   "active": "eb9dd0feb537cd89",
   "lastOpenFiles": [
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+    "Videos/Roteiro de Cenas e Como Gravar.md",
     "Modelos/Modelo Redes.md",
-    "Videos/Roteiro Vídeo e Transições.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Roteiros.md",
     "Sumario.md",

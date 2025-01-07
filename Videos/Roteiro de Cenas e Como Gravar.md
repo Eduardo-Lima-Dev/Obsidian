@@ -5,8 +5,6 @@ materia: Hobbie
 tipo: Atividade
 estado: Nao Gravado
 ---
-# Roteiro de Cenas e Como Gravar
-
 ## **1. Abertura Impactante (0:00 - 0:20)**
 
 ### Cena:
