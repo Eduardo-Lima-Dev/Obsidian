@@ -1,7 +1,7 @@
 ---
 tags:
-  - Universidade
-materia: TCC
-tipo: Atividade
+  - Videos
+materia: Livre
+tipo: Hobbie
 estado: Nao Gravado
 ---
