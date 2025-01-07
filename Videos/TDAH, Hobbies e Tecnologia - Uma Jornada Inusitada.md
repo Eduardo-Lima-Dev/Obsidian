@@ -59,3 +59,6 @@ estado: Nao Gravado
 *"E você, qual hobby é a sua paixão ou até sua terapia? Me conta nos comentários! Lembre-se: hobbies são mais do que distrações, são formas de viver melhor e se reconectar com o presente. Curte, compartilha, se inscreve no canal e nos vemos no próximo vídeo. Vamos continuar descobrindo juntos o que nos move!"*
 
 ---
+
+> [!Camada Aplicação] Próximo Assunto 
+> []

@@ -1,8 +1,8 @@
 ---
 tags:
   - Videos
-materia: Hobbie
-tipo: Atividade
+materia: Livre
+tipo: Hobbie
 estado: Nao Gravado
 ---
 ## **Abertura Impactante (0:00 - 0:15)**  
