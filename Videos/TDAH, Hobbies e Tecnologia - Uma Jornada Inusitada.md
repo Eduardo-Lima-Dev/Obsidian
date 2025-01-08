@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
+estado: Gravado
 ---
 ## **1. Abertura Impactante (0:00 - 0:20)**  
 *"Você já se pegou pulando de uma atividade para outra, como se estivesse buscando algo que finalmente te complete? Eu sou assim. E se você, como eu, tem TDAH, sabe que nossos hobbies são mais do que passatempo: são formas de nos conectar com o mundo. Hoje vou te contar como minha mente inquieta abraça tudo, de esportes a tecnologia, de cozinhar a programar, e como isso molda minha vida. Vamos juntos nessa jornada?"*
