@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
-                "mode": "source",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Meu Racha - Um Sistema para Organizar Seu Futebol"
             }
           },
           {
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -125,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Sumário de Meu Racha - Um Sistema para Organizar Seu Futebol"
             }
           },
           {
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+              "title": "Links inversos para Meu Racha - Um Sistema para Organizar Seu Futebol"
             }
           }
         ]
@@ -219,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
