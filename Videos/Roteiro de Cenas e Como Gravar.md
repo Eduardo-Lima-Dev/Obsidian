@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Hobbie
 tipo: Atividade
-estado: Nao Gravado
+estado: Nao Editado
 ---
 ## **1. Abertura Impactante (0:00 - 0:20)**
 
