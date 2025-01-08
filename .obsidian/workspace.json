@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Roteiro de Cenas e Como Gravar"
             }
+          },
+          {
+            "id": "c7a0fc04d7349f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Roteiro de Cenas e Como Gravar.md"
+                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Cenas e Como Gravar"
+              "title": "Sumário de TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           },
           {
@@ -171,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Roteiro de Cenas e Como Gravar.md",
+                "file": "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro de Cenas e Como Gravar"
+              "title": "Links inversos para TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada"
             }
           }
         ]
@@ -223,10 +237,10 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "eb9dd0feb537cd89",
+  "active": "c7a0fc04d7349f84",
   "lastOpenFiles": [
-    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/Roteiro de Cenas e Como Gravar.md",
+    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Modelos/Modelo Redes.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Roteiros.md",
