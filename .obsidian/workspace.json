@@ -183,8 +183,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ]
@@ -205,8 +205,6 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "markdown-importer:Abrir importador Markdown": false,
       "publish:Publicar mudanças": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
