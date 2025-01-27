@@ -205,7 +205,9 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "markdown-importer:Abrir importador Markdown": false,
       "publish:Publicar mudanças": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4a60c60d603c22a5",
