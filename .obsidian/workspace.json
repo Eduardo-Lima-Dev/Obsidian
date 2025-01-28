@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/Redes/P2 - V1.md",
+                "file": "Universidade/Redes/P2 - V2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P2 - V1"
+              "title": "P2 - V2"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Redes/P2 - V1.md"
+                "file": "Universidade/Redes/P2 - V2.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de P2 - V1"
+              "title": "Sumário de P2 - V2"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Forms Alunos.md",
     "Universidade/Redes/P2 - V2.md",
     "Universidade/Redes/P2 - V1.md",
     "Sumario.md",
@@ -239,7 +240,6 @@
     "Modelos/Modelo GC.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Videos",
-    "Universidade/TCC 2/Forms Alunos.md",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
