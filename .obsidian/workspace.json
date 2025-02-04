@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/PAA/Análise de Algoritimos.md",
-                "mode": "source",
+                "file": "Universidade/PAA/Algoritmo de DIJKSTRA.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise de Algoritimos"
+              "title": "Algoritmo de DIJKSTRA"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/PAA/Análise de Algoritimos.md"
+                "file": "Universidade/PAA/Algoritmo de DIJKSTRA.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Análise de Algoritimos"
+              "title": "Sumário de Algoritmo de DIJKSTRA"
             }
           },
           {
@@ -226,6 +226,9 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
+    "Universidade/PAA/Questão 6.md",
+    "Universidade/PAA/Questão 4.md",
+    "Universidade/PAA/Análise de Algoritimos.md",
     "Universidade/PAA/Algoritmo PRIM.md",
     "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/Redes/P2 - V2.md",
@@ -250,9 +253,6 @@
     "Universidade/Gerencia/Aula 6 - Administrando alterações.md",
     "Universidade/Gerencia/Aula 7 & 8 - Gerenciamento de release.md",
     "Universidade/Gerencia/Sem título.md",
-    "Universidade/PAA/Notação Assintótica.md",
-    "Universidade/PAA/Análise de Algoritimos.md",
-    "Modelos/Modelo Logica.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
