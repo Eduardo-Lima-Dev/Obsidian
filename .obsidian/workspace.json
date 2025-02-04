@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/Redes/P2 - V2.md",
+                "file": "Universidade/PAA/Análise de Algoritimos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P2 - V2"
+              "title": "Análise de Algoritimos"
             }
           }
         ],
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Redes/P2 - V2.md"
+                "file": "Universidade/PAA/Análise de Algoritimos.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de P2 - V2"
+              "title": "Sumário de Análise de Algoritimos"
             }
           },
           {
@@ -226,8 +226,10 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
-    "Universidade/TCC 2/Forms Alunos.md",
+    "Universidade/PAA/Algoritmo PRIM.md",
+    "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/Redes/P2 - V2.md",
+    "Universidade/TCC 2/Forms Alunos.md",
     "Universidade/Redes/P2 - V1.md",
     "Sumario.md",
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
@@ -251,8 +253,6 @@
     "Universidade/PAA/Notação Assintótica.md",
     "Universidade/PAA/Análise de Algoritimos.md",
     "Modelos/Modelo Logica.md",
-    "Universidade/Redes/Introdução Redes.md",
-    "Universidade/Redes/Camada de Transporte.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
