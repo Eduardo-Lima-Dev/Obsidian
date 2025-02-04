@@ -27,6 +27,21 @@ tipo: Revisão
 ![[{B25F4FD2-AA4D-4026-A9DD-68A260C20646}.png]]
 
 
+### Resultado da união
+
+UNION(2, 4)
+UNION(7, 11)
+UNION(1, 2)
+UNION(4, 8)
+UNION(10, 11)
+UNION(3, 5)
+UNION(5, 6)
+UNION(4, 7)
+UNION(6, 9)
+UNION(1, 3)
+
+
+
 
 > [!Camada Aplicação] Próximo Assunto 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
