@@ -20,9 +20,12 @@ tipo: Revisão
 11 retorna F
 ```
 
+### Ordenação do vetor
+
 ![[{B6BE9F8C-8D82-41B8-A43F-EB76BAB604C4}.png]]
 
 ![[{B25F4FD2-AA4D-4026-A9DD-68A260C20646}.png]]
+
 
 
 > [!Camada Aplicação] Próximo Assunto 
