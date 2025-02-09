@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Entendendo o  TCP-IP.md",
+                "file": "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entendendo o  TCP-IP"
+              "title": "Meu Racha - Nivelando seu Futebol Amador com Tecnologia"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Entendendo o  TCP-IP.md",
+                "file": "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Entendendo o  TCP-IP"
+              "title": "Sumário de Meu Racha - Nivelando seu Futebol Amador com Tecnologia"
             }
           },
           {
@@ -230,11 +230,12 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
+    "Videos/Entendendo o  TCP-IP.md",
+    "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/Roteiro de Cenas e Como Gravar.md",
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/O que é uma API.md",
-    "Videos/Entendendo o  TCP-IP.md",
     "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/PAA/Algoritmo PRIM.md",
     "Universidade/PAA/Algoritmo de Kruskal.md",
@@ -258,7 +259,6 @@
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
     "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
-    "Universidade/Gerencia/Aula 5 - Resolvendo conﬂitos.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
