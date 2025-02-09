@@ -7,6 +7,8 @@ Utilizando tecnologias modernas como **Next.js** e **TypeScript** no front-end, 
 
 O código-fonte do projeto está disponível no GitHub:  
 🔗 [https://github.com/Eduardo-Lima-Dev/Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
+O link do projeto funcionando pela Vercel:  
+🔗 [https://github.com/Eduardo-Lima-Dev/Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
 
 ---
 
@@ -67,8 +69,9 @@ A ideia é expandir as funcionalidades para permitir que **grupos de racha ao re
 ## 🤑 Como Monetizar o Meu Racha?
 
 A minha duvida atual é como posso monetizar esse sistema.
-Devo colocar Propagandas?
-Criar uma versão por assinatura?
+- Devo colocar Propagandas?
+- Criar uma versão por assinatura?
+- Procurar por parcerias?
 
 ---
 
