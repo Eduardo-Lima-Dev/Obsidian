@@ -1,5 +1,3 @@
-# Meu Racha - Nivelando seu Futebol Amador com Tecnologia
-
 ## Introdução
 
 Desenvolvi o **"Meu Racha"**, uma aplicação web projetada para aprimorar a organização e o nivelamento de jogadores em partidas de futebol amador.  
@@ -8,7 +6,7 @@ Utilizando tecnologias modernas como **Next.js** e **TypeScript** no front-end, 
 O código-fonte do projeto está disponível no GitHub:  
 🔗 [https://github.com/Eduardo-Lima-Dev/Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
 O link do projeto funcionando pela Vercel:  
-🔗 [https://github.com/Eduardo-Lima-Dev/Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
+🔗 [https://meu-racha.vercel.app/](https://meu-racha.vercel.app/)
 
 ---
 
