@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
+estado: Publicado
 ---
 ## **Abertura Impactante (0:00 - 0:15)**  
 *(Cena: Um campo de futebol, com amigos brincando e um jogador perdendo o gol de forma cômica.)*  

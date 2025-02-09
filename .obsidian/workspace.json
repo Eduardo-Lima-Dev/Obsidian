@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Entendendo o  TCP-IP.md",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entendendo o  TCP-IP"
+              "title": "Meu Racha - Um Sistema para Organizar Seu Futebol"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Entendendo o  TCP-IP.md",
+                "file": "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Entendendo o  TCP-IP"
+              "title": "Sumário de Meu Racha - Um Sistema para Organizar Seu Futebol"
             }
           },
           {
@@ -230,8 +230,11 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
-    "Universidade/PAA/Algoritmo de DIJKSTRA.md",
+    "Videos/Roteiro de Cenas e Como Gravar.md",
+    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+    "Videos/O que é uma API.md",
     "Videos/Entendendo o  TCP-IP.md",
+    "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/PAA/Algoritmo PRIM.md",
     "Universidade/PAA/Algoritmo de Kruskal.md",
     "Imagens/{B6BE9F8C-8D82-41B8-A43F-EB76BAB604C4}.png",
@@ -243,8 +246,6 @@
     "Universidade/TCC 2/Forms Alunos.md",
     "Universidade/Redes/P2 - V1.md",
     "Sumario.md",
-    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
-    "Videos/Roteiro de Cenas e Como Gravar.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
@@ -258,7 +259,6 @@
     "Universidade/Gerencia/Aula 3 - Repositórios.md",
     "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
     "Universidade/Gerencia/Aula 5 - Resolvendo conﬂitos.md",
-    "Universidade/Gerencia/Aula 6 - Administrando alterações.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
