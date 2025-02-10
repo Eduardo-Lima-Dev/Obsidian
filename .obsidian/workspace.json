@@ -27,12 +27,14 @@
             "id": "13faeeec8809ad29",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md"
+                "file": "Videos/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Meu Racha - Wireframe"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md",
+                "file": "Videos/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Meu Racha - Wireframe"
+              "title": "Sumário de Untitled"
             }
           },
           {
@@ -226,12 +228,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "13faeeec8809ad29",
   "lastOpenFiles": [
+    "Soltos/Meu Racha - Wireframe.md",
+    "Videos/Untitled.md",
     "Soltos/Fluxo de Desenvimento.png",
     "Sumario.md",
     "Imagens/Pasted Image 20250210081801_033.png",
-    "Soltos/Meu Racha - Wireframe.md",
     "Imagens/Pasted Image 20250210083429_096.png",
     "Imagens/Pasted Image 20250210083129_094.png",
     "Imagens/Pasted Image 20250210083112_093.png",
@@ -266,7 +269,6 @@
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
-    "Imagens/Pasted image 20241103152044.png",
     "Universidade/TCC 2",
     "Universidade/Redes",
     "Universidade/Logica",
