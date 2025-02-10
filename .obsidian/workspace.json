@@ -24,17 +24,15 @@
             }
           },
           {
-            "id": "e55cfba884144016",
+            "id": "f9b92b6444debf87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
-                "mode": "source",
-                "source": false
+                "file": "Soltos/Drawing 2025-02-10 08.15.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Meu Racha - Nivelando seu Futebol Amador com Tecnologia"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-10 08.15.14.excalidraw"
             }
           }
         ],
@@ -95,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -112,13 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
+                "file": "Soltos/Drawing 2025-02-10 08.15.14.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Meu Racha - Nivelando seu Futebol Amador com Tecnologia"
+              "title": "Sumário de Drawing 2025-02-10 08.15.14.excalidraw"
             }
           },
           {
@@ -228,10 +227,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e55cfba884144016",
+  "active": "f9b92b6444debf87",
   "lastOpenFiles": [
-    "Videos/Entendendo o  TCP-IP.md",
+    "Soltos/Drawing 2025-02-10 08.15.14.excalidraw.md",
+    "Sumario.md",
+    "Sem título.md",
     "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
+    "Videos/Entendendo o  TCP-IP.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/Roteiro de Cenas e Como Gravar.md",
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
@@ -247,7 +249,6 @@
     "Universidade/Redes/P2 - V2.md",
     "Universidade/TCC 2/Forms Alunos.md",
     "Universidade/Redes/P2 - V1.md",
-    "Sumario.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
     "Modelos/Modelo TCC.md",
@@ -257,8 +258,6 @@
     "Videos",
     "Soltos/Horario - Aulas e Estudos.md",
     "Universidade/Gerencia/Aula 1 & 2 - Introdução à Gerência de Configuração de Software (GC).md",
-    "Universidade/Gerencia/Aula 3 - Repositórios.md",
-    "Universidade/Gerencia/Aula 4 - Branches e Merge.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
