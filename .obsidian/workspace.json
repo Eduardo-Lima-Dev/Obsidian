@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Forms Alunos.md",
+                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forms Alunos"
+              "title": "Roteiro de Perguntas para os Alunos"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Forms Alunos.md",
+                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Forms Alunos"
+              "title": "Sumário de Roteiro de Perguntas para os Alunos"
             }
           },
           {
@@ -256,7 +256,7 @@
     "Universidade/PAA/Questão 4.md",
     "Universidade/PAA/Análise de Algoritimos.md",
     "Universidade/Redes/P2 - V2.md",
-    "Universidade/TCC 2/Forms Alunos.md",
+    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/Redes/P2 - V1.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
