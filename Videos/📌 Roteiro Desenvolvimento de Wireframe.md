@@ -9,7 +9,7 @@ estado: Nao Gravado
 
 **Cena 1:** *Tela do computador mostrando código e pesquisa sobre transpilação de código.*  
 **Fala:**  
-"Todo projeto novo começa com... pesquisa! Hoje, antes de botar a mão no design, fui dar uma olhada em umas transpilações de código. Nunca se sabe quando dá pra otimizar aquele código maroto, né?"
+"Todo bom projeto começa com... pesquisa! Hoje, antes de botar a mão no design, fui dar uma olhada em umas transpilações de código. Nunca se sabe quando dá pra otimizar aquele código maroto, né?"
 
 **Cena 2:** *Navegando pelos commits de um PR da aplicação em que a nova feature será implementada.*  
 **Fala:**  
