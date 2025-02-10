@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
+                "file": "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro de Perguntas para os Alunos"
+              "title": "📌 Roteiro Desenvolvimento de Wireframe"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
+                "file": "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Perguntas para os Alunos"
+              "title": "Sumário de 📌 Roteiro Desenvolvimento de Wireframe"
             }
           },
           {
@@ -230,6 +230,7 @@
   },
   "active": "13faeeec8809ad29",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
     "Soltos/Meu Racha - Wireframe.md",
     "Soltos/Fluxo de Desenvimento.png",
@@ -256,7 +257,6 @@
     "Universidade/PAA/Questão 4.md",
     "Universidade/PAA/Análise de Algoritimos.md",
     "Universidade/Redes/P2 - V2.md",
-    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/Redes/P2 - V1.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
