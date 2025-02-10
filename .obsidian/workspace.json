@@ -57,7 +57,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -111,7 +112,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/PAA/Algoritmo de DIJKSTRA.md"
+                "file": "Universidade/PAA/Algoritmo de DIJKSTRA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Sumário de Algoritmo de DIJKSTRA"
