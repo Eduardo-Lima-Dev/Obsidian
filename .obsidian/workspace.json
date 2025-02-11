@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "e55cfba884144016",
+            "id": "13faeeec8809ad29",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md"
+                "file": "Videos/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Meu Racha - Wireframe"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md",
+                "file": "Videos/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Meu Racha - Wireframe"
+              "title": "Sumário de Untitled"
             }
           },
           {
@@ -226,23 +228,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e55cfba884144016",
+  "active": "13faeeec8809ad29",
   "lastOpenFiles": [
-    "Soltos/Meu Racha - Wireframe.png",
-    "Soltos/Meu Racha - Wireframe.md",
-    "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
     "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
-    "conflict-files-obsidian-git.md",
-    "Universidade/PAA/Algoritmo de DIJKSTRA.md",
-    "Videos/O que é uma API.md",
-    "Videos/Entendendo o  TCP-IP.md",
+    "Videos/Untitled.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
+    "Soltos/Meu Racha - Wireframe.md",
+    "Soltos/Fluxo de Desenvimento.png",
+    "Sumario.md",
+    "Imagens/Pasted Image 20250210081801_033.png",
     "Imagens/Pasted Image 20250210083429_096.png",
     "Imagens/Pasted Image 20250210083129_094.png",
     "Imagens/Pasted Image 20250210083112_093.png",
     "Imagens/Pasted Image 20250210083048_064.png",
     "Imagens/Pasted Image 20250210082352_053.png",
-    "Imagens/Pasted Image 20250210081801_033.png",
+    "Sem título.md",
+    "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
+    "Videos/Entendendo o  TCP-IP.md",
+    "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
+    "Videos/Roteiro de Cenas e Como Gravar.md",
+    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
+    "Videos/O que é uma API.md",
+    "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/PAA/Algoritmo PRIM.md",
     "Universidade/PAA/Algoritmo de Kruskal.md",
     "Imagens/{B6BE9F8C-8D82-41B8-A43F-EB76BAB604C4}.png",
@@ -251,17 +258,13 @@
     "Universidade/PAA/Questão 4.md",
     "Universidade/PAA/Análise de Algoritimos.md",
     "Universidade/Redes/P2 - V2.md",
-    "Universidade/TCC 2/Forms Alunos.md",
     "Universidade/Redes/P2 - V1.md",
-    "Sumario.md",
-    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
-    "Videos/Roteiro de Cenas e Como Gravar.md",
-    "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo PAA.md",
     "Modelos/Modelo GC.md",
+    "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Videos",
     "Modelos",
     "RediUX/Encontros Universitarios",
