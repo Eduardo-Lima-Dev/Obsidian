@@ -40,7 +40,7 @@ Foi exatamente o que aconteceu.
 
 ### **Ato 3 - O Aprendizado (E A Dor)**
 
-Depois de uma mistura de choque, frustração e um pouco de riso nervoso, comecei a corrigir o problema. A primeira coisa foi adicionar autenticação nas rotas sensíveis e restringir os comandos perigosos. Também revisei toda a segurança do sistema para evitar que algo assim acontecesse de novo.
+Depois de uma mistura de choque, frustração e um pouco de riso nervoso, comecei a corrigir o problema. A primeira coisa foi adicionar autenticação nas rotas sensíveis e restringir os comandos perigosos, removi o bendito botão. Também revisei toda a segurança do sistema para evitar que algo assim acontecesse de novo.
 
 Mas a maior lição veio depois: **nunca subestime o impacto de uma única funcionalidade mal planejada**. Um simples botão, que parecia inofensivo, se transformou em uma armadilha capaz de derrubar o projeto inteiro.
 
