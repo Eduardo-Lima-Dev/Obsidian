@@ -8,7 +8,7 @@ estado: Nao Gravado
 ---
 ### **Ato 1 - O Orgulho do Criador**
 
-Eu estava empolgado. Depois de semanas desenvolvendo o **Meu Racha**, um sistema para organizar partidas e rachas entre amigos, finalmente publiquei um artigo no **Tabnews** falando sobre o projeto. Expliquei como ele funcionava, as tecnologias usadas e até compartilhei algumas decisões de design que tomei ao longo do caminho.
+Eu estava empolgado. Depois de semanas desenvolvendo o **Meu Racha**, um sistema para organizar partidas e rachas entre amigos, finalmente publiquei um artigo no **Tabnews** falando sobre o projeto. uma plataforma dedicada à comunidade de tecnologia, focada em debates e troca de conhecimentos por meio de publicações e comentários. Expliquei como ele funcionava, as tecnologias usadas e até compartilhei algumas decisões de design que tomei ao longo do caminho.
 
 A recepção foi melhor do que eu esperava! Algumas pessoas comentaram elogiando o projeto, outras fizeram sugestões interessantes. Mas então, no meio das mensagens, apareceu um comentário diferente:
 
