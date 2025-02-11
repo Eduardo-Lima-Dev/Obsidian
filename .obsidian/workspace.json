@@ -27,14 +27,12 @@
             "id": "13faeeec8809ad29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Soltos/Meu Racha - Uma Lição Sobre Segurança em Aplicações Web.md",
-                "mode": "source",
-                "source": false
+                "file": "Soltos/Meu Racha - Wireframe.md"
               },
-              "icon": "lucide-file",
-              "title": "Meu Racha - Uma Lição Sobre Segurança em Aplicações Web"
+              "icon": "excalidraw-icon",
+              "title": "Meu Racha - Wireframe"
             }
           }
         ],
@@ -112,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Meu Racha - Uma Lição Sobre Segurança em Aplicações Web.md",
+                "file": "Soltos/Meu Racha - Wireframe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Meu Racha - Uma Lição Sobre Segurança em Aplicações Web"
+              "title": "Sumário de Meu Racha - Wireframe"
             }
           },
           {
@@ -230,8 +228,8 @@
   },
   "active": "13faeeec8809ad29",
   "lastOpenFiles": [
-    "Videos/Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Soltos/Meu Racha - Uma Lição Sobre Segurança em Aplicações Web.md",
+    "Videos/Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Soltos/Meu Racha - Wireframe.md",
