@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
+          },
+          {
+            "id": "5371b2872bbf20c5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-14 10.34.27.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumario.md",
+                "file": "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sumario"
+              "title": "Sumário de Drawing 2025-02-14 10.34.27.excalidraw"
             }
           },
           {
@@ -213,15 +226,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a60c60d603c22a5",
+  "active": "5371b2872bbf20c5",
   "lastOpenFiles": [
+    "Sumario.md",
+    "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
     "Projeto - Music",
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/Roteiro de Cenas e Como Gravar.md",
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Modelos/Modelo Redes.md",
     "Modelos/Modelo Roteiros.md",
-    "Sumario.md",
     "Modelos/Modelo TCC.md",
     "Modelos/Modelo PAA.md",
     "Modelos/Modelo GC.md",
@@ -253,7 +267,6 @@
     "Soltos",
     "Universidade/PAA",
     "smart-chats",
-    "Universidade/Gerencia",
     "Pasted image 20240916170022.png",
     "Sem título.canvas",
     "Imagens/Pasted image 20240814213249.png",
