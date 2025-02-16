@@ -9,7 +9,7 @@ estado: Nao Gravado
 (Câmera foca na mesa com a garrafa de 51 e o headset apoiado nela. Você senta, olha para a câmera e começa com um tom descontraído.)  
 
 **Você:**  
-*"Eu sabia que essa garrafa ia chamar mais atenção que meu código! (risos) Mas calma, galera, deixa eu explicar antes que a Receita Federal apareça aqui achando que eu tô programando no modo ‘hardcore’."*
+*"Eu sabia que essa garrafa ia chamar mais atenção que meu código! (risos) Mas calma, deixa eu explicar antes que vocês achem que eu estava trabalhando aditivado."*
 
 ---
 
