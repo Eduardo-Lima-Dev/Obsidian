@@ -27,12 +27,14 @@
             "id": "e55cfba884144016",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md"
+                "file": "Videos/Roteiro - O Suporte de Headset Mais Barato e Eficiente.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Meu Racha - Wireframe"
+              "icon": "lucide-file",
+              "title": "Roteiro - O Suporte de Headset Mais Barato e Eficiente"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Meu Racha - Wireframe.md",
+                "file": "Videos/Roteiro - O Suporte de Headset Mais Barato e Eficiente.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Meu Racha - Wireframe"
+              "title": "Sumário de Roteiro - O Suporte de Headset Mais Barato e Eficiente"
             }
           },
           {
@@ -228,11 +230,11 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
+    "Soltos/Meu Racha - Wireframe.md",
     "Videos/Roteiro - O Suporte de Headset Mais Barato e Eficiente.md",
     "Videos/Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Soltos/Meu Racha - Uma Lição Sobre Segurança em Aplicações Web.md",
     "Soltos/Meu Racha - Wireframe.png",
-    "Soltos/Meu Racha - Wireframe.md",
     "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
     "Videos/📌 Roteiro Desenvolvimento de Wireframe.md",
     "conflict-files-obsidian-git.md",
