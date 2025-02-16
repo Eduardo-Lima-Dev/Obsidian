@@ -17,12 +17,12 @@ estado: Nao Gravado
 (Câmera dá um leve zoom na garrafa com o headset.)  
 
 **Você:**  
-*"O problema era o seguinte: eu precisava de um suporte para headset, mas se você já pesquisou o preço de um desses, sabe que é quase o valor de um aluguel. Aí, pensei… preciso de algo firme, estável, e que eu já tenha em casa. E aí, olha só o que encaixou *perfeitamente*! (mostra o headset encaixando na garrafa)"*  
+*"O problema era o seguinte: eu precisava de um suporte para headset, mas se você já pesquisou o preço de um desses, sabe que é quase o valor pode ser bem salgado. Aí, pensei… preciso de algo estável, e que eu já tenha em casa. E aí, olha só o que encaixou *perfeitamente*! (mostra o headset encaixando na garrafa)"*  
 
 (Adiciona um corte rápido para um momento cômico, talvez um meme de Eureka ou algo assim.)  
 
 **Você:**  
-*"E o melhor de tudo: custo zero! Reciclagem, sustentabilidade e inovação, tudo num só suporte."*  
+*"E o melhor de tudo: no 0800, além de inovar e reciclar, tudo num só suporte."*  
 
 ---
 
@@ -30,6 +30,6 @@ estado: Nao Gravado
 (Câmera volta para você, olhando direto para a lente com um sorriso.)  
 
 **Você:**  
-*"Então, não, eu *não* programo tomando 51… mas posso dizer que esse setup é 100% funcional. E se um dia o código der errado, pelo menos o suporte já tá no tema!"*  
+*"Então, não, eu *não* programo bebendo 51… mas posso dizer que esse setup é 100% funcional. E se um dia o código der errado, pelo menos o suporte já tá no tema!"*  
 
 (Fecha com um sorriso e talvez uma piscadinha, enquanto ajusta o headset na garrafa de novo.)  
