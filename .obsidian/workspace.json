@@ -34,9 +34,33 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-14 10.34.27.excalidraw"
             }
+          },
+          {
+            "id": "17d4cbd9c2389d9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "2b027af0985391b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Soltos/Drawing 2025-02-21 12.43.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-21 12.43.07.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
+                "file": "Soltos/Drawing 2025-02-21 12.43.07.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-02-14 10.34.27.excalidraw"
+              "title": "Sumário de Drawing 2025-02-21 12.43.07.excalidraw"
             }
           },
           {
@@ -226,8 +250,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5371b2872bbf20c5",
+  "active": "2b027af0985391b3",
   "lastOpenFiles": [
+    "Soltos/Drawing 2025-02-21 12.43.07.excalidraw.md",
     "Sumario.md",
     "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
     "Projeto - Music",
@@ -255,7 +280,6 @@
     "Modelos/Modelo Logica.md",
     "Universidade/Redes/Introdução Redes.md",
     "Universidade/Redes/Camada de Transporte.md",
-    "Universidade/Redes/Camada Aplicação.md",
     "Modelos",
     "RediUX/Encontros Universitarios",
     "image-removebg-preview.png",
