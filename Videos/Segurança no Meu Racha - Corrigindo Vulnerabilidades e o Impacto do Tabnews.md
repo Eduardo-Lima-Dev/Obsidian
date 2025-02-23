@@ -4,6 +4,7 @@ tags:
 materia: Livre
 tipo: Hobbie
 estado: Nao Gravado
+plataforma: Youtube
 ---
 ## Ato 1: Introdução e Contextualização
 
@@ -17,19 +18,19 @@ estado: Nao Gravado
 - **Sobre o Meu Racha:**  
   "Eu desenvolvi um sistema chamado **Meu Racha**, que ajuda a organizar times no futebol amador de forma mais equilibrada. Ele foi criado inicialmente para o meu grupo de amigos, mas logo percebi que poderia ser útil para muitas outras pessoas."
 
-### O Papel do Tabnews
-- **O que é o Tabnews:**  
-  "Recentemente, publiquei um artigo no Tabnews – uma plataforma colaborativa de publicação de conteúdos, onde qualquer pessoa pode compartilhar textos, notícias e opiniões de forma democrática."
-
-- **Quem é o Criador:**  
-  "O Tabnews foi criado por um desenvolvedor brasileiro que buscava oferecer um espaço livre e descentralizado para a disseminação de informações. Essa iniciativa tem contribuído para uma comunidade ativa e colaborativa, permitindo que ideias e debates ganhem visibilidade."
-
 ### O Problema Identificado
 - **A Falha de Segurança:**  
-  "Após a publicação do meu artigo no Tabnews, recebi uma mensagem informando sobre um erro crítico: uma rota sem autenticação, que permitia acesso administrativo a qualquer pessoa sem login. Esse bug comprometia a segurança do sistema."
+  "Recentemente, publiquei um artigo sobre o Meu Racha no **TabNews**, explicando algumas funcionalidades do sistema. Pouco tempo depois, recebi uma mensagem que me alertava sobre uma vulnerabilidade grave: qualquer pessoa conseguia acessar a área administrativa sem precisar fazer login! Isso significa que qualquer um poderia entrar no painel e modificar informações sem autorização – um erro que, se fosse explorado, poderia comprometer todo o sistema."
 
 - **Gancho para a Solução:**  
-  "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um middleware. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
+  "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um **middleware**. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
+
+### O Papel do Tabnews
+- **O que é o Tabnews:**  
+  "O **TabNews** é uma plataforma onde desenvolvedores e entusiastas da tecnologia compartilham artigos, tutoriais e discussões. Diferente de redes sociais convencionais, ele valoriza o conteúdo técnico e relevante para a comunidade." ([tabnews.com.br](https://www.tabnews.com.br/faq?utm_source=chatgpt.com))
+
+- **Quem é o Criador:**  
+  "A plataforma foi criada pelo **Filipe Deschamps**, um desenvolvedor e criador de conteúdo muito conhecido no YouTube pelo seu canal focado em programação. Ele desenvolveu o TabNews com o objetivo de criar um espaço colaborativo para troca de conhecimento sem algoritmos que favorecem engajamento artificial." ([github.com](https://github.com/filipedeschamps/tabnews.com.br?utm_source=chatgpt.com))
 
 ---
 
