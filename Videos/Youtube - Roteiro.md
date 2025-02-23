@@ -16,19 +16,19 @@ estado: Nao Gravado
 - **Sobre o Meu Racha:**  
   "O Meu Racha é o sistema de nivelamento de times para futebol amador que desenvolvi para organizar partidas entre meus amigos, elevando a competitividade e a diversão."
 
-### O Papel do Tabnews
-- **O que é o Tabnews:**  
-  "Recentemente, publiquei um artigo no Tabnews – uma plataforma colaborativa de publicação de conteúdos, onde qualquer pessoa pode compartilhar textos, notícias e opiniões de forma democrática."
-
-- **Quem é o Criador:**  
-  "O Tabnews foi criado por um desenvolvedor brasileiro que buscava oferecer um espaço livre e descentralizado para a disseminação de informações. Essa iniciativa tem contribuído para uma comunidade ativa e colaborativa, permitindo que ideias e debates ganhem visibilidade."
-
 ### O Problema Identificado
 - **A Falha de Segurança:**  
   "Após a publicação do meu artigo no Tabnews, recebi uma mensagem informando sobre um erro crítico: uma rota sem autenticação, que permitia acesso administrativo a qualquer pessoa sem login. Esse bug comprometia a segurança do sistema."
 
 - **Gancho para a Solução:**  
   "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um middleware. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
+
+### O Papel do Tabnews
+- **O que é o Tabnews:**  
+  "Recentemente, publiquei um artigo no Tabnews – uma plataforma colaborativa de publicação de conteúdos, onde qualquer pessoa pode compartilhar textos, notícias e opiniões de forma democrática."
+
+- **Quem é o Criador:**  
+  "O Tabnews foi criado por um desenvolvedor brasileiro que buscava oferecer um espaço livre e descentralizado para a disseminação de informações. Essa iniciativa tem contribuído para uma comunidade ativa e colaborativa, permitindo que ideias e debates ganhem visibilidade."
 
 ---
 
