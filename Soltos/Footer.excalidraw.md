@@ -255,7 +255,7 @@ a4dcbffd938d915f71727f2359edbf1e9bae2f0d: [[Pasted Image 20250223184222_304.png]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 279.324886877828,
-		"scrollY": 294.01148897058823,
+		"scrollY": 505.77619485294116,
 		"zoom": {
 			"value": 1.7000000000000002
 		},
