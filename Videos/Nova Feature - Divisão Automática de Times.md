@@ -10,7 +10,7 @@ plataforma: TikTok
 📢 *Cena inicial: Você em frente à câmera, num tom descontraído e chamativo.*  
 
 🗣️ **Diálogo:**  
-"Fala, rapaziada! Quem já acompanha aqui sabe que eu já mostrei o sistema de **divisão de times** que fiz pra acabar com aquelas tretas no rachão. ⚽🔥"  
+"Fala, rapaziada! Quem já acompanha aqui sabe que eu já mostrei o sistema do **Meu Racha** que fiz pra acabar com aquelas tretas no rachão. ⚽🔥"  
 
 📢 *Cena mostrando a tela do app onde antes a divisão era manual.*  
 "Até agora, a gente escolhia os jogadores **na mão**, o que ainda dava margem pra reclamação."  
