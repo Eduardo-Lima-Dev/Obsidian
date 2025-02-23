@@ -11,7 +11,7 @@ estado: Nao Gravado
 
 ### Apresentação Pessoal e do Projeto
 - **Saudação e Boas-Vindas:**  
-  "Fala, pessoal! Eu sou [Seu Nome] e, após criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado."
+  "Fala, pessoal! Eu sou **Eduardo** e, após criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado."
 
 - **Sobre o Meu Racha:**  
   "O Meu Racha é o sistema de nivelamento de times para futebol amador que desenvolvi para organizar partidas entre meus amigos, elevando a competitividade e a diversão."
@@ -25,7 +25,7 @@ estado: Nao Gravado
 
 ### O Papel do Tabnews
 - **O que é o Tabnews:**  
-  "Recentemente, publiquei um artigo no Tabnews – uma plataforma colaborativa de publicação de conteúdos, onde qualquer pessoa pode compartilhar textos, notícias e opiniões de forma democrática."
+  "O TabNews é uma plataforma focada na comunidade de tecnologia, destinada a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários. É um espaço onde profissionais e entusiastas compartilham notícias, artigos, tutoriais e discussões relacionadas ao universo tecnológico."
 
 - **Quem é o Criador:**  
   "A plataforma foi idealizada por Filipe Deschamps, um desenvolvedor e youtuber brasileiro reconhecido por seu canal no YouTube, onde compartilha conteúdos educativos sobre programação e tecnologia. Com o TabNews, Filipe buscou criar um ambiente colaborativo e aberto para a comunidade tecnológica."
