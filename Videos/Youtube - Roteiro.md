@@ -24,14 +24,14 @@ estado: Nao Gravado
   "Recentemente, publiquei um artigo sobre o Meu Racha no **TabNews**, explicando algumas funcionalidades do sistema. Pouco tempo depois, recebi uma mensagem que me alertava sobre uma vulnerabilidade grave: qualquer pessoa conseguia acessar a área administrativa sem precisar fazer login! Isso significa que qualquer um poderia entrar no painel e modificar informações sem autorização – um erro que, se fosse explorado, poderia comprometer todo o sistema."
 
 - **Gancho para a Solução:**  
-  "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um middleware. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
+  "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um **middleware**. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
 
 ### O Papel do Tabnews
 - **O que é o Tabnews:**  
-  "O TabNews é uma plataforma focada na comunidade de tecnologia, destinada a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários. É um espaço onde profissionais e entusiastas compartilham notícias, artigos, tutoriais e discussões relacionadas ao universo tecnológico."
+  "O **TabNews** é uma plataforma onde desenvolvedores e entusiastas da tecnologia compartilham artigos, tutoriais e discussões. Diferente de redes sociais convencionais, ele valoriza o conteúdo técnico e relevante para a comunidade." ([tabnews.com.br](https://www.tabnews.com.br/faq?utm_source=chatgpt.com))
 
 - **Quem é o Criador:**  
-  "A plataforma foi idealizada por Filipe Deschamps, um desenvolvedor e youtuber brasileiro reconhecido por seu canal no YouTube, onde compartilha conteúdos educativos sobre programação e tecnologia. Com o TabNews, Filipe buscou criar um ambiente colaborativo e aberto para a comunidade tecnológica."
+  "A plataforma foi criada pelo **Filipe Deschamps**, um desenvolvedor e criador de conteúdo muito conhecido no YouTube pelo seu canal focado em programação. Ele desenvolveu o TabNews com o objetivo de criar um espaço colaborativo para troca de conhecimento sem algoritmos que favorecem engajamento artificial." ([github.com](https://github.com/filipedeschamps/tabnews.com.br?utm_source=chatgpt.com))
 
 ---
 
