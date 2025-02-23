@@ -28,7 +28,7 @@ estado: Nao Gravado
   "Recentemente, publiquei um artigo no Tabnews – uma plataforma colaborativa de publicação de conteúdos, onde qualquer pessoa pode compartilhar textos, notícias e opiniões de forma democrática."
 
 - **Quem é o Criador:**  
-  "O Tabnews foi criado por um desenvolvedor brasileiro que buscava oferecer um espaço livre e descentralizado para a disseminação de informações. Essa iniciativa tem contribuído para uma comunidade ativa e colaborativa, permitindo que ideias e debates ganhem visibilidade."
+  "A plataforma foi idealizada por Filipe Deschamps, um desenvolvedor e youtuber brasileiro reconhecido por seu canal no YouTube, onde compartilha conteúdos educativos sobre programação e tecnologia. Com o TabNews, Filipe buscou criar um ambiente colaborativo e aberto para a comunidade tecnológica."
 
 ---
 
