@@ -12,10 +12,10 @@ estado: Nao Gravado
   "Fala, pessoal! Eu sou **Eduardo** e, depois de criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado. Esse vídeo marca o começo de algo novo por aqui, onde vou compartilhar experiências reais do meu dia a dia como desenvolvedor, sempre trazendo aprendizados práticos que podem ajudar vocês."
 
 - **Introdução ao Assunto do Vídeo:**
-- 
+  "E pra começar com o pé direito, vou contar pra vocês sobre um problema real que enfrentei em um dos meus projetos e como resolvi de forma eficiente. Se você já programou alguma aplicação web, sabe que a segurança é um dos pontos mais críticos. Um simples descuido pode abrir brechas para acessos indevidos – e foi exatamente isso que aconteceu comigo."
 
 - **Sobre o Meu Racha:**  
-  "O Meu Racha é o sistema de nivelamento de times para futebol amador que desenvolvi para organizar partidas entre meus amigos, elevando a competitividade e a diversão."
+  "Eu desenvolvi um sistema chamado **Meu Racha**, que ajuda a organizar times no futebol amador de forma mais equilibrada. Ele foi criado inicialmente para o meu grupo de amigos, mas logo percebi que poderia ser útil para muitas outras pessoas."
 
 ### O Papel do Tabnews
 - **O que é o Tabnews:**  

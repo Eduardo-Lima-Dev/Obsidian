@@ -11,14 +11,17 @@ estado: Nao Gravado
 
 ### Apresentação Pessoal e do Projeto
 - **Saudação e Boas-Vindas:**  
-  "Fala, pessoal! Eu sou **Eduardo** e, após criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado."
+  "Fala, pessoal! Eu sou **Eduardo** e, depois de criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado. Esse vídeo marca o começo de algo novo por aqui, onde vou compartilhar experiências reais do meu dia a dia como desenvolvedor, sempre trazendo aprendizados práticos que podem ajudar vocês."
+
+- **Introdução ao Assunto do Vídeo:**
+  "E pra começar com o pé direito, vou contar pra vocês sobre um problema real que enfrentei em um dos meus projetos e como resolvi de forma eficiente. Se você já programou alguma aplicação web, sabe que a segurança é um dos pontos mais críticos. Um simples descuido pode abrir brechas para acessos indevidos – e foi exatamente isso que aconteceu comigo."
 
 - **Sobre o Meu Racha:**  
-  "O Meu Racha é o sistema de nivelamento de times para futebol amador que desenvolvi para organizar partidas entre meus amigos, elevando a competitividade e a diversão."
+  "Eu desenvolvi um sistema chamado **Meu Racha**, que ajuda a organizar times no futebol amador de forma mais equilibrada. Ele foi criado inicialmente para o meu grupo de amigos, mas logo percebi que poderia ser útil para muitas outras pessoas."
 
 ### O Problema Identificado
 - **A Falha de Segurança:**  
-  "Após a publicação do meu artigo no Tabnews, recebi uma mensagem informando sobre um erro crítico: uma rota sem autenticação, que permitia acesso administrativo a qualquer pessoa sem login. Esse bug comprometia a segurança do sistema."
+  "Recentemente, publiquei um artigo sobre o Meu Racha no **TabNews**, explicando algumas funcionalidades do sistema. Pouco tempo depois, recebi uma mensagem que me alertava sobre uma vulnerabilidade grave: qualquer pessoa conseguia acessar a área administrativa sem precisar fazer login! Isso significa que qualquer um poderia entrar no painel e modificar informações sem autorização – um erro que, se fosse explorado, poderia comprometer todo o sistema."
 
 - **Gancho para a Solução:**  
   "No vídeo de hoje, vou explicar como identifiquei esse problema e, principalmente, como o corrigi utilizando um middleware. Vou detalhar o que é um middleware, como ele foi implementado e por que essa abordagem é a mais adequada para proteger o Meu Racha."
