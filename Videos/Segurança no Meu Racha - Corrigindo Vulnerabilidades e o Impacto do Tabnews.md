@@ -9,7 +9,10 @@ estado: Nao Gravado
 
 ### Apresentação Pessoal e do Projeto
 - **Saudação e Boas-Vindas:**  
-  "Fala, pessoal! Eu sou **Eduardo** e, após criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado."
+  "Fala, pessoal! Eu sou **Eduardo** e, depois de criar conteúdos para Instagram e TikTok, decidi trazer para o YouTube um conteúdo mais técnico e aprofundado. Esse vídeo marca o começo de algo novo por aqui, onde vou compartilhar experiências reais do meu dia a dia como desenvolvedor, sempre trazendo aprendizados práticos que podem ajudar vocês."
+
+- **Introdução ao Assunto do Vídeo:**
+- 
 
 - **Sobre o Meu Racha:**  
   "O Meu Racha é o sistema de nivelamento de times para futebol amador que desenvolvi para organizar partidas entre meus amigos, elevando a competitividade e a diversão."
