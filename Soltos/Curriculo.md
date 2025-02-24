@@ -2,9 +2,7 @@
 
 **Email:** eduardo.devtech@gmail.com  
 **Telefone:** (89) 9912-9483  
-**LinkedIn:**
-**GitHub:** [Luiz Eduardo](https://github.com/Eduardo-Lima-Dev)
-**WhatsApp:** [Clique aqui](https://wa.me/5589994129483)
+[Linkedin](https://www.linkedin.com/in/luiz-eduardo12/) | [GitHub](https://github.com/Eduardo-Lima-Dev) | [WhatsApp](https://wa.me/5589994129483)
 
 ---
 
