@@ -26,7 +26,7 @@ Universidade Federal do Ceará, Campus Quixadá – Quixadá, CE
 *Desenvolvedor Full Stack, Tech Lead & Product Owner (Projeto RediUX)*  
 _Abril 2024 – Dezembro 2024_  
 - **Projeto RediUX:** Aplicação web para compartilhamento de conteúdo educacional na área de User Experience (UX), reunindo aulas, artigos, postagens e outros materiais didáticos para enriquecer o processo de aprendizagem.  
-- **Tecnologias:** Next.js, TypeScript, Firebase  
+- **Tecnologias:** ReactJs, NodeJs  
 - Atuação inicial como desenvolvedor, evoluindo para Product Owner com a entrada de novos integrantes, assumindo a coordenação do roadmap e do gerenciamento do backlog.  
 - Responsável pela manutenção e evolução contínua da aplicação, garantindo performance e segurança na gestão de dados e autenticação.
 
@@ -35,7 +35,8 @@ _Abril 2024 – Dezembro 2024_
 _Agosto 2022 – Fevereiro 2023_  
 - Gestão das equipes de desenvolvimento mobile e web.  
 - Acompanhamento do backlog e definição de prioridades.  
-- Levantamento e análise de requisitos, além de condução de reuniões com stakeholders para alinhamento estratégico.
+- Levantamento e análise de requisitos.
+- Além de condução de reuniões com stakeholders para alinhamento estratégico.
 
 **Projetos Pessoais (Desenvolvedor Mobile) – Quixadá, CE**  
 - Desenvolvimento de aplicativos utilizando Kotlin, Flutter e Java.  
