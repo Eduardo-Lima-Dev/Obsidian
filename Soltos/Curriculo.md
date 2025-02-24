@@ -2,7 +2,7 @@
 
 **Email:** eduardo.devtech@gmail.com  
 **Telefone:** (89) 9912-9483  
-[Linkedin](https://www.linkedin.com/in/luiz-eduardo12/) | [GitHub](https://github.com/Eduardo-Lima-Dev) | [WhatsApp](https://wa.me/5589994129483)
+[LinkedIn](https://www.linkedin.com/in/luiz-eduardo12/) | [GitHub](https://github.com/Eduardo-Lima-Dev) | [WhatsApp](https://wa.me/5589994129483)
 
 ---
 
@@ -26,7 +26,7 @@ Universidade Federal do Ceará, Campus Quixadá – Quixadá, CE
 *Desenvolvedor Full Stack, Tech Lead & Product Owner (Projeto RediUX)*  
 _Abril 2024 – Dezembro 2024_  
 - **Projeto RediUX:** Aplicação web para compartilhamento de conteúdo educacional na área de User Experience (UX), reunindo aulas, artigos, postagens e outros materiais didáticos para enriquecer o processo de aprendizagem.  
-- **Tecnologias:** ReactJs, NodeJs  
+- **Tecnologias:** ReactJS, NodeJS  
 - Atuação inicial como desenvolvedor, evoluindo para Product Owner com a entrada de novos integrantes, assumindo a coordenação do roadmap e do gerenciamento do backlog.  
 - Responsável pela manutenção e evolução contínua da aplicação, garantindo performance e segurança na gestão de dados e autenticação.
 
@@ -35,27 +35,25 @@ _Abril 2024 – Dezembro 2024_
 _Agosto 2022 – Fevereiro 2023_  
 - Gestão das equipes de desenvolvimento mobile e web.  
 - Acompanhamento do backlog e definição de prioridades.  
-- Levantamento e análise de requisitos.
-- Além de condução de reuniões com stakeholders para alinhamento estratégico.
-
-**Projetos Pessoais (Desenvolvedor Mobile) – Quixadá, CE**  
-- Desenvolvimento de aplicativos utilizando Kotlin, Flutter e Java.  
-- Projetos destacados:  
-  - **QuixHouse:** Aplicativo para conectar estudantes interessados em dividir aluguel.  
-  - **Projeto de Eficiência Energética:** Aplicativo para mensurar a eficiência energética de ambientes com base na luminosidade.
+- Levantamento e análise de requisitos.  
+- Condução de reuniões com stakeholders para alinhamento estratégico.
 
 ---
 
-## Projetos Relevantes
+## Experiência e Projetos Pessoais
 
-### Meu Racha
-- **Link:** [GitHub - Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)
-- **Tecnologias:** Next.js, TypeScript, Firebase  
-- **Descrição:**  
-  Sistema web para nivelamento de jogadores em rachas de futebol. A plataforma permite que os participantes se avaliem mutuamente em uma escala de 1 a 5 estrelas, com avaliações ocorrendo em períodos específicos definidos pelos administradores (ADMs).  
-- **Destaques:**  
-  - Desenvolvimento front-end robusto com Next.js e TypeScript.  
-  - Integração com Firebase para autenticação e gerenciamento de dados, garantindo segurança e agilidade.
+**Projetos Mobile e Web – Quixadá, CE**  
+- Desenvolvimento de aplicativos utilizando Kotlin, Flutter e Java.  
+- Projetos destacados:  
+- **Meu Racha:**  
+    - **Link:** [GitHub - Meu_Racha](https://github.com/Eduardo-Lima-Dev/Meu_Racha)  
+    - **Tecnologias:** Next.js, TypeScript, Firebase  
+    - **Descrição:** Sistema web para nivelamento de jogadores em rachas de futebol. A plataforma permite que os participantes se avaliem mutuamente em uma escala de 1 a 5 estrelas, com avaliações ocorrendo em períodos específicos definidos pelos administradores (ADMs).  
+    - **Destaques:**  
+      - Desenvolvimento front-end robusto com Next.js e TypeScript.  
+      - Integração com Firebase para autenticação e gerenciamento de dados, garantindo segurança e agilidade.
+  - **QuixHouse:** Aplicativo para conectar estudantes interessados em dividir aluguel.  
+  - **Projeto de Eficiência Energética:** Aplicativo para mensurar a eficiência energética de ambientes com base na luminosidade.  
 
 ---
 
@@ -74,7 +72,7 @@ _2017 – 2019_
 ### Habilidades Técnicas
 - **Linguagens & Frameworks:** ReactJS, Next.js, TypeScript, Kotlin, Flutter, Java, NodeJS  
 - **Ferramentas & Metodologias:** Git, Figma, Bootstrap, SCRUM, Elicitação de Requisitos, PostgreSQL  
-- **Outros:** Domínio de HTML5, CSS3, JavaScript (ES6+), design UI/UX, acessibilidade e SEO
+- **Outros:** Domínio de HTML5, CSS3, JavaScript (ES6+), design UI/UX
 
 ### Habilidades Complementares
 - Liderança e Gerência de Projetos  
@@ -86,5 +84,3 @@ _2017 – 2019_
 - Android, Swift, DevOps, UX, Linux
 
 ---
-
-*Links para repositórios e portfólio disponíveis mediante solicitação.*
