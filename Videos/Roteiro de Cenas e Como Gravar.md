@@ -4,6 +4,7 @@ tags:
 materia: Hobbie
 tipo: Atividade
 estado: Publicado
+plataforma: TikTok
 ---
 ## **1. Abertura Impactante (0:00 - 0:20)**
 

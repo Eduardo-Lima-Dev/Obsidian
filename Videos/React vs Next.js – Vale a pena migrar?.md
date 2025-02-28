@@ -4,7 +4,7 @@ tags:
 materia: Livre
 tipo: Hobbie
 estado: Nao Gravado
-plataforma:
+plataforma: TikTok
 ---
 ## 🎭 **Ato 1 – Abertura (Gancho)**
 

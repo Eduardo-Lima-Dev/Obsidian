@@ -3,7 +3,8 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
+estado: Postado
+plataforma: TikTok
 ---
 ## **Ato 1 - Introdução (Setup)**  
 (Câmera foca na mesa com a garrafa de 51 e o headset apoiado nela. Você senta, olha para a câmera e começa com um tom descontraído.)  

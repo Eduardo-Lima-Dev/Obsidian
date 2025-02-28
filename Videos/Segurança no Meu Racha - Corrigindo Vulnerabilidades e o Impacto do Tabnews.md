@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
+estado: Gravado
 plataforma: Youtube
 ---
 ## Ato 1: Introdução e Contextualização

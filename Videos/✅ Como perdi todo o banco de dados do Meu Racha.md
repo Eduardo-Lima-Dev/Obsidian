@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
+estado: Postado
 plataforma: TikTok
 ---
 ## 📍 Ato 1 – A Introdução (O Gancho)  
