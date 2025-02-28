@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Nova Feature - Divisão Automática de Times.md",
+                "file": "Videos/Entendendo o  TCP-IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nova Feature - Divisão Automática de Times"
+              "title": "Entendendo o  TCP-IP"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Nova Feature - Divisão Automática de Times.md",
+                "file": "Videos/Entendendo o  TCP-IP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nova Feature - Divisão Automática de Times"
+              "title": "Sumário de Entendendo o  TCP-IP"
             }
           },
           {
@@ -230,6 +230,8 @@
   },
   "active": "b84938eaeb685d0d",
   "lastOpenFiles": [
+    "Videos/O que é uma API.md",
+    "Videos/Nova Feature - Divisão Automática de Times.md",
     "Sumario.md",
     "Soltos/Sem título.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
@@ -241,7 +243,6 @@
     "Imagens/Pasted Image 20250223184338_306.png",
     "Imagens/Pasted Image 20250223184307_305.png",
     "Imagens/Pasted Image 20250223184222_304.png",
-    "Videos/Nova Feature - Divisão Automática de Times.md",
     "Modelos/Modelo Roteiros.md",
     "Videos/Roteiro - O Suporte de Headset Mais Barato e Eficiente.md",
     "Soltos/Meu Racha - Wireframe.md",
@@ -261,7 +262,6 @@
     "Videos/Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/Roteiro de Cenas e Como Gravar.md",
     "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
-    "Videos/O que é uma API.md",
     "Universidade/PAA/Algoritmo de DIJKSTRA.md",
     "Universidade/PAA/Algoritmo PRIM.md",
     "Universidade/PAA/Algoritmo de Kruskal.md",
