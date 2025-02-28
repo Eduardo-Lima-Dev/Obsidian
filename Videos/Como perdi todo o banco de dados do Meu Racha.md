@@ -4,6 +4,7 @@ tags:
 materia: Livre
 tipo: Hobbie
 estado: Nao Gravado
+plataforma: TikTok
 ---
 ## 📍 Ato 1 – A Introdução (O Gancho)  
 *(Câmera em close, expressão séria, fundo escuro ou desfocado para dar um ar de mistério.)*  

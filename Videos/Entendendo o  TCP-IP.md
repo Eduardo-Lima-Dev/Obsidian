@@ -4,6 +4,7 @@ tags:
 materia: Livre
 tipo: Hobbie
 estado: Nao Gravado
+plataforma: TikTok
 ---
 **Duração Total:** 60 segundos
 ## Ato 1 - Construção (0-15 segundos)

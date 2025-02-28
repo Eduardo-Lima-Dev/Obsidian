@@ -4,6 +4,7 @@ tags:
 materia: Livre
 tipo: Hobbie
 estado: Nao Gravado
+plataforma: TikTok
 ---
 ## 🎬 Ato 1: Introdução - O Problema (0:00 - 0:30)
 
