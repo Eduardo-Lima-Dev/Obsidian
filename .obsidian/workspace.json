@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Como perdi todo o banco de dados do Meu Racha"
             }
-          },
-          {
-            "id": "b318609d210d2e81",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,12 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Videos/Como perdi todo o banco de dados do Meu Racha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Como perdi todo o banco de dados do Meu Racha"
             }
           },
           {
@@ -239,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b318609d210d2e81",
+  "active": "e55cfba884144016",
   "lastOpenFiles": [
     "Videos/Roteiro - O Suporte de Headset Mais Barato e Eficiente.md",
     "Videos/Como perdi todo o banco de dados do Meu Racha.md",
