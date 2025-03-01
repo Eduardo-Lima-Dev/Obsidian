@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/Nova Feature - Divisão Automática de Times.md",
+                "file": "Videos/React vs Next.js – Vale ad pena migrar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nova Feature - Divisão Automática de Times"
+              "title": "React vs Next.js – Vale ad pena migrar"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Nova Feature - Divisão Automática de Times.md",
+                "file": "Videos/React vs Next.js – Vale ad pena migrar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nova Feature - Divisão Automática de Times"
+              "title": "Sumário de React vs Next.js – Vale ad pena migrar"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "e55cfba884144016",
   "lastOpenFiles": [
-    "Videos/React vs Next.js – Vale ad pena migrar.md",
     "Videos/Nova Feature - Divisão Automática de Times.md",
+    "Videos/React vs Next.js – Vale ad pena migrar.md",
     "Videos/Entendendo o  TCP-IP.md",
     "Videos/Como perdi todo o banco de dados do Meu Racha.md",
     "Videos/Segurança no Meu Racha - Corrigindo Vulnerabilidades e o Impacto do Tabnews.md",
