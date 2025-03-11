@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soltos/Sem título 1.md",
+                "file": "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Roteiro de Testes de Usuário – Home-Life"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Sem título 1.md",
+                "file": "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título 1"
+              "title": "Sumário de Roteiro de Testes de Usuário – Home-Life"
             }
           },
           {
@@ -231,7 +231,7 @@
   "active": "c4da7b4d244a5580",
   "lastOpenFiles": [
     "Sumario.md",
-    "Soltos/Sem título 1.md",
+    "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
     "Soltos/🎤 Roteiro para Entrevista - Apresentação e Experiências.md",
     "conflict-files-obsidian-git.md",
     "Videos/Segurança no Meu Racha - Corrigindo Vulnerabilidades e o Impacto do Tabnews.md",
