@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
+                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro de Testes de Usuário – Home-Life"
+              "title": "Documento de Requisitos - Home Life"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
+                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Testes de Usuário – Home-Life"
+              "title": "Sumário de Documento de Requisitos - Home Life"
             }
           },
           {
@@ -230,8 +230,10 @@
   },
   "active": "c4da7b4d244a5580",
   "lastOpenFiles": [
-    "Sumario.md",
+    "Freela-HomeLife/Briefing.md",
+    "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
+    "Sumario.md",
     "Soltos/🎤 Roteiro para Entrevista - Apresentação e Experiências.md",
     "conflict-files-obsidian-git.md",
     "Videos/Segurança no Meu Racha - Corrigindo Vulnerabilidades e o Impacto do Tabnews.md",
@@ -264,9 +266,7 @@
     "Imagens/Pasted Image 20250210083112_093.png",
     "Imagens/Pasted Image 20250210083048_064.png",
     "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
-    "Soltos/cardDestaque.excalidraw.md",
     "Projeto - Music",
-    "Videos/TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos",
     "Modelos",
     "RediUX/Encontros Universitarios",
