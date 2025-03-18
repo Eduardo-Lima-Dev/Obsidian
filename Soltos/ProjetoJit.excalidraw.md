@@ -89,8 +89,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 38,
-			"versionNonce": 854780399,
+			"version": 39,
+			"versionNonce": 98138737,
 			"isDeleted": false,
 			"id": "9Uiimthh",
 			"fillStyle": "solid",
@@ -110,7 +110,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -159,8 +159,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 805164047,
+			"version": 94,
+			"versionNonce": 2053529887,
 			"isDeleted": false,
 			"id": "G5BxKQrx",
 			"fillStyle": "solid",
@@ -180,7 +180,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -229,8 +229,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 103349583,
+			"version": 87,
+			"versionNonce": 243467345,
 			"isDeleted": false,
 			"id": "SsZcsXuy",
 			"fillStyle": "solid",
@@ -250,7 +250,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331271365,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -265,8 +265,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 720301089,
+			"version": 137,
+			"versionNonce": 1381688639,
 			"isDeleted": false,
 			"id": "7egKQb1V",
 			"fillStyle": "solid",
@@ -291,7 +291,7 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331273812,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -306,8 +306,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 487939151,
+			"version": 149,
+			"versionNonce": 1092637233,
 			"isDeleted": false,
 			"id": "IUJk1m4K",
 			"fillStyle": "solid",
@@ -327,7 +327,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -376,8 +376,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 195,
-			"versionNonce": 1709374063,
+			"version": 196,
+			"versionNonce": 493479263,
 			"isDeleted": false,
 			"id": "BtAkRVBM",
 			"fillStyle": "solid",
@@ -397,7 +397,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -423,7 +423,7 @@ Jogo ^BtAkRVBM
 			"opacity": 100,
 			"angle": 0,
 			"x": -744.5146812953204,
-			"y": -107.14937345805959,
+			"y": -176.07746780747215,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 171.84800720214844,
@@ -459,15 +459,15 @@ Jogo ^BtAkRVBM
 			"points": [
 				[
 					0,
-					-68.92809434941256
+					0
 				],
 				[
 					107.03416442871094,
-					-98.07832673244502
+					-29.15023238303246
 				],
 				[
 					171.84800720214844,
-					-63.07832673244502
+					5.84976761696754
 				]
 			]
 		},
@@ -487,7 +487,7 @@ Jogo ^BtAkRVBM
 			"y": -348.41376586433273,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 66.57992553710938,
+			"width": 58.84765625,
 			"height": 25,
 			"seed": 1117013812,
 			"groupIds": [],
@@ -509,8 +509,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 288,
-			"versionNonce": 1776861153,
+			"version": 289,
+			"versionNonce": 848880657,
 			"isDeleted": false,
 			"id": "1LwlXLXc",
 			"fillStyle": "solid",
@@ -530,7 +530,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -579,8 +579,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 205,
-			"versionNonce": 1567103937,
+			"version": 206,
+			"versionNonce": 182706559,
 			"isDeleted": false,
 			"id": "MeR4xblu",
 			"fillStyle": "solid",
@@ -600,7 +600,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -615,8 +615,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 246,
-			"versionNonce": 562642127,
+			"version": 247,
+			"versionNonce": 1860450801,
 			"isDeleted": false,
 			"id": "54BFOi99",
 			"fillStyle": "solid",
@@ -636,7 +636,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653949,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -741,8 +741,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 308,
-			"versionNonce": 1054007169,
+			"version": 309,
+			"versionNonce": 201939359,
 			"isDeleted": false,
 			"id": "kwdGEUem",
 			"fillStyle": "solid",
@@ -767,7 +767,7 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331266979,
+			"updated": 1742335653950,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -782,8 +782,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 1944950031,
+			"version": 399,
+			"versionNonce": 386520017,
 			"isDeleted": false,
 			"id": "7mWrfJa6",
 			"fillStyle": "solid",
@@ -803,7 +803,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653950,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -866,8 +866,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 161,
-			"versionNonce": 1320557359,
+			"version": 162,
+			"versionNonce": 369806783,
 			"isDeleted": false,
 			"id": "Kdrc9Wra",
 			"fillStyle": "solid",
@@ -887,7 +887,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742335653950,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -916,8 +916,8 @@ Jogo ^BtAkRVBM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1096.707474506067,
-		"scrollY": 659.7059715264974,
+		"scrollX": 1329.134953715287,
+		"scrollY": 1075.1811527991097,
 		"zoom": {
 			"value": 0.8
 		},
