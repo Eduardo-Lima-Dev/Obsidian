@@ -60,8 +60,8 @@ Jogo ^BtAkRVBM
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 68,
-			"versionNonce": 716925108,
+			"version": 69,
+			"versionNonce": 1175481505,
 			"isDeleted": false,
 			"id": "SNhJP-Y3ZF8_jGtggDX-z",
 			"fillStyle": "solid",
@@ -83,14 +83,14 @@ Jogo ^BtAkRVBM
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1742326050625,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 1602323301,
+			"version": 38,
+			"versionNonce": 854780399,
 			"isDeleted": false,
 			"id": "9Uiimthh",
 			"fillStyle": "solid",
@@ -110,7 +110,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -125,8 +125,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "rectangle",
-			"version": 120,
-			"versionNonce": 186103180,
+			"version": 121,
+			"versionNonce": 1501311105,
 			"isDeleted": false,
 			"id": "t-tsLlX5vG2F_RT8rtbE3",
 			"fillStyle": "solid",
@@ -153,14 +153,14 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742326224816,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 1976996203,
+			"version": 93,
+			"versionNonce": 805164047,
 			"isDeleted": false,
 			"id": "G5BxKQrx",
 			"fillStyle": "solid",
@@ -180,7 +180,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -195,8 +195,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "rectangle",
-			"version": 59,
-			"versionNonce": 1683574796,
+			"version": 118,
+			"versionNonce": 1456846095,
 			"isDeleted": false,
 			"id": "ONDBCVr4SzAZhulEcludl",
 			"fillStyle": "solid",
@@ -205,8 +205,8 @@ Jogo ^BtAkRVBM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -561.4840187586993,
-			"y": -531.2681359815202,
+			"x": -827.3576607264728,
+			"y": -289.35735412116867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 73.0296630859375,
@@ -223,14 +223,14 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742326222076,
+			"updated": 1742331271365,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 1705365189,
+			"version": 86,
+			"versionNonce": 103349583,
 			"isDeleted": false,
 			"id": "SsZcsXuy",
 			"fillStyle": "solid",
@@ -239,8 +239,8 @@ Jogo ^BtAkRVBM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -544.1394753016681,
-			"y": -558.6542748975359,
+			"x": -810.0131172694415,
+			"y": -316.7434930371843,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 43.9599609375,
@@ -250,7 +250,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331271365,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -265,8 +265,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 192359435,
+			"version": 136,
+			"versionNonce": 720301089,
 			"isDeleted": false,
 			"id": "7egKQb1V",
 			"fillStyle": "solid",
@@ -275,8 +275,8 @@ Jogo ^BtAkRVBM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -551.4423927821368,
-			"y": -514.8364648389421,
+			"x": -817.3160347499103,
+			"y": -272.92568297859054,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 57.5599365234375,
@@ -285,8 +285,13 @@ Jogo ^BtAkRVBM
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1742328516752,
+			"boundElements": [
+				{
+					"id": "4py09w3eiY4k_jH81iOuj",
+					"type": "arrow"
+				}
+			],
+			"updated": 1742331273812,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -301,8 +306,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 1810476581,
+			"version": 148,
+			"versionNonce": 487939151,
 			"isDeleted": false,
 			"id": "IUJk1m4K",
 			"fillStyle": "solid",
@@ -322,7 +327,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -337,8 +342,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "rectangle",
-			"version": 210,
-			"versionNonce": 434371508,
+			"version": 211,
+			"versionNonce": 1857590305,
 			"isDeleted": false,
 			"id": "-ClCE4KkXw4Wf2iUfGbgf",
 			"fillStyle": "solid",
@@ -365,14 +370,14 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742326875322,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 193,
-			"versionNonce": 1667986091,
+			"version": 195,
+			"versionNonce": 1709374063,
 			"isDeleted": false,
 			"id": "BtAkRVBM",
 			"fillStyle": "solid",
@@ -392,7 +397,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -407,8 +412,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "arrow",
-			"version": 186,
-			"versionNonce": 176040460,
+			"version": 336,
+			"versionNonce": 672737313,
 			"isDeleted": false,
 			"id": "4py09w3eiY4k_jH81iOuj",
 			"fillStyle": "solid",
@@ -417,12 +422,12 @@ Jogo ^BtAkRVBM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -572.4384254969806,
-			"y": -429.939461665114,
+			"x": -744.5146812953204,
+			"y": -107.14937345805959,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.8138427734375,
-			"height": 211.78604125976562,
+			"width": 171.84800720214844,
+			"height": 35,
 			"seed": 1380969780,
 			"groupIds": [],
 			"frameId": null,
@@ -435,18 +440,18 @@ Jogo ^BtAkRVBM
 					"id": "JYLzBfpo"
 				}
 			],
-			"updated": 1742326235485,
+			"updated": 1742331277420,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "ONDBCVr4SzAZhulEcludl",
-				"focus": 0.2893954671163582,
-				"gap": 10.95440673828125
+				"elementId": "7egKQb1V",
+				"focus": 1.0172747890397278,
+				"gap": 15.241416931152344
 			},
 			"endBinding": {
 				"elementId": "t-tsLlX5vG2F_RT8rtbE3",
-				"focus": -0.602837410269783,
-				"gap": 9.532373861238398
+				"focus": -0.35002763312959756,
+				"gap": 10.673464254304804
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -454,22 +459,22 @@ Jogo ^BtAkRVBM
 			"points": [
 				[
 					0,
-					0
+					-68.92809434941256
 				],
 				[
-					-63.9010009765625,
-					94.02569580078125
+					107.03416442871094,
+					-98.07832673244502
 				],
 				[
-					0.912841796875,
-					211.78604125976562
+					171.84800720214844,
+					-63.07832673244502
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 7,
-			"versionNonce": 572357516,
+			"version": 9,
+			"versionNonce": 1968652239,
 			"isDeleted": false,
 			"id": "JYLzBfpo",
 			"fillStyle": "solid",
@@ -482,14 +487,14 @@ Jogo ^BtAkRVBM
 			"y": -348.41376586433273,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 58.84765625,
+			"width": 66.57992553710938,
 			"height": 25,
 			"seed": 1117013812,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742326234550,
+			"updated": 1742331269784,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -504,8 +509,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 1899667845,
+			"version": 288,
+			"versionNonce": 1776861153,
 			"isDeleted": false,
 			"id": "1LwlXLXc",
 			"fillStyle": "solid",
@@ -525,7 +530,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -540,8 +545,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "rectangle",
-			"version": 212,
-			"versionNonce": 1495758732,
+			"version": 213,
+			"versionNonce": 367815343,
 			"isDeleted": false,
 			"id": "jn-J7ucFUwTSPbmfbsCHi",
 			"fillStyle": "solid",
@@ -568,14 +573,14 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742326606858,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 203,
-			"versionNonce": 1314776395,
+			"version": 205,
+			"versionNonce": 1567103937,
 			"isDeleted": false,
 			"id": "MeR4xblu",
 			"fillStyle": "solid",
@@ -595,7 +600,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -610,8 +615,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 244,
-			"versionNonce": 987113701,
+			"version": 246,
+			"versionNonce": 562642127,
 			"isDeleted": false,
 			"id": "54BFOi99",
 			"fillStyle": "solid",
@@ -631,7 +636,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -646,8 +651,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "arrow",
-			"version": 301,
-			"versionNonce": 1871072820,
+			"version": 302,
+			"versionNonce": 72416161,
 			"isDeleted": false,
 			"id": "Hli3PVzjk0t8Jw_OoC2yF",
 			"fillStyle": "solid",
@@ -669,7 +674,7 @@ Jogo ^BtAkRVBM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1742326878638,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -702,8 +707,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "rectangle",
-			"version": 287,
-			"versionNonce": 1528426636,
+			"version": 288,
+			"versionNonce": 1644612335,
 			"isDeleted": false,
 			"id": "glrS_tyYfVyh9nepa5ZJO",
 			"fillStyle": "solid",
@@ -730,14 +735,14 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742326896828,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 598279147,
+			"version": 308,
+			"versionNonce": 1054007169,
 			"isDeleted": false,
 			"id": "kwdGEUem",
 			"fillStyle": "solid",
@@ -762,7 +767,7 @@ Jogo ^BtAkRVBM
 					"type": "arrow"
 				}
 			],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -777,8 +782,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 396,
-			"versionNonce": 172606533,
+			"version": 398,
+			"versionNonce": 1944950031,
 			"isDeleted": false,
 			"id": "7mWrfJa6",
 			"fillStyle": "solid",
@@ -798,7 +803,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516752,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -813,8 +818,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "arrow",
-			"version": 101,
-			"versionNonce": 1154762252,
+			"version": 102,
+			"versionNonce": 992823137,
 			"isDeleted": false,
 			"id": "Ya4Me10DwCvRvGzcXdLcn",
 			"fillStyle": "solid",
@@ -836,7 +841,7 @@ Jogo ^BtAkRVBM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1742326904235,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -861,8 +866,8 @@ Jogo ^BtAkRVBM
 		},
 		{
 			"type": "text",
-			"version": 159,
-			"versionNonce": 1800883851,
+			"version": 161,
+			"versionNonce": 1320557359,
 			"isDeleted": false,
 			"id": "Kdrc9Wra",
 			"fillStyle": "solid",
@@ -882,7 +887,7 @@ Jogo ^BtAkRVBM
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742328516753,
+			"updated": 1742331266979,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -911,10 +916,10 @@ Jogo ^BtAkRVBM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 697.8219272870645,
-		"scrollY": 1246.0086496456265,
+		"scrollX": 1096.707474506067,
+		"scrollY": 659.7059715264974,
 		"zoom": {
-			"value": 0.6000000000000001
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
