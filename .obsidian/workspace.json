@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "c00aa430763dbb03",
+            "id": "5fb2f3cb67679d2a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -226,12 +227,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c00aa430763dbb03",
+  "active": "5fb2f3cb67679d2a",
   "lastOpenFiles": [
+    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
+    "Imagens/Pasted Image 20250221124322_162.png",
     "Soltos/ProjetoJit.excalidraw.md",
     "Sumario.md",
     "Soltos/Poker Como Jogar (Texas Hold´Em).md",
-    "Requisitos do Aplicativo de Organização Gamificado.md",
     "Freela-HomeLife/Briefing.md",
     "Projeto - Bujo",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
@@ -254,7 +256,6 @@
     "Soltos/Sem título.md",
     "Soltos/Meu Racha - Wireframe.md",
     "Soltos/Meu Racha - Uma Lição Sobre Segurança em Aplicações Web.md",
-    "Soltos/Meu Racha - Nivelando seu Futebol Amador com Tecnologia.md",
     "Imagens/{B6BE9F8C-8D82-41B8-A43F-EB76BAB604C4}.png",
     "Imagens/{B25F4FD2-AA4D-4026-A9DD-68A260C20646}.png",
     "Imagens/Pasted Image 20250223184411_307.png",
@@ -264,7 +265,6 @@
     "Imagens/Pasted Image 20250210083429_096.png",
     "Imagens/Pasted Image 20250210083129_094.png",
     "Imagens/Pasted Image 20250210083112_093.png",
-    "Imagens/Pasted Image 20250210083048_064.png",
     "Projeto - Music",
     "Videos",
     "Modelos",
