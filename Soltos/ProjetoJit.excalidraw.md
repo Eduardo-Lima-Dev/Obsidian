@@ -50,6 +50,11 @@ Jogo ^BtAkRVBM
 3 - Excluir (Botao)
 4 - Modal de criação ^Kdrc9Wra
 
+Frequencia ^AE7R9SYk
+
+1 - ID Jogo
+2 - ID Jogador ^DA3nQY6J
+
 %%
 # Drawing
 ```json
@@ -899,6 +904,107 @@ Jogo ^BtAkRVBM
 			"containerId": null,
 			"originalText": "1 - Dashboard (jogadorList)\n  - Nome | Data | Horas\n2 - Edição (Nome)\n3 - Excluir (Botao)\n4 - Modal de criação",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "czB-7UafuBhcWIEYccjpr",
+			"type": "rectangle",
+			"x": -56.378123398498815,
+			"y": 497.2279127279951,
+			"width": 206.4493032602163,
+			"height": 109.5445368840144,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 768731832,
+			"version": 73,
+			"versionNonce": 1169383096,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574551788,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "AE7R9SYk",
+			"type": "text",
+			"x": -7.223507262681494,
+			"y": 449.4777624876104,
+			"width": 101.33988952636719,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1650512568,
+			"version": 105,
+			"versionNonce": 1184444360,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574517184,
+			"link": null,
+			"locked": false,
+			"text": "Frequencia",
+			"rawText": "Frequencia",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Frequencia",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "DA3nQY6J",
+			"type": "text",
+			"x": -31.098629332993994,
+			"y": 528.1250825747497,
+			"width": 157.13983154296875,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1976950216,
+			"version": 76,
+			"versionNonce": 506247368,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574545243,
+			"link": null,
+			"locked": false,
+			"text": "1 - ID Jogo\n2 - ID Jogador",
+			"rawText": "1 - ID Jogo\n2 - ID Jogador",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1 - ID Jogo\n2 - ID Jogador",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -916,8 +1022,8 @@ Jogo ^BtAkRVBM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 892.7508583032529,
-		"scrollY": 1190.6402516150276,
+		"scrollX": 453.43304799660575,
+		"scrollY": -196.4193964456934,
 		"zoom": {
 			"value": 0.65
 		},
