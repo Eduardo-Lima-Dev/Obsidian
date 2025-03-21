@@ -53,7 +53,15 @@ Jogo ^BtAkRVBM
 Frequencia ^AE7R9SYk
 
 1 - ID Jogo
-2 - ID Jogador ^DA3nQY6J
+2 - Data do jogo ^DA3nQY6J
+
+Se eu quiser uma frequencia de uma data especifica
+- Preciso pegar o ID de Jogo ^xUaVItQq
+
+Frequencia ^kc6noz3Z
+
+1 - ID Jogo
+2 - ID Jogador ^lEdNDmiq
 
 %%
 # Drawing
@@ -65,8 +73,8 @@ Frequencia ^AE7R9SYk
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 69,
-			"versionNonce": 1175481505,
+			"version": 70,
+			"versionNonce": 545351096,
 			"isDeleted": false,
 			"id": "SNhJP-Y3ZF8_jGtggDX-z",
 			"fillStyle": "solid",
@@ -88,14 +96,14 @@ Frequencia ^AE7R9SYk
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 40,
-			"versionNonce": 2125245384,
+			"version": 41,
+			"versionNonce": 788197832,
 			"isDeleted": false,
 			"id": "9Uiimthh",
 			"fillStyle": "solid",
@@ -115,7 +123,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -130,8 +138,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "rectangle",
-			"version": 121,
-			"versionNonce": 1501311105,
+			"version": 122,
+			"versionNonce": 129756856,
 			"isDeleted": false,
 			"id": "t-tsLlX5vG2F_RT8rtbE3",
 			"fillStyle": "solid",
@@ -158,14 +166,14 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 95,
-			"versionNonce": 278582456,
+			"version": 96,
+			"versionNonce": 1430878408,
 			"isDeleted": false,
 			"id": "G5BxKQrx",
 			"fillStyle": "solid",
@@ -185,7 +193,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -200,8 +208,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 1456846095,
+			"version": 119,
+			"versionNonce": 415061944,
 			"isDeleted": false,
 			"id": "ONDBCVr4SzAZhulEcludl",
 			"fillStyle": "solid",
@@ -228,14 +236,14 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331271365,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 2058613448,
+			"version": 89,
+			"versionNonce": 1580146632,
 			"isDeleted": false,
 			"id": "SsZcsXuy",
 			"fillStyle": "solid",
@@ -255,7 +263,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -270,8 +278,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 138,
-			"versionNonce": 818904504,
+			"version": 139,
+			"versionNonce": 933863608,
 			"isDeleted": false,
 			"id": "7egKQb1V",
 			"fillStyle": "solid",
@@ -296,7 +304,7 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -311,8 +319,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 607803848,
+			"version": 151,
+			"versionNonce": 700966600,
 			"isDeleted": false,
 			"id": "IUJk1m4K",
 			"fillStyle": "solid",
@@ -332,7 +340,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -347,8 +355,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "rectangle",
-			"version": 211,
-			"versionNonce": 1857590305,
+			"version": 212,
+			"versionNonce": 606390712,
 			"isDeleted": false,
 			"id": "-ClCE4KkXw4Wf2iUfGbgf",
 			"fillStyle": "solid",
@@ -375,14 +383,14 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 377947832,
+			"version": 198,
+			"versionNonce": 883936712,
 			"isDeleted": false,
 			"id": "BtAkRVBM",
 			"fillStyle": "solid",
@@ -402,7 +410,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -417,8 +425,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "arrow",
-			"version": 336,
-			"versionNonce": 672737313,
+			"version": 337,
+			"versionNonce": 156422840,
 			"isDeleted": false,
 			"id": "4py09w3eiY4k_jH81iOuj",
 			"fillStyle": "solid",
@@ -445,7 +453,7 @@ Frequencia ^AE7R9SYk
 					"id": "JYLzBfpo"
 				}
 			],
-			"updated": 1742331277420,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -478,8 +486,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 9,
-			"versionNonce": 1968652239,
+			"version": 10,
+			"versionNonce": 134403272,
 			"isDeleted": false,
 			"id": "JYLzBfpo",
 			"fillStyle": "solid",
@@ -499,7 +507,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742331269784,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -514,8 +522,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 290,
-			"versionNonce": 1046208712,
+			"version": 291,
+			"versionNonce": 232242104,
 			"isDeleted": false,
 			"id": "1LwlXLXc",
 			"fillStyle": "solid",
@@ -535,7 +543,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -550,8 +558,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "rectangle",
-			"version": 213,
-			"versionNonce": 367815343,
+			"version": 214,
+			"versionNonce": 693959624,
 			"isDeleted": false,
 			"id": "jn-J7ucFUwTSPbmfbsCHi",
 			"fillStyle": "solid",
@@ -578,14 +586,14 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 1315270584,
+			"version": 208,
+			"versionNonce": 1675068600,
 			"isDeleted": false,
 			"id": "MeR4xblu",
 			"fillStyle": "solid",
@@ -605,7 +613,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -620,8 +628,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 248,
-			"versionNonce": 1219790792,
+			"version": 249,
+			"versionNonce": 182076104,
 			"isDeleted": false,
 			"id": "54BFOi99",
 			"fillStyle": "solid",
@@ -641,7 +649,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -656,8 +664,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "arrow",
-			"version": 302,
-			"versionNonce": 72416161,
+			"version": 303,
+			"versionNonce": 1492528568,
 			"isDeleted": false,
 			"id": "Hli3PVzjk0t8Jw_OoC2yF",
 			"fillStyle": "solid",
@@ -679,7 +687,7 @@ Frequencia ^AE7R9SYk
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -712,8 +720,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "rectangle",
-			"version": 288,
-			"versionNonce": 1644612335,
+			"version": 289,
+			"versionNonce": 2065082824,
 			"isDeleted": false,
 			"id": "glrS_tyYfVyh9nepa5ZJO",
 			"fillStyle": "solid",
@@ -740,14 +748,14 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 814659768,
+			"version": 311,
+			"versionNonce": 1717024440,
 			"isDeleted": false,
 			"id": "kwdGEUem",
 			"fillStyle": "solid",
@@ -772,7 +780,7 @@ Frequencia ^AE7R9SYk
 					"type": "arrow"
 				}
 			],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -787,8 +795,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 400,
-			"versionNonce": 1868582600,
+			"version": 401,
+			"versionNonce": 355348680,
 			"isDeleted": false,
 			"id": "7mWrfJa6",
 			"fillStyle": "solid",
@@ -808,7 +816,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -823,8 +831,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "arrow",
-			"version": 102,
-			"versionNonce": 992823137,
+			"version": 103,
+			"versionNonce": 1084235704,
 			"isDeleted": false,
 			"id": "Ya4Me10DwCvRvGzcXdLcn",
 			"fillStyle": "solid",
@@ -846,7 +854,7 @@ Frequencia ^AE7R9SYk
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1742331266979,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -871,8 +879,8 @@ Frequencia ^AE7R9SYk
 		},
 		{
 			"type": "text",
-			"version": 163,
-			"versionNonce": 1889984952,
+			"version": 164,
+			"versionNonce": 817682376,
 			"isDeleted": false,
 			"id": "Kdrc9Wra",
 			"fillStyle": "solid",
@@ -892,7 +900,7 @@ Frequencia ^AE7R9SYk
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1742574487670,
+			"updated": 1742574660303,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -906,7 +914,7 @@ Frequencia ^AE7R9SYk
 			"lineHeight": 1.25
 		},
 		{
-			"id": "czB-7UafuBhcWIEYccjpr",
+			"id": "YrFYO9j5fRl5AFbhdKamF",
 			"type": "rectangle",
 			"x": -56.378123398498815,
 			"y": 497.2279127279951,
@@ -925,17 +933,17 @@ Frequencia ^AE7R9SYk
 			"roundness": {
 				"type": 3
 			},
-			"seed": 768731832,
-			"version": 73,
-			"versionNonce": 1169383096,
+			"seed": 388160440,
+			"version": 133,
+			"versionNonce": 97770440,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1742574551788,
+			"updated": 1742574664246,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "AE7R9SYk",
+			"id": "kc6noz3Z",
 			"type": "text",
 			"x": -7.223507262681494,
 			"y": 449.4777624876104,
@@ -952,12 +960,12 @@ Frequencia ^AE7R9SYk
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1650512568,
-			"version": 105,
-			"versionNonce": 1184444360,
+			"seed": 1455334584,
+			"version": 165,
+			"versionNonce": 1970610888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1742574517184,
+			"updated": 1742574664246,
 			"link": null,
 			"locked": false,
 			"text": "Frequencia",
@@ -971,7 +979,7 @@ Frequencia ^AE7R9SYk
 			"lineHeight": 1.25
 		},
 		{
-			"id": "DA3nQY6J",
+			"id": "lEdNDmiq",
 			"type": "text",
 			"x": -31.098629332993994,
 			"y": 528.1250825747497,
@@ -988,12 +996,12 @@ Frequencia ^AE7R9SYk
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1976950216,
-			"version": 76,
-			"versionNonce": 506247368,
+			"seed": 569986488,
+			"version": 136,
+			"versionNonce": 257264072,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1742574545243,
+			"updated": 1742574664246,
 			"link": null,
 			"locked": false,
 			"text": "1 - ID Jogo\n2 - ID Jogador",
@@ -1005,6 +1013,225 @@ Frequencia ^AE7R9SYk
 			"containerId": null,
 			"originalText": "1 - ID Jogo\n2 - ID Jogador",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "xUaVItQq",
+			"type": "text",
+			"x": -70.42226590150358,
+			"y": 672.7799991913364,
+			"width": 522.9393310546875,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 310710456,
+			"version": 81,
+			"versionNonce": 422544840,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574660303,
+			"link": null,
+			"locked": false,
+			"text": "Se eu quiser uma frequencia de uma data especifica\n- Preciso pegar o ID de Jogo",
+			"rawText": "Se eu quiser uma frequencia de uma data especifica\n- Preciso pegar o ID de Jogo",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Se eu quiser uma frequencia de uma data especifica\n- Preciso pegar o ID de Jogo",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "czB-7UafuBhcWIEYccjpr",
+			"type": "rectangle",
+			"x": -46.547190781311315,
+			"y": 1028.0974289539568,
+			"width": 206.4493032602163,
+			"height": 109.5445368840144,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 768731832,
+			"version": 157,
+			"versionNonce": 1399972280,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "ButfQilb5DP055ZAF3Uj2",
+					"type": "arrow"
+				}
+			],
+			"updated": 1742574714531,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "AE7R9SYk",
+			"type": "text",
+			"x": 2.607425354506006,
+			"y": 980.347278713572,
+			"width": 101.33988952636719,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1650512568,
+			"version": 188,
+			"versionNonce": 1485150920,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574665011,
+			"link": null,
+			"locked": false,
+			"text": "Frequencia",
+			"rawText": "Frequencia",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Frequencia",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "DA3nQY6J",
+			"type": "text",
+			"x": -31.226248296062124,
+			"y": 1054.8452069328137,
+			"width": 177.2397918701172,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1976950216,
+			"version": 206,
+			"versionNonce": 1957649352,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574696702,
+			"link": null,
+			"locked": false,
+			"text": "1 - ID Jogo\n2 - Data do jogo",
+			"rawText": "1 - ID Jogo\n2 - Data do jogo",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1 - ID Jogo\n2 - Data do jogo",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ButfQilb5DP055ZAF3Uj2",
+			"type": "arrow",
+			"x": 59.71889760237161,
+			"y": 1151.9144937019967,
+			"width": 1.659767844460248,
+			"height": 105.3950639204545,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 491850184,
+			"version": 52,
+			"versionNonce": 1354348728,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574714531,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.659767844460248,
+					105.3950639204545
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "czB-7UafuBhcWIEYccjpr",
+				"focus": -0.018773825803878853,
+				"gap": 14.272527864025392
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "EyuI09dKwzTmiOdQsUos7",
+			"type": "rectangle",
+			"x": -48.16590131453165,
+			"y": 1323.700160427849,
+			"width": 201.66148792613626,
+			"height": 131.12149325284076,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 2134698680,
+			"version": 69,
+			"versionNonce": 1805867208,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574722198,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1022,10 +1249,10 @@ Frequencia ^AE7R9SYk
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 453.43304799660575,
-		"scrollY": -196.4193964456934,
+		"scrollX": 614.7422798767651,
+		"scrollY": -774.1752566969365,
 		"zoom": {
-			"value": 0.65
+			"value": 1.1000000000000005
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
