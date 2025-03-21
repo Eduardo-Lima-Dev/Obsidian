@@ -53,7 +53,7 @@ Jogo ^BtAkRVBM
 Frequencia ^AE7R9SYk
 
 1 - ID Jogo
-2 - Data do jogo ^DA3nQY6J
+2 - Array de jogo ^DA3nQY6J
 
 Se eu quiser uma frequencia de uma data especifica
 - Preciso pegar o ID de Jogo ^xUaVItQq
@@ -62,6 +62,11 @@ Frequencia ^kc6noz3Z
 
 1 - ID Jogo
 2 - ID Jogador ^lEdNDmiq
+
+Jogo ^uCYrEiTR
+
+1 - Todos os IDs
+dos jogadores  ^vCYZHjvY
 
 %%
 # Drawing
@@ -1125,7 +1130,7 @@ Frequencia ^kc6noz3Z
 			"type": "text",
 			"x": -31.226248296062124,
 			"y": 1054.8452069328137,
-			"width": 177.2397918701172,
+			"width": 176.55979919433594,
 			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1139,21 +1144,21 @@ Frequencia ^kc6noz3Z
 			"frameId": null,
 			"roundness": null,
 			"seed": 1976950216,
-			"version": 206,
-			"versionNonce": 1957649352,
+			"version": 213,
+			"versionNonce": 1984529592,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1742574696702,
+			"updated": 1742574790331,
 			"link": null,
 			"locked": false,
-			"text": "1 - ID Jogo\n2 - Data do jogo",
-			"rawText": "1 - ID Jogo\n2 - Data do jogo",
+			"text": "1 - ID Jogo\n2 - Array de jogo",
+			"rawText": "1 - ID Jogo\n2 - Array de jogo",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1 - ID Jogo\n2 - Data do jogo",
+			"originalText": "1 - ID Jogo\n2 - Array de jogo",
 			"lineHeight": 1.25
 		},
 		{
@@ -1207,8 +1212,8 @@ Frequencia ^kc6noz3Z
 		{
 			"id": "EyuI09dKwzTmiOdQsUos7",
 			"type": "rectangle",
-			"x": -48.16590131453165,
-			"y": 1323.700160427849,
+			"x": -34.05790237987253,
+			"y": 1311.2518738511444,
 			"width": 201.66148792613626,
 			"height": 131.12149325284076,
 			"angle": 0,
@@ -1225,13 +1230,85 @@ Frequencia ^kc6noz3Z
 				"type": 3
 			},
 			"seed": 2134698680,
-			"version": 69,
-			"versionNonce": 1805867208,
+			"version": 95,
+			"versionNonce": 1888082104,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1742574722198,
+			"updated": 1742574771857,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "uCYrEiTR",
+			"type": "text",
+			"x": 36.48214777992848,
+			"y": 1274.7370367595252,
+			"width": 44.859954833984375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1222230200,
+			"version": 52,
+			"versionNonce": 1144914360,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574771857,
+			"link": null,
+			"locked": false,
+			"text": "Jogo",
+			"rawText": "Jogo",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Jogo",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "vCYZHjvY",
+			"type": "text",
+			"x": -23.269383647628274,
+			"y": 1347.7667109427634,
+			"width": 173.4197998046875,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 430029512,
+			"version": 99,
+			"versionNonce": 1099238072,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1742574771857,
+			"link": null,
+			"locked": false,
+			"text": "1 - Todos os IDs\ndos jogadores ",
+			"rawText": "1 - Todos os IDs\ndos jogadores ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1 - Todos os IDs\ndos jogadores ",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
