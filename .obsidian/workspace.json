@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "5fb2f3cb67679d2a",
+            "id": "b26b17563374f8dc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Soltos/ProjetoJit.excalidraw.md"
+                "file": "PowerFit/Drawing 2025-03-23 17.26.19.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ProjetoJit.excalidraw"
+              "title": "Drawing 2025-03-23 17.26.19.excalidraw"
             }
           }
         ],
@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/ProjetoJit.excalidraw.md",
+                "file": "PowerFit/Drawing 2025-03-23 17.26.19.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ProjetoJit.excalidraw"
+              "title": "Sumário de Drawing 2025-03-23 17.26.19.excalidraw"
             }
           },
           {
@@ -226,9 +226,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fb2f3cb67679d2a",
+  "active": "b26b17563374f8dc",
   "lastOpenFiles": [
     "Soltos/ProjetoJit.excalidraw.md",
+    "PowerFit/Drawing 2025-03-23 17.26.19.excalidraw.md",
+    "PowerFit",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Imagens/Pasted Image 20250221124322_162.png",
     "Sumario.md",
@@ -272,7 +274,6 @@
     "Universidade/Redes",
     "Universidade/Logica",
     "Soltos",
-    "Universidade/PAA",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
