@@ -1,4 +1,4 @@
-Este documento reúne os mapeamentos mais essenciais para uma experiência produtiva com o AstroVim.
+Este documento reúne os mapeamentos essenciais para utilizar o AstroVim de forma produtiva.
 
 ---
 
@@ -12,11 +12,17 @@ Este documento reúne os mapeamentos mais essenciais para uma experiência produ
 
 ---
 
+## Aba Lateral (Neo-Tree)
+- **Abrir aba lateral:** `<Leader> + e`
+- **Focar aba lateral:** `<Leader> + o`
+
+---
+
 ## Navegação entre Janelas
-- **Mover entre janelas:**  
-  - Cima: `Ctrl + k`  
-  - Baixo: `Ctrl + j`  
-  - Esquerda: `Ctrl + h`  
+- **Mover entre janelas:**
+  - Cima: `Ctrl + k`
+  - Baixo: `Ctrl + j`
+  - Esquerda: `Ctrl + h`
   - Direita: `Ctrl + l`
 
 ---
@@ -38,7 +44,7 @@ Este documento reúne os mapeamentos mais essenciais para uma experiência produ
 
 ## Pesquisa (Picker)
 - **Buscar arquivos:** `<Leader> + ff`
-- **Busca com Grep (Live Grep):** `<Leader> + fw`
+- **Live Grep:** `<Leader> + fw`
 
 ---
 
