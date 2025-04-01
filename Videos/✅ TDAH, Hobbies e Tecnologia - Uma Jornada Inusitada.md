@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Gravado
+estado: Postado
 plataforma: TikTok
 ---
 ## **1. Abertura Impactante (0:00 - 0:20)**  
@@ -62,4 +62,4 @@ plataforma: TikTok
 ---
 
 > [!Camada Aplicação] Roteiro das gravações do vídeo
-> [[Roteiro de Cenas e Como Gravar]]
+> [[✅ Roteiro de Cenas e Como Gravar]]

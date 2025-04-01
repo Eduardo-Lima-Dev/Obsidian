@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Publicado
+estado: Postado
 plataforma: TikTok
 ---
 ## **Abertura Impactante (0:00 - 0:15)**  
