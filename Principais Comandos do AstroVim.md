@@ -12,6 +12,12 @@ Este documento reúne os mapeamentos essenciais para utilizar o AstroVim de form
 
 ---
 
+## Pesquisa (Picker)
+- **Buscar arquivos:** `<Leader> + ff`
+- **Live Grep (pesquisar conteúdo):** `<Leader> + fw`
+
+---
+
 ## Aba Lateral (Neo-Tree)
 - **Abrir aba lateral:** `<Leader> + e`
 - **Focar aba lateral:** `<Leader> + o`
@@ -42,14 +48,12 @@ Este documento reúne os mapeamentos essenciais para utilizar o AstroVim de form
 
 ---
 
-## Pesquisa (Picker)
-- **Buscar arquivos:** `<Leader> + ff`
-- **Live Grep:** `<Leader> + fw`
-
----
-
 ## Terminal
 - **Abrir terminal flutuante:** `<Leader> + tf`
+- **Abrir terminal horizontal:** `<Leader> + th`
+- **Abrir terminal vertical:** `<Leader> + tv`
+- **Sair do terminal para o modo de código:** Pressione `Ctrl + \` seguido de `Ctrl + n`
+- **Alternar para o terminal já existente:** Utilize o comando de toggle, geralmente `<F7>` ou `Ctrl + '` *(nem todos os terminais são suportados)*
 
 ---
 
