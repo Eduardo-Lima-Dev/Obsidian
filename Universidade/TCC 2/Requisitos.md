@@ -17,6 +17,7 @@ vai ter o inicio dos requisitos depois eu volto e coloco como deveria ficar, lem
 - **Temas** (Deve ter temas de modo claro e escuro)
 - **Explicaçoes** (Deve ter uma pequena explicação do sistema de como ele funciona e que nao é integrado ao sigaa)
 - Interface simples e responsiva, deve ter uma boa visualização no mobile
+> Caso de tempo, colocar um local de estudo com pomodoro e opção de escolher a materia para qual esta estudando
 
 
 
