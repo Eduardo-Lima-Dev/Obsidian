@@ -12,8 +12,9 @@ vai ter o inicio dos requisitos depois eu volto e coloco como deveria ficar, lem
 - **Dashboard** (Deve mostrar quantas materias foram concluidas e quantas faltam em formato de card alem de um diagrama que mostra as materias que ainda nao foram concluidas com uma coloração diferentes)
 - **Visualização**  (Deve ter um local para mudar o tipo de visualização do grafico, esse grafico deve ter os periodos de cada materia)
 - **Pre-Requisitos** (As materias de pre requisitos devem mostrar quais estao ligadas a quais)
-- **Card de materia** (Deve mostrar um card da materia ao clicar nela com as informaçoes, codigo, nome, periodo, carga horaria, o pre requisito)
+- **Card de materia** (Deve mostrar um card da materia ao clicar nela com as informaçoes, codigo, nome, periodo, carga horaria, o pre requisito, botao de concluida)
 - **Temas** (Deve ter temas de modo claro e escuro)
+- **Explicaçoes** (Deve ter uma pequena explicação do sistema de como ele funciona e que nao é integrado ao sigaa)
 - Interface simples e responsiva, deve ter uma boa visualização no mobile
 
 
