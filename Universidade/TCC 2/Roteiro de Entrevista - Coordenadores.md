@@ -30,6 +30,7 @@ estado: Concluído
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
 
 5. **Melhorias para a organização:**
+   - Como voce vê a habilidade de organização e planejamento dos alunos/
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
 
 6. **Organização de matérias do semestre:**
@@ -42,6 +43,7 @@ estado: Concluído
 
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
+   - Voce sabe dizer quais disciplinas ou semestres provocam mais reprovações, trancamentos e retenção?
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
 
 
