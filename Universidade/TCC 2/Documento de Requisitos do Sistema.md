@@ -51,7 +51,7 @@ O sistema permitirá que o aluno:
   - Período;
   - Carga horária;
   - Pré-requisitos;
-  - Botão para marcar a matéria como concluída.
+  - Botão para marcar a matéria como concluída ou reprovada.
 
 ### 3.8. Atualização do Estado da Matéria
 - **RF010:** O usuário deverá poder atualizar o estado de cada matéria (Concluída, Em Progresso, Reprovada) ao final de cada semestre.
