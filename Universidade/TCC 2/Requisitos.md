@@ -13,6 +13,8 @@ vai ter o inicio dos requisitos depois eu volto e coloco como deveria ficar, lem
 - **Visualização**  (Deve ter um local para mudar o tipo de visualização do grafico, esse grafico deve ter os periodos de cada materia)
 - **Pre-Requisitos** (As materias de pre requisitos devem mostrar quais estao ligadas a quais)
 - **Card de materia** (Deve mostrar um card da materia ao clicar nela com as informaçoes, codigo, nome, periodo, carga horaria, o pre requisito)
+- **Temas** (Deve ter temas de modo claro e escuro)
+- Interface simples e responsiva, deve ter uma boa visualização no mobile
 
 
 
