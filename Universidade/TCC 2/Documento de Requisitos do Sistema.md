@@ -3,6 +3,7 @@ tags:
   - Universidade
 materia: TCC
 tipo: Atividade
+estado: Concluído
 ---
 # 1. Introdução
 
@@ -117,8 +118,4 @@ O sistema permitirá que o aluno:
 
 ## 6. Considerações Finais
 
-Este documento de requisitos estabelece a base para o desenvolvimento do sistema, assegurando que as necessidades dos alunos sejam atendidas e que a aplicação seja intuitiva, segura e responsiva. Futuras revisões poderão incluir ajustes e novos requisitos com base no feedback dos usuários e nas demandas do mercado.
-
-
-> [!Camada Aplicação] Próximos Assuntos 
-> [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
+Este documento de requisitos estabelece a base para o desenvolvimento do sistema, assegurando que as necessidades dos alunos sejam atendidas e que a aplicação seja intuitiva, segura e responsiva. Futuras revisões poderão incluir ajustes e novos requisitos com base no feedback dos usuários.
