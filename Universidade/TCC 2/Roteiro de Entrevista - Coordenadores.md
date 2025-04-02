@@ -5,8 +5,10 @@ materia: TCC
 tipo: Atividade
 estado: Concluído
 ---
-1. ****
-2. **Sobre a procura dos alunos:**
+1. **Sobre o coordenador:**
+   - Quantos anos voce atua como coordenador (Curso Atual)?  
+   - Quais cursos voce ja foi coordenador
+1. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
 
