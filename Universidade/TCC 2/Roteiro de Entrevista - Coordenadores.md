@@ -7,12 +7,15 @@ estado: Concluído
 ---
 1. **Sobre o coordenador:**
    - Quantos anos voce atua como coordenador (Curso Atual)?  
-   - Quais cursos voce ja foi coordenador
-1. **Sobre a procura dos alunos:**
+   - Quais cursos voce ja foi coordenador ou vice?
+   - Qual a sua area de formação/atuação?
+   
+2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
+   - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 
-2. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
+3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
 
