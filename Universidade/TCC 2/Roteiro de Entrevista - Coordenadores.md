@@ -13,9 +13,11 @@ estado: Concluído
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
+   - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
+   - Voce conhece o modulo de acompanhamento de progresso no curso?
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
 
