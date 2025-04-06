@@ -3,7 +3,7 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Gravado
+estado: Postado
 plataforma: TikTok
 ---
 ## 🎭 Ato 1 - Introdução (Setup)  
