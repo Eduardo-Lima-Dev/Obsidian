@@ -5,11 +5,19 @@ materia: TCC
 tipo: Atividade
 estado: Concluído
 ---
-1. **Sobre a procura dos alunos:**
+1. **Sobre o coordenador:**
+   - Quantos anos voce atua como coordenador (Curso Atual)?  
+   - Quais cursos voce ja foi coordenador ou vice?
+   - Qual a sua area de formação/atuação?
+   
+2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
+   - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
+   - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 
-2. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
+3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
+   - Voce conhece o modulo de acompanhamento de progresso no curso?
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
 
@@ -22,6 +30,7 @@ estado: Concluído
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
 
 5. **Melhorias para a organização:**
+   - Como voce vê a habilidade de organização e planejamento dos alunos/
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
 
 6. **Organização de matérias do semestre:**
@@ -34,6 +43,7 @@ estado: Concluído
 
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
+   - Voce sabe dizer quais disciplinas ou semestres provocam mais reprovações, trancamentos e retenção?
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
 
 
