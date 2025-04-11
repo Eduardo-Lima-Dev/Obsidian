@@ -6,9 +6,9 @@ tipo: Atividade
 estado: Concluído
 ---
 1. **Sobre o coordenador:**
-   - Quantos anos voce atua como coordenador (Curso Atual)?  
-   - Quais cursos voce ja foi coordenador ou vice?
-   - Qual a sua area de formação/atuação?
+   - Quantos anos você atua como coordenador (Curso Atual)?  
+   - Quais cursos você já foi coordenador ou vice?
+   - Qual a sua área de formação/atuação?
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
@@ -17,7 +17,7 @@ estado: Concluído
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
-   - Voce conhece o modulo de acompanhamento de progresso no curso?
+   - Você conhece o modulo de acompanhamento de progresso no curso?
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
 
@@ -30,7 +30,7 @@ estado: Concluído
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
 
 5. **Melhorias para a organização:**
-   - Como voce vê a habilidade de organização e planejamento dos alunos/
+   - Como você vê a habilidade de organização e planejamento dos alunos/
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
 
 6. **Organização de matérias do semestre:**
