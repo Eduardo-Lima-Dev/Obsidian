@@ -3,7 +3,7 @@ tags:
   - Universidade
 materia: TCC
 tipo: Atividade
-estado: Concluído
+estado: Não Concluído
 ---
 1. **Sobre o coordenador:**
    - Quantos anos você atua como coordenador (Curso Atual)?  
