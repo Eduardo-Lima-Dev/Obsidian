@@ -18,13 +18,30 @@ tipo: Atividade
 4. Publico-alvo:
    **Mulheres que buscam exclusividade, beleza e personalidade, apreciando peças artesanais que unem qualidade e conexão com a tradição do feito à mão.**
 
-# Requisitos do projeto
+# Requisitos Básicos do Sistema
 
+### 1. CRUD de Produtos
+- **Cadastro:**
+  - Nome do produto
+  - Foto (upload ou link da imagem)
+  - Descrição detalhada
+  - Preços (único ou variações, se necessário)
+- **Leitura:**
+  - Visualização dos produtos cadastrados, com listagem detalhada e opção de pesquisa.
+- **Atualização:**
+  - Funcionalidade para editar as informações dos produtos existentes.
+- **Exclusão:**
+  - Mecanismo seguro para remoção de produtos do sistema.
 
+### 2. Link Público para Clientes
+- Gerar um link personalizado que exiba todas as informações dos produtos cadastrados.
+- Interface pública responsiva e de fácil navegação, permitindo que os clientes visualizem imagens, descrições e preços.
+- Design alinhado com a identidade visual da marca, com bom desempenho em dispositivos móveis e desktops.
 
-
-
-
+### 3. Login Simples para o Gestor
+- Sistema de autenticação com login simples (usuário e senha) para acesso ao painel administrativo.
+- Painel que possibilite ao gestor gerenciar todas as funcionalidades do sistema, incluindo o CRUD dos produtos, de forma segura e intuitiva.
+- Acesso restrito a usuários autorizados para garantir a segurança das operações e integridade das informações.
 
 
 
