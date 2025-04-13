@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Malibu Atelie - Briefing"
+              "title": "Roteiro de Perguntas para Reunião"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Malibu Atelie - Briefing"
+              "title": "Sumário de Roteiro de Perguntas para Reunião"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "d8a26db45daea910",
   "lastOpenFiles": [
-    "Freela-HomeLife/Briefing.md",
     "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+    "Freela-HomeLife/Briefing.md",
     "Sumario.md",
     "Universidade/Projeto 2",
     "Soltos/Horario 2025.2.md",
