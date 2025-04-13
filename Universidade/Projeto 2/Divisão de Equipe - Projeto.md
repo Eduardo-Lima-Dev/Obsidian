@@ -1,5 +1,3 @@
-# 
-
 ## Equipe
 
 ### 👨‍💻 Dudu — Tech Lead / Product Owner (PO)
