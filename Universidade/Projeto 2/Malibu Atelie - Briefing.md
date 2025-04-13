@@ -50,3 +50,5 @@ tipo: Atividade
 # Referencias Visuais
 
 - [Favorito Croche](https://www.favoritocroche.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAaeDIZLoJ9IrrLhc6WgzNphOQEjVtzsUHzjPX_xE0EKG_3sUBwSy9T5UTlkCkw_aem_Pdzcu7RuZ6XCa0Y2YDqWMg)
+- Paleta de Cores e Fontes
+![[WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg]]

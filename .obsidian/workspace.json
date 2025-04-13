@@ -24,21 +24,7 @@
             }
           },
           {
-            "id": "96d8702d81c8b930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freela-HomeLife/Briefing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Briefing"
-            }
-          },
-          {
-            "id": "d8a26db45daea910",
+            "id": "63bfa4d79dbfc707",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,11 +228,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8a26db45daea910",
+  "active": "63bfa4d79dbfc707",
   "lastOpenFiles": [
-    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
-    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+    "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "Freela-HomeLife/Briefing.md",
+    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+    "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
+    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Sumario.md",
     "Universidade/Projeto 2",
     "Soltos/Horario 2025.2.md",
@@ -273,7 +261,6 @@
     "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Projeto - Bujo",
-    "PowerFit/Drawing 2025-03-23 17.26.19.excalidraw.md",
     "PowerFit",
     "Imagens/Pasted Image 20250221124322_162.png",
     "Imagens/Pasted Image 20250223184411_307.png",
@@ -283,8 +270,6 @@
     "Soltos/Fluxo de Desenvimento.png",
     "Imagens/Pasted Image 20250210081801_033.png",
     "Imagens/Pasted Image 20250210083429_096.png",
-    "Imagens/Pasted Image 20250210083129_094.png",
-    "Imagens/Pasted Image 20250210083112_093.png",
     "Videos",
     "Modelos",
     "RediUX/Encontros Universitarios",
