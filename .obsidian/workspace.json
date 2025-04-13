@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Briefing.md",
+                "file": "Universidade/Projeto 2/Malibu Atelie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Briefing"
+              "title": "Sumário de Malibu Atelie"
             }
           },
           {
@@ -242,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96d8702d81c8b930",
+  "active": "d8a26db45daea910",
   "lastOpenFiles": [
-    "Universidade/Projeto 2/Malibu Atelie.md",
     "Freela-HomeLife/Briefing.md",
+    "Universidade/Projeto 2/Malibu Atelie.md",
     "Sumario.md",
     "Universidade/Projeto 2",
     "Soltos/Horario 2025.2.md",
