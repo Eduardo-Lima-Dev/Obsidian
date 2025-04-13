@@ -18,5 +18,16 @@ tipo: Atividade
 4. Publico-alvo:
    **Mulheres que buscam exclusividade, beleza e personalidade, apreciando peças artesanais que unem qualidade e conexão com a tradição do feito à mão.**
 
+# Requisitos do projeto
+
+
+
+
+
+
+
+
+
+
 > [!Camada Aplicação] Próximos Assuntos 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
