@@ -46,3 +46,7 @@ tipo: Atividade
 # Comunicação e aprovação
 - Canal de comunicação preferencial: **Comunicação será por Whatsapp**
 - Processo de aprovação: **Reuniões via meet mostrando o que foi desenvolvido e ver o que o cliente achou e se ele aprova ou não**
+
+# Referencias Visuais
+
+- [Favorito Croche](https://www.favoritocroche.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAaeDIZLoJ9IrrLhc6WgzNphOQEjVtzsUHzjPX_xE0EKG_3sUBwSy9T5UTlkCkw_aem_Pdzcu7RuZ6XCa0Y2YDqWMg)
