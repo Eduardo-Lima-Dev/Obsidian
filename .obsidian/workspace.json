@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
+                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requisitos do Sistema"
+              "title": "Sumário de Roteiro de Perguntas para os Alunos"
             }
           },
           {
@@ -256,10 +256,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63bfa4d79dbfc707",
+  "active": "c84c9a9ef1a67c83",
   "lastOpenFiles": [
-    "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
+    "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
