@@ -46,10 +46,11 @@ estado: Não Concluído
    - Como você vê a habilidade de organização e planejamento dos alunos?
 	   - Muita dificuldade
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
-	   - 
+	   - Comtemplar os alunos atrasados, (plano de estudos) 12 semestre para ES
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
+	   - 
    - Como você enxerga o papel da coordenação nesse processo de organização?  
 
 7. **Estratégias utilizadas pela coordenação:**
