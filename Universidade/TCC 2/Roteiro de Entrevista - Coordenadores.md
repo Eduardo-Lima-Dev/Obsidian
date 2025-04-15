@@ -56,7 +56,9 @@ estado: Não Concluído
 
 7. **Estratégias utilizadas pela coordenação:**
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
+	   - Eles dizem quais ja foram feitas e marca as que ja foram feitas, tenta priorizar as materias mais atrasadas, leva em consideração se esta em semestre par ou impar, os horarios tbm, para os
    - Você leva em conta fatores como carga horária, disciplinas obrigatórias, eletivas ou pré-requisitos ao sugerir um plano?  
+	   - sim
 
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
