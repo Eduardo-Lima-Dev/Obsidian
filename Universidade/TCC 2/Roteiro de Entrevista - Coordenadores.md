@@ -15,9 +15,11 @@ estado: Não Concluído
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
-	   - 
+	   - Nao consegue quantificar, existem uma procura mt na parte de matricula
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
+	   - No inicio do semestre 
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
+	   - 
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
