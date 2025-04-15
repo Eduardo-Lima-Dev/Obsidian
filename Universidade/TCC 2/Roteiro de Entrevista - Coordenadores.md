@@ -35,10 +35,11 @@ estado: Não Concluído
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
 	   - Em geral é mais voltado para os alunos que baguncaram a grade, pre requisitos, corequisitos, oferta anual.
    - Essas dificuldades estão mais relacionadas à carga horária, dependências, reprovações ou outro fator?  
-	   - 
+	   - Tem haver com tudo isso, quando ele adiciona uma carga maior que a que deveria 
 
 4. **Causas de atrasos na progressão:**
    - Na sua percepção, quais são os principais fatores que causam atrasos na progressão dos alunos?  
+	   - Reprovação de discriplinas chaves, fup)
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
 
 5. **Melhorias para a organização:**
