@@ -7,11 +7,15 @@ estado: Não Concluído
 ---
 1. **Sobre o coordenador:**
    - Quantos anos você atua como coordenador (Curso Atual)?  
+	   - 3 anos de ES
    - Quais cursos você já foi coordenador ou vice?
+	   - Nao
    - Qual a sua área de formação/atuação?
+	   - Graduação em SI, mestradado em ES e DR em CC
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
+	   - 
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
