@@ -19,8 +19,9 @@ estado: Não Concluído
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
 	   - No inicio do semestre 
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
-	   - 
+	   - A demanda maior é por atividades complementares, sobre a matricula o maior é para matricula
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
+	   - 
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
    - Você conhece o modulo de acompanhamento de progresso no curso?
