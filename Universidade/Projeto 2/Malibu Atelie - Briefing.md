@@ -5,7 +5,7 @@ materia: Projeto 2
 tipo: Atividade
 ---
 # Informações sobre o cliente
-1. Nome do cliente: **Pricila**
+1. Nome do cliente: **Pricila Costa**
 2. Nome da empresa: **Malibu Atelié**
 
 # Descrição do projeto
