@@ -21,11 +21,13 @@ estado: Não Concluído
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
 	   - A demanda maior é por atividades complementares, sobre a matricula o maior é para matricula
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
-	   - 
+	   - No primeiro semestre, em geral em introduçao de ES
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
    - Você conhece o modulo de acompanhamento de progresso no curso?
+	   - Conhece, mas a cordenação nao tem acesso a essa visualização
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
+	   - Vez ou outra, mas geralmente com
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
 
 3. **Dificuldades gerais na progressão do curso:**
