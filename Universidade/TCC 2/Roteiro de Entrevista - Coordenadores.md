@@ -27,11 +27,13 @@ estado: Não Concluído
    - Você conhece o modulo de acompanhamento de progresso no curso?
 	   - Conhece, mas a cordenação nao tem acesso a essa visualização
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
-	   - Vez ou outra, mas geralmente com
+	   - Vez ou outra, mas geralmente com problemas em visualização nesse modulo
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
+	   - Como ele nao tem acesso, a maioria das perguntas sera para os alunos
 
 3. **Dificuldades gerais na progressão do curso:**
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
+	   - Em gel
    - Essas dificuldades estão mais relacionadas à carga horária, dependências, reprovações ou outro fator?  
 
 4. **Causas de atrasos na progressão:**
