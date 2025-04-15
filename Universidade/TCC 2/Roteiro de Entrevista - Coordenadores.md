@@ -50,8 +50,9 @@ estado: Não Concluído
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
-	   - 
+	   - Pode, sim ja que ele nao pode fazer de forma altomatica
    - Como você enxerga o papel da coordenação nesse processo de organização?  
+	   - A função e principal deles 
 
 7. **Estratégias utilizadas pela coordenação:**
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
