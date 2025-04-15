@@ -68,6 +68,8 @@ estado: Não Concluído
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
 	   - A propria cordenação
 
+[FluxoGrama de ES]([https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf](https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf))
+
 
 > [!Camada Aplicação] Próximos Assuntos 
 > [[Roteiro de Perguntas para os Alunos]]
