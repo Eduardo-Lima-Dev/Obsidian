@@ -33,8 +33,9 @@ estado: Não Concluído
 
 3. **Dificuldades gerais na progressão do curso:**
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
-	   - Em gel
+	   - Em geral é mais voltado para os alunos que baguncaram a grade, pre requisitos, corequisitos, oferta anual.
    - Essas dificuldades estão mais relacionadas à carga horária, dependências, reprovações ou outro fator?  
+	   - 
 
 4. **Causas de atrasos na progressão:**
    - Na sua percepção, quais são os principais fatores que causam atrasos na progressão dos alunos?  
