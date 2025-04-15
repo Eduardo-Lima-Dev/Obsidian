@@ -39,12 +39,14 @@ estado: Não Concluído
 
 4. **Causas de atrasos na progressão:**
    - Na sua percepção, quais são os principais fatores que causam atrasos na progressão dos alunos?  
-	   - Reprovação de discriplinas chaves, fup)
+	   - Reprovação de discriplinas chaves, (fup, pds),  e ofertas anuais
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
 
 5. **Melhorias para a organização:**
-   - Como você vê a habilidade de organização e planejamento dos alunos/
+   - Como você vê a habilidade de organização e planejamento dos alunos?
+	   - Muita dificuldade
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
+	   - 
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
