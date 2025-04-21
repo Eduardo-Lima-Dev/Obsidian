@@ -22,51 +22,8 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
-          },
-          {
-            "id": "63bfa4d79dbfc707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divisão de Equipe - Projeto"
-            }
-          },
-          {
-            "id": "fdd13df508d599df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roteiro de Entrevista - Coordenadores"
-            }
-          },
-          {
-            "id": "c84c9a9ef1a67c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roteiro de Perguntas para os Alunos"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
+                "file": "Sumario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Divisão de Equipe - Projeto"
+              "title": "Sumário de Sumario"
             }
           },
           {
@@ -256,13 +213,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63bfa4d79dbfc707",
+  "active": "4a60c60d603c22a5",
   "lastOpenFiles": [
+    "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
-    "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
     "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "Freela-HomeLife/Briefing.md",
