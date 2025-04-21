@@ -6,8 +6,6 @@ tipo: Hobbie
 estado: Nao Gravado
 plataforma:
 ---
-## 🎬 Roteiro TikTok: "IA na Programação: Ferramenta ou Muleta?"
-
 ### 🎭 Ato 1 – A Realidade Atual (0:00–0:40)
 
 "Hoje em dia, vejo muita gente usando IA de forma errada na programação. Ao invés de auxiliar, ela está substituindo completamente o desenvolvedor. Desde o início até a correção de erros, tudo é delegado à IA. Mas será que isso é o certo"
