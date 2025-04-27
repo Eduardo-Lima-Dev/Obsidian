@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
+          },
+          {
+            "id": "95290900213e8952",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sumario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sumario"
+              "title": "Sumário"
             }
           },
           {
@@ -213,7 +225,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a60c60d603c22a5",
+  "active": "95290900213e8952",
   "lastOpenFiles": [
     "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
