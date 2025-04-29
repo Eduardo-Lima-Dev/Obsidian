@@ -9,7 +9,7 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 
 ### 3.1 Cadastro/Login de Usuários
 - O usuário deverá criar uma conta ou fazer login usando email e senha.
-- O login pode ser feito por redes sociais ou através de contas Google/Facebook.
+- O login pode ser feito por redes sociais ou através de contas Google.
 - O sistema deve permitir recuperação de senha.
 
 ### 3.2 Criação e Organização de Tarefas
