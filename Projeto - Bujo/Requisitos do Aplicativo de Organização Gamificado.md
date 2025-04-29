@@ -97,4 +97,7 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 - Front 
 	- NextJs e React
 - Back
-	- NestJs e 
+	- Express
+	- Postgress
+- Git e Github
+- 
