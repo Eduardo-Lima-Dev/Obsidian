@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
+                "file": "Universidade/Projeto 2/Equipe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Malibu Atelie - Briefing"
+              "title": "Sumário de Equipe"
             }
           },
           {
@@ -256,11 +256,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bce2b0d5e1584a8f",
+  "active": "85023f4956cc7ea1",
   "lastOpenFiles": [
+    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
     "Universidade/Projeto 2/Equipe.md",
-    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Videos/IA na Programação - Ferramenta ou Muleta.md",
     "Projeto - Bujo/Drawing 2025-04-28 21.50.09.excalidraw.md",
