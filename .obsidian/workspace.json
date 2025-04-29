@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -124,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - Bujo/Drawing 2025-04-28 21.50.09.excalidraw.md",
+                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-04-28 21.50.09.excalidraw"
+              "title": "Sumário de Requisitos do Aplicativo de Organização Gamificado"
             }
           },
           {
@@ -240,10 +241,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffeb5d3b5f69ae97",
+  "active": "5294cad20bef2270",
   "lastOpenFiles": [
-    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Projeto - Bujo/Drawing 2025-04-28 21.50.09.excalidraw.md",
+    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
     "Videos/IA na Programação - Ferramenta ou Muleta.md",
