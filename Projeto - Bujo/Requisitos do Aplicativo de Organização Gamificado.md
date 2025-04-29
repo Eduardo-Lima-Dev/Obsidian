@@ -90,3 +90,11 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 - Mockups da tela inicial (login, painel do usuário).
 - Layout da tela de ranking com destaque para os melhores colocados.
 - Exemplo de como a tarefa será exibida (com peso e prazo).
+
+---
+### Linguagens
+
+- Front 
+	- NextJs e React
+- Back
+	- NestJs e 
