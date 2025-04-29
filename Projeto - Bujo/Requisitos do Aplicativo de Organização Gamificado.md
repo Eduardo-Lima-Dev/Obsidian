@@ -54,7 +54,7 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 
 ## 5. Prioridades
 
-- **Alta prioridade**: Cadastro e login de usuário, criação e organização de tarefas, sistema de pontuação e ranking.
+- **Alta prioridade**: Cadastro e login de usuário, criação e organização de tarefas, sistema de pontuação.
 - **Média prioridade**: Gamificação (badges e conquistas).
 - **Baixa prioridade**: Notificações e histórico detalhado de tarefas.
 
