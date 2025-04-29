@@ -100,4 +100,4 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 	- Express
 	- Postgress
 - Git e Github
-- 
+- Sprint de 2 semanas - Trello
