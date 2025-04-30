@@ -7,11 +7,11 @@ estado: Concluído
 ---
 1. **Sobre o coordenador:**
    - Quantos anos você atua como coordenador (Curso Atual)?  
-	   - 
+	   - 2 meses
    - Quais cursos você já foi coordenador ou vice?
-	   - 
+	   - SI vice durante 3 anos
    - Qual a sua área de formação/atuação?
-	   - 
+	   - Engenharia de telecomunicaçoes
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
