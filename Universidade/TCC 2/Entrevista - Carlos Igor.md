@@ -7,66 +7,67 @@ estado: Concluído
 ---
 1. **Sobre o coordenador:**
    - Quantos anos você atua como coordenador (Curso Atual)?  
-	   - 3 anos de ES
+	   - 
    - Quais cursos você já foi coordenador ou vice?
-	   - Nao
+	   - 
    - Qual a sua área de formação/atuação?
-	   - Graduação em SI, mestradado em ES e DR em CC
+	   - 
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
-	   - Nao consegue quantificar, existem uma procura mt na parte de matricula
+	   - 
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
-	   - No inicio do semestre 
+	   - 
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
-	   - A demanda maior é por atividades complementares, sobre a matricula o maior é para matricula
+	   - 
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
-	   - No primeiro semestre, em geral em introduçao de ES
+	   - 
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
    - Você conhece o modulo de acompanhamento de progresso no curso?
-	   - Conhece, mas a cordenação nao tem acesso a essa visualização
+	   - 
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
-	   - Vez ou outra, mas geralmente com problemas em visualização nesse modulo
+	   - 
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
-	   - Como ele nao tem acesso, a maioria das perguntas sera para os alunos
+	   - 
 
 3. **Dificuldades gerais na progressão do curso:**
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
-	   - Em geral é mais voltado para os alunos que baguncaram a grade, pre requisitos, corequisitos, oferta anual.
+	   - 
    - Essas dificuldades estão mais relacionadas à carga horária, dependências, reprovações ou outro fator?  
-	   - Tem haver com tudo isso, quando ele adiciona uma carga maior que a que deveria 
+	   - 
 
 4. **Causas de atrasos na progressão:**
    - Na sua percepção, quais são os principais fatores que causam atrasos na progressão dos alunos?  
-	   - Reprovação de discriplinas chaves, (fup, pds),  e ofertas anuais
+	   - 
    - Esses fatores são mais relacionados a questões acadêmicas (como reprovações) ou externas (como trabalho, problemas financeiros ou pessoais)?  
+	   - 
 
 5. **Melhorias para a organização:**
    - Como você vê a habilidade de organização e planejamento dos alunos?
-	   - Muita dificuldade
+	   - 
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
-	   - Comtemplar os alunos atrasados, (plano de estudos) 12 semestre para ES
+	   - 
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
-	   - Pode, sim ja que ele nao pode fazer de forma altomatica
+	   - 
    - Como você enxerga o papel da coordenação nesse processo de organização?  
-	   - A função e principal deles 
+	   - 
 
 7. **Estratégias utilizadas pela coordenação:**
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
-	   - Eles dizem quais ja foram feitas e marca as que ja foram feitas, tenta priorizar as materias mais atrasadas, leva em consideração se esta em semestre par ou impar, os horarios tbm, para os semestre seguintes, olha prerequisitos, ver se vai ter no proximo semestre, 
+	   - 
    - Você leva em conta fatores como carga horária, disciplinas obrigatórias, eletivas ou pré-requisitos ao sugerir um plano?  
-	   - sim
+	   - 
 
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
-	   - Atrapalha total, FUP e PDS
+	   - 
    - Voce sabe dizer quais disciplinas ou semestres provocam mais reprovações, trancamentos e retenção?
-	   -  FUP e PDS
+	   -  
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
-	   - A propria cordenação
+	   - 
 
 [FluxoGrama de ES]([https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf](https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf))
 
