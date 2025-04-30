@@ -65,11 +65,10 @@ estado: Concluído
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
 	   - Normalmente o atraso
    - Voce sabe dizer quais disciplinas ou semestres provocam mais reprovações, trancamentos e retenção?
-	   -  
+	   -  Normalmente as que sao vinculadas a matematica, basica, discreta
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
-	   - 
+	   - Alem da cordenaçao tem os bolsistas PAIP
 
-[FluxoGrama de ES]([https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf](https://es.quixada.ufc.br/wp-content/uploads/2023/05/Fluxograma-ES-2023.pdf))
 
 
 > [!Camada Aplicação] Próximos Assuntos 
