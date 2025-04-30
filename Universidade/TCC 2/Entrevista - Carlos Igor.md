@@ -59,11 +59,11 @@ estado: Concluído
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
 	   - Normalmente tem um horario disponivel para atendimento presencial ou online, 
    - Você leva em conta fatores como carga horária, disciplinas obrigatórias, eletivas ou pré-requisitos ao sugerir um plano?  
-	   - 
+	   - SIm, a questao de disponibilidade financeira dos alunos
 
 8. **Impacto de reprovações e trancamentos:**
    - Como reprovações em disciplinas específicas ou trancamentos recorrentes impactam o progresso dos alunos?  
-	   - 
+	   - Normalmente o atraso
    - Voce sabe dizer quais disciplinas ou semestres provocam mais reprovações, trancamentos e retenção?
 	   -  
    - Há algum suporte para ajudar esses alunos a reorganizarem sua trajetória acadêmica? 
