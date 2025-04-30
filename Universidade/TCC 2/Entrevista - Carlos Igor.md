@@ -15,11 +15,11 @@ estado: Concluído
    
 2. **Sobre a procura dos alunos:**
    - Quantos alunos, em média, procuram a coordenação para tirar dúvidas sobre a grade curricular a cada semestre?  
-	   - 
+	   - 30% do curso
    - Há picos de procura em algum período específico (início, meio ou fim do semestre)?  
-	   - 
+	   - Inicio do semestre e epoca de trancamento
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
-	   - 
+	   - Quando tem algum problema no Sigaa
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
 	   - 
 
