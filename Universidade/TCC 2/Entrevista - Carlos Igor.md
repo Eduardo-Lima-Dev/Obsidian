@@ -21,15 +21,15 @@ estado: Concluído
    - Em que situações eles buscam essas informações (ex. quando não conseguem se matricular, quando não compreendem um pré-requisito...)
 	   - Quando tem algum problema no Sigaa
    - Em qual momento da graduação os alunos Novos/Veteranos recebem informações/instruções sobre a grade curricular?
-	   - 
+	   - No inicio de semestre
 
 3. **Sobre o módulo de acompanhamento de progresso no curso (SIGAA):**
    - Você conhece o modulo de acompanhamento de progresso no curso?
-	   - 
+	   - Ja ouviu falar, mas nao tem acesso
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
-	   - 
+	   - Costumam mencionar esse modulo
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
-	   - 
+	   - Eles coomprende
 
 3. **Dificuldades gerais na progressão do curso:**
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
