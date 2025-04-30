@@ -45,19 +45,19 @@ estado: Concluído
 
 5. **Melhorias para a organização:**
    - Como você vê a habilidade de organização e planejamento dos alunos?
-	   - Algo que talvez mereca um treinamento, nao é algo muito madu
+	   - Algo que talvez mereca um treinamento, nao é algo muito maduro, tem uma deficiencia
    - O que você acredita que poderia ser implementado para melhorar a organização e o planejamento acadêmico dos alunos?  
-	   - 
+	   - Complemento pedagogico
 
 6. **Organização de matérias do semestre:**
    - Se um aluno precisar organizar suas matérias ou atividades do semestre, ele pode buscar sua ajuda?  
-	   - 
+	   - Sim
    - Como você enxerga o papel da coordenação nesse processo de organização?  
 	   - 
 
 7. **Estratégias utilizadas pela coordenação:**
    - Que lógica ou metodologia você utiliza para ajudar os alunos a organizar as disciplinas e atividades do semestre?  
-	   - 
+	   - Normalmente tem um horario disponivel para atendimento presencial ou online, 
    - Você leva em conta fatores como carga horária, disciplinas obrigatórias, eletivas ou pré-requisitos ao sugerir um plano?  
 	   - 
 
