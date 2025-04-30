@@ -29,13 +29,13 @@ estado: Concluído
    - Os alunos costumam mencionar ou usar o módulo de Acompanhamento de Progresso no Curso no SIGAA como ferramenta para planejar suas disciplinas?  
 	   - Costumam mencionar esse modulo
    - Você percebe que os alunos compreendem bem como utilizar o módulo? Se não, quais dificuldades eles relatam?  
-	   - Eles coomprende
+	   - Eles coomprendem bem
 
 3. **Dificuldades gerais na progressão do curso:**
    - Quais são as maiores dificuldades relatadas pelos alunos em relação à progressão no curso?  
-	   - 
+	   - Disciplinas anuais que sao requisitos para outras
    - Essas dificuldades estão mais relacionadas à carga horária, dependências, reprovações ou outro fator?  
-	   - 
+	   - Reprrovaçoes
 
 4. **Causas de atrasos na progressão:**
    - Na sua percepção, quais são os principais fatores que causam atrasos na progressão dos alunos?  
