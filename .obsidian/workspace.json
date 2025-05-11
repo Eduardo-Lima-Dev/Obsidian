@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "b6fef56c2b6fd25b",
+            "id": "704c1cf2177ad1a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md"
+                "file": "Soltos/Posts Linkedin/Post LinkedIn - BulletQuest.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-08 17.06.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "Post LinkedIn - BulletQuest"
             }
           }
         ],
@@ -93,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -111,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
+                "file": "Soltos/Posts Linkedin/Post LinkedIn - BulletQuest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-05-08 17.06.36.excalidraw"
+              "title": "Sumário de Post LinkedIn - BulletQuest"
             }
           },
           {
@@ -227,8 +228,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6fef56c2b6fd25b",
+  "active": "704c1cf2177ad1a5",
   "lastOpenFiles": [
+    "Soltos/Sem título 1.md",
+    "Soltos/Posts Linkedin/Post LinkedIn - BulletQuest.md",
+    "Soltos/Sem título.md",
+    "Soltos/Posts Linkedin",
     "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
     "Sumario.md",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
@@ -258,9 +263,6 @@
     "Videos/✅ TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/O que é uma API.md",
     "Videos/React vs Next.js – Vale ad pena migrar.md",
-    "conflict-files-obsidian-git.md",
-    "Modelos/Modelo de Requisitos.md",
-    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
     "Projeto - Bujo",
     "PowerFit",
     "Imagens/Pasted Image 20250221124322_162.png",
@@ -274,7 +276,6 @@
     "Videos",
     "Modelos",
     "RediUX/Encontros Universitarios",
-    "Universidade/TCC 2",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
