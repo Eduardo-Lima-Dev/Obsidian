@@ -24,49 +24,21 @@
             }
           },
           {
-            "id": "63bfa4d79dbfc707",
+            "id": "704c1cf2177ad1a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divisão de Equipe - Projeto"
-            }
-          },
-          {
-            "id": "85023f4956cc7ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/Projeto 2/Equipe.md",
+                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipe"
-            }
-          },
-          {
-            "id": "bce2b0d5e1584a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Malibu Atelie - Briefing"
+              "title": "Requisitos do Aplicativo de Organização Gamificado"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Projeto 2/Equipe.md",
+                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Equipe"
+              "title": "Sumário de Requisitos do Aplicativo de Organização Gamificado"
             }
           },
           {
@@ -256,22 +228,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85023f4956cc7ea1",
+  "active": "704c1cf2177ad1a5",
   "lastOpenFiles": [
-    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
-    "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
+    "Soltos/Posts Linkedin/Post LinkedIn - BulletQuest.md",
+    "Soltos/Sem título 1.md",
+    "Soltos/Sem título.md",
+    "Soltos/Posts Linkedin",
+    "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
+    "Sumario.md",
+    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
+    "Universidade/TCC 2/Roteiro Entrevistas.md",
+    "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Carlos Igor.md",
+    "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Jefferson.md",
+    "Universidade/TCC 2/Entrevistas Concluidas",
     "Universidade/Projeto 2/Equipe.md",
-    "Universidade/TCC 2/Roteiro de Entrevista - Coordenadores.md",
-    "Videos/IA na Programação - Ferramenta ou Muleta.md",
     "Projeto - Bujo/Drawing 2025-04-28 21.50.09.excalidraw.md",
-    "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
+    "Videos/IA na Programação - Ferramenta ou Muleta.md",
+    "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
+    "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
+    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "Freela-HomeLife/Briefing.md",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
-    "Sumario.md",
     "Universidade/Projeto 2",
     "Soltos/Horario 2025.2.md",
     "Videos/Biblioteca JS vs Framework.md",
@@ -282,13 +263,6 @@
     "Videos/✅ TDAH, Hobbies e Tecnologia - Uma Jornada Inusitada.md",
     "Videos/O que é uma API.md",
     "Videos/React vs Next.js – Vale ad pena migrar.md",
-    "conflict-files-obsidian-git.md",
-    "Modelos/Modelo de Requisitos.md",
-    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
-    "Principais Comandos do AstroVim.md",
-    "Universidade/TCC 2/Sem título.md",
-    "Soltos/🎤 Roteiro para Entrevista - Apresentação e Experiências.md",
-    "Soltos/cardDestaque.excalidraw.md",
     "Projeto - Bujo",
     "PowerFit",
     "Imagens/Pasted Image 20250221124322_162.png",
@@ -302,8 +276,6 @@
     "Videos",
     "Modelos",
     "RediUX/Encontros Universitarios",
-    "Universidade/TCC 2",
-    "Universidade/Redes",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
