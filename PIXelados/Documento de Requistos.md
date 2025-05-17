@@ -80,3 +80,14 @@ O sistema permitirá que o usuário:
 ## 6. Considerações Finais
 
 Este documento define os requisitos do sistema **Despesas Compartilhadas**, voltado à organização colaborativa de finanças domésticas. A clareza, segurança e usabilidade são os pilares da aplicação. Requisitos poderão ser refinados conforme surgirem novas demandas.
+
+---
+### Telas essenciais:
+
+1. **Tela de Login**
+2. **Tela de Cadastro**
+3. **Dashboard de Despesas**
+4. **Tela de Nova Despesa**
+5. **Tela de Compartilhamento da Casa (link de convite)**
+6. **Tela de Perfil (com chave Pix)**
+7. **Tela de Visualização de Despesas por Pessoa**
