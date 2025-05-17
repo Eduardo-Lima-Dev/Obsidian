@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto Contas de Casa/Documento de Requistos.md",
+                "file": "PIXelados/Documento de Requistos.md",
                 "mode": "source",
                 "source": false
               },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto Contas de Casa/Documento de Requistos.md",
+                "file": "PIXelados/Documento de Requistos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,11 +228,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "480843871d84c57b",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
     "Sumario.md",
-    "Projeto Contas de Casa/Documento de Requistos.md",
-    "Projeto Contas de Casa",
+    "PIXelados/Documento de Requistos.md",
+    "PIXelados",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Projeto - Bujo/Requisitos.md",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
