@@ -89,7 +89,7 @@ O sistema permitirá que o usuário:
 ## 6. Restrições
 
 - **Acessibilidade:** Deve atender WCAG 2.1 AA.  
-- **Plataforma:** O BQT será disponibilizado **exclusivamente como aplicação web responsiva**; não haverá desenvolvimento de apps nativos para iOS ou Android.  
+- **Plataforma:** O BulletQuest será disponibilizado **exclusivamente como aplicação web responsiva**; não haverá desenvolvimento de apps nativos para iOS ou Android.  
 - **Armazenamento:** Dados persistidos em banco **PostgreSQL** em nuvem (ex.: Supabase, AWS RDS).  
 
 ---
