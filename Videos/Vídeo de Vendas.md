@@ -7,7 +7,6 @@ estado: Nao Gravado
 plataforma:
 ---
 > Conceito: um único take ou no máximo 1 jump-cut suave, para que você permaneça na cena o tempo todo. Os “atos” são marcados apenas por mudança sutil no enquadramento/gesto e pela entrada de overlays de texto e screenshots.
-
 ## Ato I — Gancho (0-15s)
 
 **Objetivo:** Apresentar o problema e a sua promessa.
