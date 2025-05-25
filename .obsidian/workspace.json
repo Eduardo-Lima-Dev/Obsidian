@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIXelados/Documento de Requistos.md",
+                "file": "Videos/Vídeo de Vendas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Documento de Requistos"
+              "title": "Vídeo de Vendas"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIXelados/Documento de Requistos.md",
+                "file": "Videos/Vídeo de Vendas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requistos"
+              "title": "Sumário de Vídeo de Vendas"
             }
           },
           {
@@ -230,9 +230,10 @@
   },
   "active": "480843871d84c57b",
   "lastOpenFiles": [
+    "PIXelados/Documento de Requistos.md",
+    "Videos/Vídeo de Vendas.md",
     "Soltos/Posts Linkedin/Post LinkedIn - PIXelados.md",
     "Atividade 3.md",
-    "PIXelados/Documento de Requistos.md",
     "Sumario.md",
     "PIXelados",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
@@ -262,7 +263,6 @@
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Universidade/Projeto 2",
     "Soltos/Horario 2025.2.md",
-    "Videos/Biblioteca JS vs Framework.md",
     "Videos/exemplo.tsx",
     "Projeto - Bujo",
     "PowerFit",
