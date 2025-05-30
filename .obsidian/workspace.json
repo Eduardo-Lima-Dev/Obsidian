@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
+                "file": "Modelos/Modelo de Requisitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requisitos do Aplicativo de Organização Gamificado"
+              "title": "Modelo de Requisitos"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
+                "file": "Modelos/Modelo de Requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Requisitos do Aplicativo de Organização Gamificado"
+              "title": "Sumário de Modelo de Requisitos"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "ec439a3054e6f513",
   "lastOpenFiles": [
-    "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
+    "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md",
     "Sumario.md",
     "Videos/Vídeo de Vendas.md",
     "PIXelados/Documento de Requistos.md",
