@@ -50,6 +50,34 @@
               "icon": "lucide-file",
               "title": "Documento de Requistos"
             }
+          },
+          {
+            "id": "91f383847fce7ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freela-HomeLife/Briefing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Briefing"
+            }
+          },
+          {
+            "id": "73f36fad25993545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
         "currentTab": 2
@@ -256,7 +284,6 @@
     "PIXelados",
     "Projeto - Minhas Contas/Documentação do Aplicativo.md",
     "Soltos/Posts Linkedin/Post LinkedIn - BulletQuest.md",
-    "conflict-files-obsidian-git.md",
     "Soltos/Sem título 1.md",
     "Soltos/Sem título.md",
     "Soltos/Posts Linkedin",
@@ -265,21 +292,17 @@
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Carlos Igor.md",
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Jefferson.md",
     "Universidade/TCC 2/Entrevistas Concluidas",
-    "Universidade/Projeto 2/Equipe.md",
     "Projeto - Bujo/Drawing 2025-04-28 21.50.09.excalidraw.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Videos/IA na Programação - Ferramenta ou Muleta.md",
-    "Universidade/Projeto 2/Divisão de Equipe - Projeto.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
-    "Universidade/Projeto 2/Malibu Atelie - Briefing.md",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
-    "Freela-HomeLife/Briefing.md",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Universidade/Projeto 2",
     "Videos/exemplo.tsx",
+    "Videos/Segurança no Meu Racha - Corrigindo Vulnerabilidades e o Impacto do Tabnews.md",
     "Projeto - Bujo",
-    "PowerFit",
     "Imagens/Pasted Image 20250221124322_162.png",
     "Imagens/Pasted Image 20250223184411_307.png",
     "Imagens/Pasted Image 20250223184338_306.png",
@@ -289,7 +312,6 @@
     "Imagens/Pasted Image 20250210081801_033.png",
     "Imagens/Pasted Image 20250210083429_096.png",
     "Videos",
-    "Modelos",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
