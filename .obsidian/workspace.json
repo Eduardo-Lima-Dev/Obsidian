@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "Requisitos do Aplicativo de Organização Gamificado"
             }
-          },
-          {
-            "id": "3d3f39d3ff73f65d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-26 21.08.32.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md",
+                "file": "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-05-26 21.08.32.excalidraw"
+              "title": "Sumário de Requisitos do Aplicativo de Organização Gamificado"
             }
           },
           {
@@ -240,10 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d3f39d3ff73f65d",
+  "active": "ec439a3054e6f513",
   "lastOpenFiles": [
-    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md",
+    "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
     "Sumario.md",
     "Videos/Vídeo de Vendas.md",
     "PIXelados/Documento de Requistos.md",
