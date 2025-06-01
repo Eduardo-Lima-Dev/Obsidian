@@ -9,7 +9,7 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 
 ### 3.1 Cadastro/Login de Usuários
 - O usuário deverá criar uma conta ou fazer login usando email e senha.
-- O login pode ser feito por redes sociais ou através de contas Google/Facebook.
+- O login pode ser feito por redes sociais ou através de contas Google.
 - O sistema deve permitir recuperação de senha.
 
 ### 3.2 Criação e Organização de Tarefas
@@ -54,7 +54,7 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 
 ## 5. Prioridades
 
-- **Alta prioridade**: Cadastro e login de usuário, criação e organização de tarefas, sistema de pontuação e ranking.
+- **Alta prioridade**: Cadastro e login de usuário, criação e organização de tarefas, sistema de pontuação.
 - **Média prioridade**: Gamificação (badges e conquistas).
 - **Baixa prioridade**: Notificações e histórico detalhado de tarefas.
 
@@ -90,3 +90,14 @@ O aplicativo visa ajudar os usuários a se manterem organizados e motivados atra
 - Mockups da tela inicial (login, painel do usuário).
 - Layout da tela de ranking com destaque para os melhores colocados.
 - Exemplo de como a tarefa será exibida (com peso e prazo).
+
+---
+### Linguagens
+
+- Front 
+	- NextJs e React
+- Back
+	- Express
+	- Postgress
+- Git e Github
+- Sprint de 2 semanas - Trello

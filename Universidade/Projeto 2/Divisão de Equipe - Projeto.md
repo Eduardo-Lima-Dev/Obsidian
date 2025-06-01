@@ -1,5 +1,5 @@
 ## Equipe
-			
+
 ### 👨‍💻 Dudu — Tech Lead / Product Owner (PO)
 
 Dudu está à frente do projeto como Tech Lead e PO, sendo o principal responsável pela **organização e direcionamento do desenvolvimento**. Suas responsabilidades incluem:
