@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "672741ccfd9cea90",
+            "id": "f96a4a019a8dc776",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md"
+                "file": "Projeto - Bujo/Pontuacao e Ranking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-08 17.06.36.excalidraw"
+              "icon": "lucide-file",
+              "title": "Pontuacao e Ranking"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
+                "file": "Projeto - Bujo/Pontuacao e Ranking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-05-08 17.06.36.excalidraw"
+              "title": "Sumário de Pontuacao e Ranking"
             }
           },
           {
@@ -226,13 +228,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "672741ccfd9cea90",
+  "active": "f96a4a019a8dc776",
   "lastOpenFiles": [
+    "Projeto - Bujo/Requisitos.md",
+    "Projeto - Bujo/Pontuacao e Ranking.md",
     "Sumario.md",
+    "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
     "Modelos/Modelo de Requisitos.md",
     "PIXelados/Documento de Requistos.md",
     "Projeto - Bujo/Requisitos do Aplicativo de Organização Gamificado.md",
-    "Projeto - Bujo/Requisitos.md",
     "Projeto - Bujo/Drawing 2025-05-26 21.08.32.excalidraw.md",
     "Videos/Vídeo de Vendas.md",
     "Soltos/Posts Linkedin/Post LinkedIn - PIXelados.md",
@@ -243,7 +247,6 @@
     "Soltos/Sem título 1.md",
     "Soltos/Sem título.md",
     "Soltos/Posts Linkedin",
-    "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
     "Universidade/TCC 2/Roteiro Entrevistas.md",
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Carlos Igor.md",
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Jefferson.md",
