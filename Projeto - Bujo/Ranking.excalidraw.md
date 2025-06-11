@@ -48,6 +48,8 @@ convite ^aLoGmuDf
 Id_Ranking
 Pessoal ^Jnu03J7Y
 
+Id_users ^xRMr6YT5
+
 %%
 # Drawing
 ```json
@@ -587,9 +589,9 @@ Pessoal ^Jnu03J7Y
 			"id": "gO1fcEjl1nngw4yED23E1",
 			"type": "rectangle",
 			"x": -414.6525031195746,
-			"y": 959.9389163011701,
+			"y": 993.2722496345034,
 			"width": 277.77777777777777,
-			"height": 642.2222222222222,
+			"height": 508.8888888888889,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -604,11 +606,11 @@ Pessoal ^Jnu03J7Y
 				"type": 3
 			},
 			"seed": 598053674,
-			"version": 52,
-			"versionNonce": 1851223914,
+			"version": 80,
+			"versionNonce": 295937398,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1749684425523,
+			"updated": 1749684549609,
 			"link": null,
 			"locked": false
 		},
@@ -654,7 +656,7 @@ Pessoal ^Jnu03J7Y
 			"x": -385.76361423068573,
 			"y": 1099.9389163011701,
 			"width": 220,
-			"height": 462.2222222222222,
+			"height": 371.1111111111111,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -669,11 +671,11 @@ Pessoal ^Jnu03J7Y
 				"type": 3
 			},
 			"seed": 825525750,
-			"version": 60,
-			"versionNonce": 1040225962,
+			"version": 80,
+			"versionNonce": 1180450026,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1749684446739,
+			"updated": 1749684543576,
 			"link": null,
 			"locked": false
 		},
@@ -836,6 +838,42 @@ Pessoal ^Jnu03J7Y
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "xRMr6YT5",
+			"type": "text",
+			"x": -359.09694756401905,
+			"y": 1391.0500274122812,
+			"width": 172.68204583062035,
+			"height": 47.22222222222214,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1463113654,
+			"version": 20,
+			"versionNonce": 1284188266,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1749684539443,
+			"link": null,
+			"locked": false,
+			"text": "Id_users",
+			"rawText": "Id_users",
+			"fontSize": 37.7777777777777,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Id_users",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
