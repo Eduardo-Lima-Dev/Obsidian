@@ -38,6 +38,8 @@ Pessoal ^pXqqxYSx
 
 5 pt ^1IjnP9KR
 
+Ranking geral do grupo ^D3RnF22l
+
 %%
 # Drawing
 ```json
@@ -536,6 +538,42 @@ Pessoal ^pXqqxYSx
 			"containerId": null,
 			"originalText": "55 pt",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "D3RnF22l",
+			"type": "text",
+			"x": -193.41666666666663,
+			"y": 398.6964089912283,
+			"width": 542.0863510131849,
+			"height": 61.25000000000012,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1390385514,
+			"version": 78,
+			"versionNonce": 129084982,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1749683948513,
+			"link": null,
+			"locked": false,
+			"text": "Ranking geral do grupo",
+			"rawText": "Ranking geral do grupo",
+			"fontSize": 49.0000000000001,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Ranking geral do grupo",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -553,8 +591,8 @@ Pessoal ^pXqqxYSx
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1003.4166666666667,
-		"scrollY": 610.6981222587718,
+		"scrollX": 775.9166666666667,
+		"scrollY": 518.1981222587718,
 		"zoom": {
 			"value": 0.7999999999999998
 		},
