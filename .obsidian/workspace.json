@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "622978e6fe7140f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projeto - Bujo/Drawing 2025-06-11 20.09.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-11 20.09.54.excalidraw"
+            }
+          },
+          {
             "id": "b41ca84bfaf74428",
             "type": "leaf",
             "state": {
@@ -126,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - Bujo/Requisitos.md",
+                "file": "Projeto - Bujo/Drawing 2025-06-11 20.09.54.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Requisitos"
+              "title": "Sumário de Drawing 2025-06-11 20.09.54.excalidraw"
             }
           },
           {
@@ -242,9 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b41ca84bfaf74428",
+  "active": "622978e6fe7140f6",
   "lastOpenFiles": [
     "Projeto - Bujo/Pontuacao e Ranking.md",
+    "Projeto - Bujo/Drawing 2025-06-11 20.09.54.excalidraw.md",
     "Projeto - Bujo/Requisitos.md",
     "Sumario.md",
     "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
