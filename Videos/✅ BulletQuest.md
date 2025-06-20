@@ -3,8 +3,8 @@ tags:
   - Videos
 materia: Livre
 tipo: Hobbie
-estado: Nao Gravado
-plataforma:
+estado: Gravado
+plataforma: TikTok
 ---
 ## 🎭 **ATO 1 - APRESENTAÇÃO (0-1min)**
 

@@ -43,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/BulletQuest.md",
+                "file": "Videos/✅ BulletQuest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BulletQuest"
+              "title": "✅ BulletQuest"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/BulletQuest.md",
+                "file": "Projeto - BulletQuest/Requisitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de BulletQuest"
+              "title": "Sumário de Requisitos"
             }
           },
           {
@@ -242,10 +242,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80172e55101ea417",
+  "active": "b41ca84bfaf74428",
   "lastOpenFiles": [
+    "Videos/✅ BulletQuest.md",
+    "Videos/✅ Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/✅  Nova Feature - Divisão Automática de Times.md",
-    "Videos/BulletQuest.md",
     "Soltos/Briefing de Design — Projeto.md",
     "Sumario.md",
     "Projeto - BulletQuest/Pontuacao e Ranking.md",
@@ -272,7 +273,6 @@
     "Universidade/Projeto 2/Equipe.md",
     "Projeto - BulletQuest/Drawing 2025-04-28 21.50.09.excalidraw.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
-    "Videos/IA na Programação - Ferramenta ou Muleta.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
