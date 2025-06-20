@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soltos/Briefing de Design — Projeto.md",
+                "file": "Videos/BulletQuest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Briefing de Design — Projeto"
+              "title": "BulletQuest"
             }
           }
         ],
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Briefing de Design — Projeto.md",
+                "file": "Videos/BulletQuest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Briefing de Design — Projeto"
+              "title": "Sumário de BulletQuest"
             }
           },
           {
@@ -244,8 +244,10 @@
   },
   "active": "80172e55101ea417",
   "lastOpenFiles": [
-    "Sumario.md",
+    "Videos/✅  Nova Feature - Divisão Automática de Times.md",
+    "Videos/BulletQuest.md",
     "Soltos/Briefing de Design — Projeto.md",
+    "Sumario.md",
     "Projeto - BulletQuest/Pontuacao e Ranking.md",
     "Freela-HomeLife/Briefing.md",
     "Projeto - BulletQuest/Ranking.excalidraw.md",
