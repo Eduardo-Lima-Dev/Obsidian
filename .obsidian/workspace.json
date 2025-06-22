@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "7c374b7477050689",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Universidade/V&V/PDFs/lista_exerciciosv2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lista_exerciciosv2"
+            }
+          },
+          {
             "id": "80172e55101ea417",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
+                "file": "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 00_apresentação_disciplinae01juntas"
+              "title": "Sumário de lista_exerciciosv2"
             }
           },
           {
@@ -240,8 +252,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b41ca84bfaf74428",
+  "active": "7c374b7477050689",
   "lastOpenFiles": [
+    "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
     "Projeto - BulletQuest/Requisitos.md",
     "Videos/✅ BulletQuest.md",
     "Videos/✅ Meu Racha - Um Sistema para Organizar Seu Futebol.md",
@@ -270,7 +283,6 @@
     "Universidade/TCC 2/Entrevistas Concluidas",
     "Universidade/Projeto 2/Equipe.md",
     "Projeto - BulletQuest/Drawing 2025-04-28 21.50.09.excalidraw.md",
-    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
