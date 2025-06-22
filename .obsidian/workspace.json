@@ -27,14 +27,12 @@
             "id": "b41ca84bfaf74428",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Projeto - BulletQuest/Requisitos.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Requisitos"
+              "icon": "lucide-file-text",
+              "title": "00_apresentação_disciplinae01juntas"
             }
           },
           {
@@ -126,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projeto - BulletQuest/Requisitos.md",
+                "file": "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Requisitos"
+              "title": "Sumário de 00_apresentação_disciplinae01juntas"
             }
           },
           {
@@ -244,6 +242,7 @@
   },
   "active": "b41ca84bfaf74428",
   "lastOpenFiles": [
+    "Projeto - BulletQuest/Requisitos.md",
     "Videos/✅ BulletQuest.md",
     "Videos/✅ Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/✅  Nova Feature - Divisão Automática de Times.md",
@@ -252,7 +251,6 @@
     "Projeto - BulletQuest/Pontuacao e Ranking.md",
     "Freela-HomeLife/Briefing.md",
     "Projeto - BulletQuest/Ranking.excalidraw.md",
-    "Projeto - BulletQuest/Requisitos.md",
     "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
     "Modelos/Modelo de Requisitos.md",
     "PIXelados/Documento de Requistos.md",
