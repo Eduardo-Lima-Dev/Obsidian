@@ -94,5 +94,6 @@ Sistema → equipe testa sistema completo.
 
 ## 22–23. Código com mocks/stubs
 Identificação de simulações, execução e verificação com base nos testes unitários/mocks.
+
 > [!Camada Aplicação] Próximo Assunto 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
