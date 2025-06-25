@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
+                "file": "Universidade/V&V/Revisao Prova.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de lista_exerciciosv2"
+              "title": "Sumário de Revisao Prova"
             }
           },
           {
@@ -254,11 +254,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b41ca84bfaf74428",
+  "active": "7c374b7477050689",
   "lastOpenFiles": [
+    "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
     "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
     "Universidade/V&V/Revisao Prova.md",
-    "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
     "Universidade/V&V/Trabalhos",
     "Projeto - BulletQuest/Requisitos.md",
     "Videos/✅ BulletQuest.md",
