@@ -74,5 +74,11 @@ tipo: Atividade
 
 Esses nomes foram pensados para combinar **clareza, originalidade e conexão emocional** com o público universitário, podendo ser usados conforme o tom desejado (profissional, descontraído ou geek).
 
+- **Nome Escolhido:** *SiggFlow*
+  O **SiggFlow** foi pensado para transmitir, de forma simples e memorável, a ideia de **fluxo contínuo de acompanhamento acadêmico** dentro do SIGAA:
+	- **Sigg–** vem de “SIGAA”, mas com **duplo g** para sugerir a repetição/iteração natural do processo de avaliação (como “GA” repetido em SIGAA) e também para facilitar a pronúncia e fixação do nome.
+	- **Flow** (fluxo, em inglês) evoca a noção de **movimento constante**, progresso e dinâmica — exatamente o que o sistema faz ao **monitorar** desempenho, prazos e entregas dos estudantes.
+Juntos, **SiggFlow** representa um **pipeline de progresso acadêmico**, onde cada etapa (notas, frequência, tarefas) flui de maneira clara e integrada.
+
 > [!Camada Aplicação] Próximos Assuntos 
 > [[Lista de Exercı́cios 1|Lista de Exercı́cios 1]]
