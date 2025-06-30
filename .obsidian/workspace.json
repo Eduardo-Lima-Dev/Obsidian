@@ -27,14 +27,12 @@
             "id": "1f3b1e2d14f83d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico"
+              "icon": "lucide-file-text",
+              "title": "Fluxograma-RD"
             }
           }
         ],
@@ -112,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico"
+              "title": "Sumário de Fluxograma-RD"
             }
           },
           {
@@ -230,9 +228,10 @@
   },
   "active": "1f3b1e2d14f83d5a",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
+    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
-    "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas",
     "Universidade/Auditoria/lista01.pdf",
@@ -266,8 +265,6 @@
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Carlos Igor.md",
     "Universidade/TCC 2/Entrevistas Concluidas/Entrevista - Jefferson.md",
     "Universidade/TCC 2/Entrevistas Concluidas",
-    "Universidade/Projeto 2/Equipe.md",
-    "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Imagens/Pasted Image 20250221124322_162.png",
