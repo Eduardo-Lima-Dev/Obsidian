@@ -86,12 +86,12 @@ Marque (✓) ou detalhe os itens necessários:
 ---
 
 ## 9. Requisitos Técnicos  
-| Item | Detalhes |
-|------|----------|
-| **Plataforma de prototipação preferida** | (Figma, Adobe XD, Sketch, etc.) |
-| **Restrições de acessibilidade** | (WCAG, contraste mínimo, fonte escalável) |
-| **Integrações ou APIs relevantes** |  |
-| **Softwares ou formatos finais desejados** | (SVG, PNG, PDF, MP4, etc.) |
+| Item                                       | Detalhes                                  |
+| ------------------------------------------ | ----------------------------------------- |
+| **Plataforma de prototipação preferida**   | (Figma, Adobe XD, Sketch, etc.)           |
+| **Restrições de acessibilidade**           | (WCAG, contraste mínimo, fonte escalável) |
+| **Integrações ou APIs relevantes**         |                                           |
+| **Softwares ou formatos finais desejados** | (SVG, PNG, PDF, MP4, etc.)                |
 
 ---
 
