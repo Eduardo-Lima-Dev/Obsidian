@@ -27,14 +27,12 @@
             "id": "1f3b1e2d14f83d5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Soltos/Briefing de Design — Projeto.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Briefing de Design — Projeto"
+              "icon": "lucide-file-text",
+              "title": "Fluxograma-ES-2023"
             }
           },
           {
@@ -126,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Briefing de Design — Projeto.md",
+                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Briefing de Design — Projeto"
+              "title": "Sumário de Fluxograma-ES-2023"
             }
           },
           {
@@ -244,13 +242,13 @@
   },
   "active": "1f3b1e2d14f83d5a",
   "lastOpenFiles": [
-    "Freela-HomeLife/Briefing.md",
+    "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Soltos/Briefing de Design — Projeto.md",
+    "Freela-HomeLife/Briefing.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
-    "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas",
     "Universidade/Auditoria/lista01.pdf",
     "Universidade/V&V/Revisao Prova.md",
