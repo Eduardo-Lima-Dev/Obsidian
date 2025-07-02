@@ -27,12 +27,14 @@
             "id": "1f3b1e2d14f83d5a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf"
+                "file": "Soltos/Briefing de Design — Projeto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Fluxograma-RD"
+              "icon": "lucide-file",
+              "title": "Briefing de Design — Projeto"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
+                "file": "Soltos/Briefing de Design — Projeto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Fluxograma-RD"
+              "title": "Sumário de Briefing de Design — Projeto"
             }
           },
           {
@@ -228,9 +230,9 @@
   },
   "active": "1f3b1e2d14f83d5a",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
-    "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas",
