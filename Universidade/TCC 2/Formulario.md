@@ -33,19 +33,14 @@ Para cada afirmação abaixo, avalie de 1 (Discordo Totalmente) a 5 (Concordo To
 
 1. Foi fácil encontrar e acessar as funcionalidades que eu precisava.  
     Resposta: ____
-    
 2. A interface manteve um padrão visual e de navegação ao longo de todo o uso.  
     Resposta: ____
-    
 3. Em nenhum momento senti que o sistema era excessivamente complicado.  
     Resposta: ____
-    
 4. Consegui usar o sistema corretamente sem precisar de instruções adicionais.  
     Resposta: ____
-    
 5. As diferentes funcionalidades se integraram de forma clara e fluida.  
     Resposta: ____
-    
 6. Não houve falhas ou comportamentos imprevisíveis que atrapalhassem meu trabalho.  
     Resposta: ____
 7. Acredito que qualquer usuário conseguiria aprender a usar o sistema rapidamente.  
