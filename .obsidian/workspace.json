@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Briefing.md",
+                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Briefing"
+              "title": "Sumário de Documento de Requisitos - Home Life"
             }
           },
           {
@@ -256,8 +256,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b631d1ff7781e371",
+  "active": "9a9305440117051e",
   "lastOpenFiles": [
+    "Freela-HomeLife/Briefing.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
@@ -266,7 +267,6 @@
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Soltos/Briefing de Design — Projeto.md",
-    "Freela-HomeLife/Briefing.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
