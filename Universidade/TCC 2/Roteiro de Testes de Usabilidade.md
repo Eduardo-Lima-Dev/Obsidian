@@ -4,8 +4,6 @@ tags:
 materia: TCC
 tipo: Atividade
 ---
-# Roteiro de Testes de Usabilidade
-
 ## 1. Objetivo do Teste
 Avaliar a **eficácia**, **eficiência** e **satisfação** das principais funcionalidades do sistema de monitoramento de progresso acadêmico:
 1. Cadastro e login  
