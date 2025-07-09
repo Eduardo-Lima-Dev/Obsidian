@@ -29,37 +29,33 @@ Preencha os campos para cada tarefa realizada:
 
 ## Seção C: Escala de Usabilidade (SUS)
 
-Para as próximas 10 afirmações, avalie de 1 (Discordo Totalmente) a 5 (Concordo Totalmente):
+Para cada afirmação abaixo, avalie de 1 (Discordo Totalmente) a 5 (Concordo Totalmente):
 
-1. Achei o sistema fácil de usar.  
-Resposta: ____
-
-2. Achei que o sistema era consistente.  
-Resposta: ____
-
-3. Achei o sistema complexo.  
-Resposta: ____
-
-4. Achei que precisei aprender muitas coisas antes de usar o sistema.  
-Resposta: ____
-
-5. Achei que as funções do sistema estão bem integradas.  
-Resposta: ____
-
-6. Achei que havia muita inconsistência no sistema.  
-Resposta: ____
-
-7. A maioria das pessoas aprenderia a usar o sistema rapidamente.  
-Resposta: ____
-
-8. Achei complicado usar o sistema.  
-Resposta: ____
-
-9. Senti-me confiante usando o sistema.  
-Resposta: ____
-
-10. Precisei de ajuda para usar o sistema.  
-Resposta: ____
+1. Foi fácil encontrar e acessar as funcionalidades que eu precisava.  
+    Resposta: ____
+    
+2. A interface manteve um padrão visual e de navegação ao longo de todo o uso.  
+    Resposta: ____
+    
+3. Em nenhum momento senti que o sistema era excessivamente complicado.  
+    Resposta: ____
+    
+4. Consegui usar o sistema corretamente sem precisar de instruções adicionais.  
+    Resposta: ____
+    
+5. As diferentes funcionalidades se integraram de forma clara e fluida.  
+    Resposta: ____
+    
+6. Não houve falhas ou comportamentos imprevisíveis que atrapalhassem meu trabalho.  
+    Resposta: ____
+7. Acredito que qualquer usuário conseguiria aprender a usar o sistema rapidamente.  
+    Resposta: ____
+8. As tarefas diárias no sistema correram sem obstáculos desnecessários.  
+    Resposta: ____
+9. Senti-me confiante e seguro ao interagir com o sistema.  
+    Resposta: ____
+10. Pude completar todas as ações desejadas sem ajuda externa.  
+    Resposta: ________
 
 ## Seção D: Satisfação e Feedback Aberto
 
