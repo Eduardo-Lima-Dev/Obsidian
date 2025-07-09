@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
+                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-07-09 20.20.56.excalidraw"
+              "title": "Sumário de Documento de Requisitos - Home Life"
             }
           },
           {
@@ -254,10 +254,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8635f91b73c8e2b7",
+  "active": "9a9305440117051e",
   "lastOpenFiles": [
-    "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
+    "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Freela-HomeLife/Briefing.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
