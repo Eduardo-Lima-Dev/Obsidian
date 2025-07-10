@@ -84,6 +84,11 @@ Avaliar a **eficácia**, **eficiência** e **satisfação** das principais funci
 - **Passos**: Abra o modal de “Algoritmos” e verifique semestre, tipo, carga-horária, pré-requisitos e dependentes.  
 - **Critério**: Você consegue listar mentalmente todas as informações apresentadas.
 
+### T10. Marcar Todas as Disciplinas do Semestre como Concluídas
+- **Cenário**: Deseja concluir rapidamente todas as disciplinas cursadas em um semestre.  
+- **Passos**: No painel de disciplinas, selecione o filtro do semestre desejado e clique em “Marcar tudo como concluído”.  
+- **Critério**: Todas as disciplinas daquele semestre mudam para o status “Concluída” e os cards do dashboard são atualizados.
+---
 ## 6. Questionário Pós-teste
 1. **SUS**: 10 afirmações com escala 1–5.  
 2. **Satisfação Geral**: “Em uma escala de 1 a 5, quão satisfeito você está com o sistema?”  
