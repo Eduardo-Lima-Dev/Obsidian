@@ -36,32 +36,6 @@
               "icon": "lucide-file",
               "title": "Roteiro de Testes de Usabilidade"
             }
-          },
-          {
-            "id": "8635f91b73c8e2b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-09 20.20.56.excalidraw"
-            }
-          },
-          {
-            "id": "b631d1ff7781e371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Freela-HomeLife/Briefing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Briefing"
-            }
           }
         ],
         "currentTab": 1
