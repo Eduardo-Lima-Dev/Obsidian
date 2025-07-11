@@ -39,55 +39,45 @@ Avaliar a **eficácia**, **eficiência** e **satisfação** das principais funci
 | **5. Debriefing & Agradecimento** | 5 min   | Perguntas finais e encerramento                                                                           |
 
 ## 5. Tarefas
-### T1. Cadastro de Novo Usuário
-- **Cenário**: Você acabou de ingressar no curso.  
-- **Passos**: Clique em “Cadastre-se”, preencha Nome, Email, Senha, Curso e Ano de Ingresso.  
-- **Critério de sucesso**: Conta criada e redirecionado ao dashboard.
+|Nº|Tarefa|Critério de Sucesso|
+|---|---|---|
 
-### T2. Login
-- **Cenário**: Já tem conta.  
-- **Passos**: Insira Email e Senha e clique em “Entrar”.  
-- **Critério**: Acesso ao dashboard sem erros.
+|   |   |   |
+|---|---|---|
+|**T1**|**Login**: Acesse o sistema com email e senha.|Entrar no dashboard sem erros.|
 
-### T3. Redefinição de Senha
-- **Cenário**: Esqueceu sua senha.  
-- **Passos**: Clique em “Esqueci a senha”, digite seu email, siga o link (simulado) e defina nova senha.  
-- **Critério**: Conseguir logar com a nova senha.
+|   |   |   |
+|---|---|---|
+|**T2**|**Cadastro**: Crie uma nova conta (nome, curso, semestre, email e senha).|Receber confirmação de cadastro e redirecionamento ao login.|
 
-### T4. Adicionar Disciplina Optativa
-- **Cenário**: Quer incluir uma disciplina livre.  
-- **Passos**: Acesse “Minhas Disciplinas → Optativas → Adicionar”, busque “Introdução à Filosofia” e confirme.  
-- **Critério**: Disciplina aparece na lista de optativas.
+|   |   |   |
+|---|---|---|
+|**T3**|**Recuperar senha**: Acesse a tela de “Esqueci a senha” e peça um link de recuperação.|Ver mensagem de que o e-mail foi enviado.|
 
-### T5. Filtrar Disciplinas
-- **Cenário**: Quer ver apenas pendentes no 4º semestre.  
-- **Passos**: Abra o painel de filtros, selecione “Pendentes” e “4º Semestre”.  
-- **Critério**: Apenas disciplinas pendentes do 4º são exibidas.
+|   |   |   |
+|---|---|---|
+|**T4**|**Criar disciplina optativa**: Cadastre uma nova disciplina optativa (nome, tipo “livre/obrigatória”).|Ver a nova optativa listada.|
 
-### T6. Visualização de Progresso no Dashboard
-- **Cenário**: Conferir status geral.  
-- **Passos**: Observe os cards no topo com número de disciplinas concluídas e faltantes.  
-- **Critério**: Card “Concluídas” e “Faltam” refletem corretamente seu histórico.
+|   |   |   |
+|---|---|---|
+|**T5**|**Adicionar optativa existente**: Escolha uma disciplina já cadastrada no BD e adicione-a ao seu plano.|Disciplina passa a ser exibida em “Optativas”.|
 
-### T7. Alterar Status de Disciplina
-- **Cenário**: Deseja marcar “Algoritmos” como concluída.  
-- **Passos**: Na lista de disciplinas, clique em “Em andamento” ao lado de “Algoritmos” e selecione “Concluída”.  
-- **Critério**: Status é atualizado e refletido no dashboard.
+|   |   |   |
+|---|---|---|
+|**T6**|**Alterar status de disciplina**: Marque uma disciplina pendente como “Concluída” ou “Reprovada”.|Status atualizado corretamente.|
 
-### T8. Consulta de Pré-requisitos e Disciplinas Dependentes
-- **Cenário**: Planejando seu próximo semestre.  
-- **Passos**: Clique na disciplina “Cálculo I”, abra o modal e leia pré-requisitos e as que dependem dela.  
-- **Critério**: Modal mostra claramente lista de pré-requisitos e dependentes.
+|   |   |   |
+|---|---|---|
+|**T7**|**Marcar todas as disciplinas do semestre como concluídas**: Use a opção de “concluir tudo” em um semestre.|Todas as do período mudam para “Concluídas” de uma vez.|
 
-### T9. Explorar Modal de Detalhes
-- **Cenário**: Quer todos os detalhes de “Algoritmos”.  
-- **Passos**: Abra o modal de “Algoritmos” e verifique semestre, tipo, carga-horária, pré-requisitos e dependentes.  
-- **Critério**: Você consegue listar mentalmente todas as informações apresentadas.
+|   |   |   |
+|---|---|---|
+|**T8**|**Filtrar disciplinas**: Aplique filtros “Completas”, “Pendentes”, “Optativas” e “Atrasadas”.|Apenas itens do tipo selecionado aparecem.|
 
-### T10. Marcar Todas as Disciplinas do Semestre como Concluídas
-- **Cenário**: Deseja concluir rapidamente todas as disciplinas cursadas em um semestre.  
-- **Passos**: No painel de disciplinas, selecione o filtro do semestre desejado e clique em “Marcar tudo como concluído”.  
-- **Critério**: Todas as disciplinas daquele semestre mudam para o status “Concluída” e os cards do dashboard são atualizados.
+|   |   |   |
+|---|---|---|
+|**T9**|**Visualizar detalhes de disciplina**: Clique em uma disciplina para ver carga horária, tipo, semestre, pré-requisitos e disciplinas dependentes.|Card exibe corretamente todas as informações: carga, tipo, semestre, pré-requisitos e dependentes|
+
 ---
 ## 6. Questionário Pós-teste
 1. **SUS**: 10 afirmações com escala 1–5.  
