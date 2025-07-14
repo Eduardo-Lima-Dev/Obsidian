@@ -43,5 +43,4 @@
     - **Há horários disponíveis** → o sistema informa ao usuário quais horários podem ser agendados.
 4. **Confirmação**
     - O usuário escolhe o horário desejado.
-        
     - O sistema envia um e-mail confirmando o agendamento; fim do fluxo.
