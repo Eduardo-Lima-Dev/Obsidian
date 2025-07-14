@@ -1,3 +1,27 @@
+**Diagrama de Sequência – Criar Conta**
+
+1. O **Ator** preenche o formulário com e-mail, telefone, CPF e senha e envia para a **TelaCriarConta**.
+2. A tela dispara `preencherDados(...)` no **ControleCriarConta**, que internamente chama `validarCPF(cpf:string): boolean`.
+3. Confirmado que o CPF é válido e não existe na base, o controller cria a instância de **Cliente** (`<<create>> Cliente`).
+4. Em seguida, ele chama `enviarConfirmacao()` no serviço de **Email**, enviando ao usuário o link de ativação da conta.
+---
+**Diagrama de Sequência – Fazer Login**
+1. O **Ator** informa CPF e senha na **TelaLogin**, que envia `fazerLogin(cpf:string, senha:string): boolean` ao **ControleLogin**.
+2. O controller verifica `verificaCPF(cpf:string): boolean`. Se for falso, retorna imediatamente “CPF não cadastrado” à tela.
+3. Se o CPF estiver ok, chama `validarSenha(senha:string): boolean`.
+    - **Senha correta** → cria e devolve o objeto **Cliente** à interface (`<<create>> Cliente`), permitindo o acesso ao sistema.
+        
+    - **Senha incorreta** → entra em loop de retry enquanto `tentativas < 3`, chamando novamente `fazerLogin(...)`.
+        
+    - Ao atingir 3 tentativas falhas, executa `bloquearConta(cpf:string): void` e `enviarLinkParaDesbloqueio(): void`, bloqueando a conta e enviando e-mail de desbloqueio.
+---
+**Diagrama de Sequência – Cadastrar Agendamento**
+1. O **Ator** informa dia e mês desejados à **TelaCriarAgendamento** (`data:int, mes:int`).
+2. A tela solicita `consultarDisponibilidade(data, mes): horarios[]` ao **ControleCriarAgendamento**, que retorna a lista de horários livres.
+3. O usuário escolhe um horário (`selecionarHorario(horario:time)`) e a tela chama `realizarAgendamento(dia, mes, horario)`.
+4. O controller obtém o `idCliente` logado, cria um novo **Agendamento** (`<<create>> Agendamento(dia, mes, horario, idCliente)`) e aciona `enviarConfirmacao()` no serviço de **Email**.
+5. Por fim, retorna à tela `mensagemSucesso()`, confirmando visualmente o agendamento.
+
 ## Diagrama de Atividade – “Criar Conta”
 
 1. **Início**
