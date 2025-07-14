@@ -28,17 +28,17 @@ tipo: Atividade
 
 ## 5. Tarefas
 
-| Nº  | Tarefa                                                        | Critério de Sucesso                                           |
-|-----|---------------------------------------------------------------|---------------------------------------------------------------|
-| T1  | **Login**: Acesse o sistema com email e senha.                | Entrar no dashboard sem erros.                                |
-| T2  | **Cadastro**: Crie uma nova conta (nome, curso, semestre, email e senha). | Receber confirmação de cadastro e redirecionamento ao login. |
-| T3  | **Recuperar senha**: Acesse a tela de “Esqueci a senha” e peça um link de recuperação. | Ver mensagem de que o e-mail foi enviado. |
-| T4  | **Criar disciplina optativa**: Cadastre uma nova disciplina optativa (nome, tipo “livre/obrigatória”). | Ver a nova optativa listada. |
-| T5  | **Adicionar optativa existente**: Escolha uma disciplina já cadastrada no BD e adicione-a ao seu plano. | Disciplina exibida em “Optativas”. |
-| T6  | **Alterar status de disciplina**: Marque uma disciplina pendente como “Concluída” ou “Reprovada”. | Status atualizado corretamente. |
-| T7  | **Marcar todas as disciplinas do semestre como concluídas**: Use a opção de “concluir tudo” em um semestre. | Todas as do período mudam para “Concluídas”. |
-| T8  | **Filtrar disciplinas**: Aplique filtros “Completas”, “Pendentes”, “Optativas” e “Atrasadas”. | Apenas itens do tipo selecionado aparecem. |
-| T9  | **Visualizar detalhes de disciplina**: Clique em uma disciplina para ver carga horária, tipo, semestre, pré-requisitos e disciplinas dependentes. | Card exibe corretamente todas as informações. |
+| Nº  | Tarefa                                                                                                                                            | Critério de Sucesso                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| T1  | **Login**: Acesse o sistema com email e senha.                                                                                                    | Entrar no dashboard sem erros.                               |
+| T2  | **Cadastro**: Crie uma nova conta (nome, curso, semestre, email e senha).                                                                         | Receber confirmação de cadastro e redirecionamento ao login. |
+| T3  | **Recuperar senha**: Acesse a tela de “Esqueci a senha” e peça um link de recuperação.                                                            | Ver mensagem de que o e-mail foi enviado.                    |
+| T4  | **Criar disciplina optativa**: Cadastre uma nova disciplina optativa (nome, tipo “livre/obrigatória”).                                            | Ver a nova optativa listada.                                 |
+| T5  | **Adicionar optativa existente**: Escolha uma disciplina já cadastrada no BD e adicione-a ao seu plano.                                           | Disciplina exibida em “Optativas”.                           |
+| T6  | **Alterar status de disciplina**: Marque uma disciplina pendente como “Concluída” ou “Reprovada”.                                                 | Status atualizado corretamente.                              |
+| T7  | **Marcar todas as disciplinas do semestre como concluídas**: Use a opção de “concluir tudo” em um semestre.                                       | Todas as do período mudam para “Concluídas”.                 |
+| T8  | **Filtrar disciplinas**: Aplique filtros “Completas”, “Pendentes”, “Optativas” e “Atrasadas”.                                                     | Apenas itens do tipo selecionado aparecem.                   |
+| T9  | **Visualizar detalhes de disciplina**: Clique em uma disciplina para ver carga horária, tipo, semestre, pré-requisitos e disciplinas dependentes. | Card exibe corretamente todas as informações.                |
 
 ---
 ## 6. Métricas Coletadas
