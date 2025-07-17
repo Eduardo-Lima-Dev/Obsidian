@@ -24,17 +24,15 @@
             }
           },
           {
-            "id": "9a9305440117051e",
+            "id": "87e70c6d5012191d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Universidade/Auditoria/Apresentação 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Apresentação 2"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-17 14.45.55.excalidraw"
             }
           }
         ],
@@ -112,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/Auditoria/Apresentação 2.md",
+                "file": "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Apresentação 2"
+              "title": "Sumário de Drawing 2025-07-17 14.45.55.excalidraw"
             }
           },
           {
@@ -228,10 +226,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a9305440117051e",
+  "active": "87e70c6d5012191d",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Sumario.md",
+    "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
+    "Sem título 1.md",
     "Universidade/Auditoria/Apresentação 2.md",
+    "Sem título.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
     "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/Diagramas.md",
@@ -240,7 +241,6 @@
     "Freela-HomeLife/Briefing.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Universidade/TCC 2/Formulario.md",
-    "Sumario.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Soltos/Briefing de Design — Projeto.md",
@@ -264,8 +264,6 @@
     "PIXelados/Documento de Requistos.md",
     "Projeto - BulletQuest/Requisitos do Aplicativo de Organização Gamificado.md",
     "Projeto - BulletQuest/Drawing 2025-05-26 21.08.32.excalidraw.md",
-    "Videos/Vídeo de Vendas.md",
-    "Soltos/Posts Linkedin/Post LinkedIn - PIXelados.md",
     "PIXelados",
     "Soltos/Posts Linkedin",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
