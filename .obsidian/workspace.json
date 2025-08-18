@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "87e70c6d5012191d",
+            "id": "9a9305440117051e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf"
+                "file": "Universidade/Diagramas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Documento de Requisitos do Sistema"
+              "icon": "lucide-file",
+              "title": "Diagramas"
             }
           }
         ],
@@ -93,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b6ec9af3f92dde3a",
@@ -110,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
+                "file": "Universidade/Diagramas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requisitos do Sistema"
+              "title": "Sumário de Diagramas"
             }
           },
           {
@@ -226,22 +229,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87e70c6d5012191d",
+  "active": "9a9305440117051e",
   "lastOpenFiles": [
-    "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
     "o.md",
-    "Sumario.md",
-    "Sem título 1.md",
     "Universidade/Auditoria/Apresentação 2.md",
+    "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
+    "Sem título 1.md",
     "Sem título.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
-    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
     "Universidade/Diagramas.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
     "Freela-HomeLife/Briefing.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Universidade/TCC 2/Formulario.md",
+    "Sumario.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Soltos/Briefing de Design — Projeto.md",
@@ -264,6 +266,7 @@
     "Modelos/Modelo de Requisitos.md",
     "PIXelados/Documento de Requistos.md",
     "Projeto - BulletQuest/Requisitos do Aplicativo de Organização Gamificado.md",
+    "Projeto - BulletQuest/Drawing 2025-05-26 21.08.32.excalidraw.md",
     "PIXelados",
     "Soltos/Posts Linkedin",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
