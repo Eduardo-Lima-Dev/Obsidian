@@ -184,7 +184,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           }
         ],
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Roteiro de Cenas e Como Gravar.md",
+                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro de Cenas e Como Gravar"
+              "title": "Links inversos para Documento de Requisitos - Home Life"
             }
           }
         ]
@@ -227,8 +227,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
