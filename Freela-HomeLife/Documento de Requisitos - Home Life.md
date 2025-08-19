@@ -94,10 +94,7 @@ Pessoas que não podem ou preferem não sair de casa para um atendimento.
    - Cadastro de horários de disponibilidade dos profissionais.
    - Cadastro de informações de pagamento (cartão de recebimento para profissionais).
 
-4. **Integração de Pagamento:**
-   - Pagamento via PagBank ou outra plataforma de pagamento.
-
-5. **Notificações:**
+4. **Notificações:**
    - Notificar médicos e enfermeiros sobre novos agendamentos.
 
 ---
