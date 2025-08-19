@@ -88,7 +88,6 @@ Pessoas que não podem ou preferem não sair de casa para um atendimento.
      - Alergias
      - Principais necessidades
      - Medicações contínuas
-   - Opções de pagamento via cartão, PIX ou presencial.
 
 3. **Sistema dos Administradores:**
    - Cadastro de médicos e enfermeiros.
