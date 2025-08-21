@@ -52,6 +52,20 @@
             }
           },
           {
+            "id": "85e3a1fdb64d53d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
+            }
+          },
+          {
             "id": "9eb57e7dae8ff47a",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requisitos - Home Life"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -201,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Documento de Requisitos - Home Life.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Documento de Requisitos - Home Life"
+              "title": "Links inversos para Sem título"
             }
           }
         ]
@@ -254,14 +268,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cbd14bef56926d8c",
+  "active": "85e3a1fdb64d53d8",
   "lastOpenFiles": [
-    "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
+    "Sem título.md",
+    "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
     "Freela-HomeLife/Briefing.md",
     "Universidade/Diagramas.md",
     "Atividade 3.md",
-    "Sem título.md",
     "Sem título 1.md",
     "o.md",
     "Universidade/Auditoria/Apresentação 2.md",
