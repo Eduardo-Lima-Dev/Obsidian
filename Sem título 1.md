@@ -9,5 +9,9 @@ A minha proposta é criar uma fila inteligente virtual, transfomando as filas pr
 
 A minha solução esta dividida em 3 partes
 - O paciente entra na fila pelo app, remotamente, antes mesmo de sair de casa.
-- Recebe notificações em tempo real sobre sua posição e alertas inteligentes quando o atendimento estiver próximo
-- Ao chegar na clínica, faz check-in com QR Code e vai direto para o atendimento.
+- Recebe notificações em tempo real sobre sua posição e alertas inteligentes quando o atendimento estiver próximo, com informações sobrre tempo medio dos atendimentos iguais aos dele, media de tempo de espera.
+- E ao chegar na clínica, faz check-in com QR Code e vai direto para o atendimento.
+
+Quais os beneficios?
+
+Os beneficios vem para os cliente e para as clinicas, com Redução no tempo de espera física, Otimização da agenda pessoal
