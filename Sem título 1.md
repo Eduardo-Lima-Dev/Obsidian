@@ -1,4 +1,8 @@
 Ola eu sou o eduardo, vou apresentar para voce a minha idea para a fila inteligente
 sou aluno de Eng de software pela UFC campus quixada
 
-O proble identificado foi a espera e o tempo perdido dentro de filas presenciais em clinicas como clinicadas dentarias, segundo estudos braseleiros esse tempo pode chegar a 125 minutos, cerca de 2 horas de espera que 
+O problema identificado foi a espera e o tempo perdido dentro de filas presenciais em clinicas como clinicadas dentarias, segundo estudos braseleiros esse tempo pode chegar a 125 minutos, cerca de 2 horas de espera que durante o ano pode chgar a 130 horas por ano que poderiam ser investidas em família, trabalho ou lazer.
+
+Atualmente precisei passar por um procedimento dentario e  o mesmo levopu mais de uma hora de espera em uma fola presencial.
+
+A minha proposta para a resolução,
