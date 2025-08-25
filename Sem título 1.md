@@ -19,4 +19,4 @@ e para as clinicas um dashboard analitico completo com dados sobre desistencias,
 Uma gestao eficiente do fluxo de pessoas
 e a redução de custos operacionais
 
-Pensei tambem na questao do escalonamento, ja que é um mercado gidantesco so no ceara sao mais de 5 mil clinica e no brasil sao mais de 50 mil estabelecimentos que poderiam utilizar essa solução, desde privados ate governamentais, pensando em um modelo de motezação em saas B2B
+Pensei tambem na questao do escalonamento, ja que é um mercado gidantesco so no ceara sao mais de 5 mil clinica e no brasil sao mais de 50 mil estabelecimentos que poderiam utilizar essa solução, desde privados ate governamentais, pensando em um modelo de monetização em saas B2B e essa era a minha ideia de fila virtual, agradeço pelo tempo.
