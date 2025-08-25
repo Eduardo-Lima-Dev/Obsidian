@@ -27,12 +27,14 @@
             "id": "87e70c6d5012191d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf"
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Documento de Requisitos do Sistema"
+              "icon": "lucide-file",
+              "title": "Sem título 1"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
+                "file": "Sem título 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requisitos do Sistema"
+              "title": "Sumário de Sem título 1"
             }
           },
           {
@@ -229,6 +231,7 @@
   },
   "active": "87e70c6d5012191d",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
     "o.md",
     "Sumario.md",
@@ -264,7 +267,6 @@
     "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
     "Modelos/Modelo de Requisitos.md",
     "PIXelados/Documento de Requistos.md",
-    "Projeto - BulletQuest/Requisitos do Aplicativo de Organização Gamificado.md",
     "PIXelados",
     "Soltos/Posts Linkedin",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
