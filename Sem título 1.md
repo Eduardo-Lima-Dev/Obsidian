@@ -14,4 +14,9 @@ A minha solução esta dividida em 3 partes
 
 Quais os beneficios?
 
-Os beneficios vem para os cliente e para as clinicas, com Redução no tempo de espera física, Otimização da agenda pessoal
+Os beneficios vem para os cliente e para as clinicas, com Redução no tempo de espera física, Otimização da agenda pessoal para os clientes 
+e para as clinicas um dashboard analitico completo com dados sobre desistencias, picos semanais e diarios de consultas, dentre outras informçoes que podem ser analisadas,
+Uma gestao eficiente do fluxo de pessoas
+e a redução de custos operacionais
+
+alem
