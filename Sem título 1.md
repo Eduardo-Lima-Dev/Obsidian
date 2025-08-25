@@ -5,4 +5,9 @@ O problema identificado foi a espera e o tempo perdido dentro de filas presencia
 
 Atualmente precisei passar por um procedimento dentario e  o mesmo levopu mais de uma hora de espera em uma fola presencial.
 
-A minha proposta para a resolução,
+A minha proposta é criar uma fila inteligente virtual, transfomando as filas presenciais em uma experiencia digital e inteligente, eliminando a espera fisica e otimizando o tempo dos pacientes
+
+A minha solução esta dividida em 3 partes
+- O paciente entra na fila pelo app, remotamente, antes mesmo de sair de casa.
+- Recebe notificações em tempo real sobre sua posição e alertas inteligentes quando o atendimento estiver próximo
+- Ao chegar na clínica, faz check-in com QR Code e vai direto para o atendimento.
