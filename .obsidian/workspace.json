@@ -170,9 +170,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "57c32a2d7806dfdb",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "fc5e30b4ece8ec94",
@@ -218,10 +228,11 @@
       "publish:Publicar mudanças": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1fb28afcc92460db",
+  "active": "57c32a2d7806dfdb",
   "lastOpenFiles": [
     "Sumario.md",
     "Drawing 2025-09-11 15.10.10.excalidraw.md",

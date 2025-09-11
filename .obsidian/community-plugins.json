@@ -7,5 +7,7 @@
   "better-export-pdf",
   "templater-obsidian",
   "dataview",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "mehrmaid",
+  "mermaid-tools"
 ]

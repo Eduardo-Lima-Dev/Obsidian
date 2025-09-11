@@ -8,22 +8,3 @@
 
 - **Correção:** Adicionei um _normalizeDecimal,_ para garantir o . como separador decimal.
 
-graph TD
-    A[09:00 - Cron Job] --> B{É dia 12 ou 18?}
-    B -->|NÃO| C[Fim - Não envia]
-    B -->|SIM| D[Buscar emails ativos]
-    D --> E{Existem emails ativos?}
-    E -->|NÃO| F[Log: Nenhum email configurado]
-    E -->|SIM| G[Buscar coordenadores]
-    G --> H{Existem coordenadores?}
-    H -->|NÃO| I[Log: Nenhum coordenador encontrado]
-    H -->|SIM| J[Para cada email configurado]
-    J --> K{Já foi enviado hoje?}
-    K -->|SIM| L[Pular este email]
-    K -->|NÃO| M[Para cada coordenador]
-    M --> N{Tem email válido?}
-    N -->|NÃO| O[Pular coordenador]
-    N -->|SIM| P[Enviar email]
-    P --> Q[Log: Email enviado]
-    Q --> R[Atualizar último envio]
-    R --> S[Fim]
