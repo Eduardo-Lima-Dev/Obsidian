@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "468ea7ce33a5a978",
+            "id": "1fb28afcc92460db",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-09-11 15.10.10.excalidraw.md"
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-11 15.10.10.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ],
@@ -102,7 +104,7 @@
       {
         "id": "146bc1cca5233a87",
         "type": "tabs",
-        "dimension": 41.50743099787687,
+        "dimension": 65.16666666666667,
         "children": [
           {
             "id": "dc28f0542a73401e",
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-09-11 15.10.10.excalidraw.md",
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-09-11 15.10.10.excalidraw"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -158,6 +160,16 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "1f6073d360295e53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 3
@@ -165,7 +177,7 @@
       {
         "id": "fc5e30b4ece8ec94",
         "type": "tabs",
-        "dimension": 22.18683651804671,
+        "dimension": 34.83333333333333,
         "children": [
           {
             "id": "5b3c6f8044a5ead5",
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2025-09-11 15.10.10.excalidraw.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,24 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Drawing 2025-09-11 15.10.10.excalidraw"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9c974f6f87ecbb70",
-        "type": "tabs",
-        "dimension": 36.30573248407643,
-        "children": [
-          {
-            "id": "149ce8d308af5989",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Links inversos para Sem título"
             }
           }
         ]
@@ -226,10 +221,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "468ea7ce33a5a978",
+  "active": "1fb28afcc92460db",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Sumario.md",
     "Drawing 2025-09-11 15.10.10.excalidraw.md",
+    "Sem título.md",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
     "Freela-HomeLife/Briefing.md",
@@ -242,7 +238,6 @@
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Universidade/TCC 2/Formulario.md",
-    "Sumario.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Soltos/Briefing de Design — Projeto.md",
