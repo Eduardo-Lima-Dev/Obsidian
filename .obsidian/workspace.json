@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
-                "mode": "preview",
+                "file": "Modelos/Sem título.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro de Perguntas para Reunião"
+              "title": "Sem título"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Modelos/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Perguntas para Reunião"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+                "file": "Modelos/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Roteiro de Perguntas para Reunião"
+              "title": "Links inversos para Sem título"
             }
           }
         ]
@@ -248,6 +248,8 @@
   },
   "active": "dd444e4f22cea274",
   "lastOpenFiles": [
+    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Modelos/Sem título.md",
     "Freela-HomeLife/Briefing.md",
     "Modelos/Modelo Briefing.md",
     "Sumario.md",
@@ -282,8 +284,6 @@
     "Videos/✅  Nova Feature - Divisão Automática de Times.md",
     "Projeto - BulletQuest/Pontuacao e Ranking.md",
     "Projeto - BulletQuest/Ranking.excalidraw.md",
-    "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
-    "Modelos/Modelo de Requisitos.md",
     "PIXelados",
     "Soltos/Posts Linkedin",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
