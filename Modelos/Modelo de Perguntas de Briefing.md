@@ -103,29 +103,13 @@
 22. **Dependências externas/críticas?**  
     *Acessos, contratos, aprovações legais, contas de terceiros.*  
     **[Resposta:]**
-
-23. **Suposições que estamos fazendo?**  
-    *Condições necessárias para o plano dar certo.*  
-    **[Resposta:]**
-
 ---
 
 ## 8) Itens Finais
-26. **Existem exigências legais/compliance específicas?**  
+23. **Existem exigências legais/compliance específicas?**  
     *Termos de uso, políticas de privacidade, auditorias.*  
     **[Resposta:]**
 
-27. **Existe algo importante que não foi perguntado?**  
+24. **Existe algo importante que não foi perguntado?**  
     *Observações gerais.*  
     **[Resposta:]**
-
----
-
-### ✔️ Checklist rápido (preenchimento)
-- [ ] Objetivo, problema e KPIs definidos  
-- [ ] Escopo (in/out) e RF/RNF listados  
-- [ ] Restrições técnicas/segurança mapeadas  
-- [ ] Cronograma, orçamento e prioridades acordados  
-- [ ] Stakeholders e processo de aprovação definidos  
-- [ ] Referências/entregáveis claros  
-- [ ] Riscos/dependências/suposições documentados
