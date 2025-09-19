@@ -9,7 +9,6 @@
 ## 1) Contexto & Objetivo
 **Contexto (problema/oportunidade):** <1–3 frases>  
 **Objetivo principal (outcome):** <frase única, mensurável>  
-**KPIs/Métricas de sucesso:** <ex.: tempo, taxa, NPS, receita>
 
 ---
 
@@ -32,7 +31,7 @@
 ---
 
 ## 4) Requisitos
-### 4.1 Funcionais (MoSCoW)
+### 4.1 Funcionais
 - **Must:** <itens obrigatórios>
 - **Should:** <itens importantes>
 - **Could:** <desejáveis>
@@ -52,25 +51,7 @@
 
 ---
 
-## 5) Regras de Negócio & Critérios de Aceite
-**Regras-chave:**  
-- <regra 1>  
-- <regra 2>
-
-**Critérios de Aceite (Gherkin, exemplos):**  
-- Dado <estado>, quando <ação>, então <resultado esperado>.  
-- Dado <estado>, quando <ação>, então <resultado esperado>.
-
----
-
-## 6) Fluxos Principais (alto nível)
-1) <Fluxo 1 em 1–2 linhas>  
-2) <Fluxo 2 em 1–2 linhas>  
-*(Opcional: anexar diagrama)*
-
----
-
-## 7) Cronograma & Marcos
+## 5) Cronograma & Marcos
 **Início previsto:** DD/MM/AAAA • **Go-live alvo:** DD/MM/AAAA  
 **Marcos:**
 - M1 — Descoberta/Briefing validado: DD/MM
@@ -82,28 +63,21 @@
 
 ---
 
-## 8) Orçamento & Infra
+## 6) Orçamento & Infra
 **Infra/Hospedagem:** <ex.: Vercel/AWS/GCP + ambientes Dev/Homolog/Prod>  
 **Estimativas de custo:** <infra, licenças, integrações, mensagens>  
 **Licenças/Power-ups:** <se aplicável>
 
 ---
 
-## 9) Riscos, Suposições, Dependências
-- **Riscos:** <ex.: integração de terceiro, agenda de stakeholders>  
-- **Suposições:** <ex.: acesso às contas/credenciais até DD/MM>  
-- **Dependências:** <ex.: aprovação legal, contratação de fornecedor>
-
----
-
-## 10) Comunicação & Aprovação
+## 7) Comunicação & Aprovação
 **Canais:** <WhatsApp/Email/Slack> • **Frequência:** <ex.: 1×/semana>  
 **Controle de versão de decisões:** <doc/ata/local>  
 **Critério de aprovação:** <quem aprova e como (demo/ata/assinatura)>
 
 ---
 
-## 11) Anexos & Referências
+## 8) Anexos & Referências
 - Protótipos/Design: <link>  
 - Documentos legais/Termos: <link>  
 - Benchmarks/Referências: <links>  
