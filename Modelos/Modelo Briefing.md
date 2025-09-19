@@ -8,7 +8,8 @@
 
 ## 1) Contexto & Objetivo
 **Contexto (problema/oportunidade):** <1–3 frases>  
-**Objetivo principal (outcome):** <frase única, mensurável>  
+**Objetivo principal :** <frase única, mensurável>  
+**Descrição do projeto:** <O que é o projeto/O que a empresa faz>  
 
 ---
 
@@ -82,14 +83,3 @@
 - Documentos legais/Termos: <link>  
 - Benchmarks/Referências: <links>  
 - Repositórios/Backlog: <links>
-
----
-
-## 12) Checklist de Pronto do Briefing
-- [ ] Objetivo e KPIs definidos
-- [ ] Escopo/Não escopo claros
-- [ ] Requisitos (funcionais e NFRs) revisados
-- [ ] Integrações mapeadas
-- [ ] Cronograma e marcos acordados
-- [ ] Riscos/dependências documentados
-- [ ] Critério de aprovação combinado
