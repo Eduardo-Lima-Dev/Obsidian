@@ -112,7 +112,7 @@ Acesso em 27/09/2025
 ---
 
 
-# Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC (IA)
+# 2 - Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC (IA)
 
 ## 1) Escopo Funcional por Módulo
 
