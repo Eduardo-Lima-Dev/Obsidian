@@ -309,4 +309,6 @@ Assinar Termo → Lançar Frequência/Atividades → Validação do Gestor → R
 
 # Requisitos Funcionais (Eu)
 
-**RF-01. 
+**RF-01. Crud Auxilio/Bolsa**
+- Criação/Edição/Exclusão de Bolsas e auxílios
+
