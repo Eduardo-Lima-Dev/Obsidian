@@ -1,5 +1,8 @@
 
-# Atividade de desenvolvimento dos R
+# Atividade de desenvolvimento dos Requisitos
+
+## Aluno: Luiz Eduardo Borges de Lima - 500623
+
 #  1 - Requisitos Funcionais
 
 **RF-01. Crud Auxilio/Bolsa**
@@ -253,5 +256,75 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 
 ---
 
-# 4 Comparativo
+# 4 Comparação entre versões de requisitos
 
+## Diferenças principais
+- **Numeração**: uma versão usa `RF001…RF031`, a outra `RF-01…RF-31`.  
+  ➝ Padronizar para `RF001…` por clareza.  
+- **Detalhamento**: a versão SRS traz descrições longas e critérios de aceite; a versão RF001 é mais objetiva.  
+- **Repetição**: regras de upload aparecem em RF e RNF; ideal deixar no RNF e citar no RF.  
+- **Classificação**: itens como abrir links em nova aba (RF024) e auditoria imutável (RF027) devem migrar para RNFs (usabilidade/segurança).
+
+---
+
+## Ajustes sugeridos
+
+### Catálogo (RF001–RF005)
+- Incluir paginação/ordenação.  
+- Indicar disponibilidade por campus.  
+
+### Editais (RF006–RF008)
+- Acrescentar rastro detalhado de versões e rollback.  
+- Garantir que mudança de fase dispare notificações.  
+
+### Inscrições (RF009–RF012)
+- Prever janela de retificação.  
+- Garantir idempotência no envio.  
+- Validar anexos conforme RNF.  
+
+### Seleção (RF013–RF017)
+- Criar engine de rubricas configurável.  
+- Registrar critérios de desempate aplicados.  
+
+### Acompanhamento (RF018–RF021)
+- Aprovação de frequência em dois passos.  
+- Renovação em lote de bolsas.  
+
+### Integrações (RF022–RF024)
+- Ter fallback (CSV) quando integração falhar.  
+- Marcação “a validar” quando dados não forem confirmados.  
+
+### Transparência (RF025–RF027)
+- Relatórios exportáveis com anonimização.  
+- Reforçar logs nos RNFs.  
+
+### Administração (RF028–RF031)
+- Escopo por unidade/campus.  
+- Templates versionados e biblioteca de perguntas.  
+- Notificações multicanal e agenda de envios.
+
+---
+
+## Adições necessárias
+- **RF032** – Validação anti-fraude (duplicidade/documentos).  
+- **RF033** – API para relatórios/BI.  
+- **RF034** – Termo de consentimento LGPD versionado.  
+- **RF035** – Rate limiting/proteção contra abuso.  
+- **RF036** – Observabilidade/telemetria.  
+
+---
+
+## RNFs
+- Incluir cenários de pico de concorrência.  
+- Definir RPO/RTO para backup e recuperação.  
+- Reforçar segurança (assinatura de logs, CSP, HSTS).  
+- Automatizar testes de acessibilidade.  
+
+---
+
+## Conclusão
+O conteúdo das versões é equivalente, mas a versão final deve:
+1. Padronizar a numeração (`RF001…`).  
+2. Mover alguns pontos para RNFs.  
+3. Adicionar controles de fraude, segurança e observabilidade.  
+4. Detalhar melhor os processos de edital, inscrição e acompanhamento.  
