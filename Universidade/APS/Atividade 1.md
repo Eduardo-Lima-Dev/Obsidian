@@ -266,25 +266,34 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 - **RNF-07 – Internacionalização**: PT-BR default; estrutura pronta p/ EN.
 ---
 
-# Requisitos Funcionais (Eu)
+#  1 - Requisitos Funcionais (Eu)
 
 **RF-01. Crud Auxilio/Bolsa**
-- Criação/Edição/Exclusão de Bolsas e auxílios
+- Criação/Edição/Exclusão de bolsas e auxílios
 
 **RF-02. Listagem Auxilio/Bolsa**
+- Exibição paginada dos registros de bolsas e auxílios
 
 **RF-03. Busca Auxilio/Bolsa**
+- Pesquisa por nome, tipo, unidade gestora e campus
 
 **RF-04. Crud Frequencia**
+- Criação/Edição/Exclusão de registros de frequência do bolsista
 
 **RF-05. Listagem Frequencia**
+- Exibição paginada de frequências por bolsista, mês e programa
 
 **RF-06. Notificações Frequencia**
+- Envio de alertas sobre pendências, atrasos e reprovação de frequência
 
 **RF-07. Resultados Auxilios/Bolsas**
+- Publicação de listas preliminares e finais (aprovados, suplentes, indeferidos)
 
-**RF-08. Envio de  Documentos**
+**RF-08. Envio de Documentos**
+- Upload de arquivos exigidos por edital com validação de formato e tamanho
 
 **RF-09. Crud de Cronogramas**
+- Criação/Edição/Exclusão de etapas e prazos dos editais
 
-**RF-09. Crud de Cronogramas**
+**RF-10. Listagem de Cronogramas**
+- Exibição das etapas e datas por programa/edital com status atual
