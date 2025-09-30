@@ -4,7 +4,7 @@ tags:
 materia: TCC
 tipo: Atividade
 ---
-	## 🎓 Nomes Profissionais e Funcionais
+## 🎓 Nomes Profissionais e Funcionais
 
 1. **TrackEdu**  
    Mistura de "Track" (rastrear) com "Educação". Foca no acompanhamento do progresso acadêmico.
