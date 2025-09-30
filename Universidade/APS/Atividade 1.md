@@ -111,4 +111,14 @@ Acesso em 27/09/2025
 
 ---
 
-d
+
+# Requisitos Funcionais – Página de Bolsas e Auxílios da UFC
+
+## RF-01 – Listagem de Programas
+O sistema deve exibir uma lista de todos os programas de bolsas e auxílios disponíveis na UFC.
+
+## RF-02 – Detalhamento de Programas
+O sistema deve apresentar descrição completa de cada programa, incluindo objetivos, público-alvo e condições.
+
+## RF-03 – Links de Acesso
+O sistema deve disponibilizar links para páginas externas oficiais de cada programa (ex.: PRAE, PROGRAD, PROINTER, STI, PREX, PRPPG etc.).
