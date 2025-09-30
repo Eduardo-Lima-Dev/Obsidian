@@ -66,7 +66,7 @@ Para mais informações, acesse: www.prae.ufc.br
 
 9. Bolsa de Iniciação Científica
 
-A Coordenadoria de Pesquisa tem como objetivos registrar, fomentar e auxiliar na elaboração e execução dos projetos de pesquisa realizados no âmbito da UFC.
+==A Coordenadoria de Pesquisa tem como objetivos registrar, fomentar e auxiliar na elaboração e execução dos projetos de pesquisa realizados no âmbito da UFC.==
 
 Para mais informações, acesse: www.prppg.ufc.br
 
@@ -90,13 +90,13 @@ Para mais informações, acesse: www.prograd.ufc.br
 
 13. Bolsa de Monitoria de Projetos de Graduação
 
-Os projetos para implementação ou renovação de Monitoria de Projetos de Graduação podem ser propostos por Coordenadores de Programas Acadêmicos (CPAs), Coordenadores dos Cursos de Graduação e/ou professores da UFC. Aqueles que tiverem seus projetos aprovados deverão promover processo de seleção para monitores mediante edital específico, divulgado pela Diretoria da Unidade Acadêmica e/ou Coordenação de Curso.
+==Os projetos para implementação ou renovação de Monitoria de Projetos de Graduação podem ser propostos por Coordenadores de Programas Acadêmicos (CPAs), Coordenadores dos Cursos de Graduação e/ou professores da UFC.== Aqueles que tiverem seus projetos aprovados deverão promover processo de seleção para monitores mediante edital específico, divulgado pela Diretoria da Unidade Acadêmica e/ou Coordenação de Curso.
 
 Para mais informações, acesse: www.prograd.ufc.br
 
 14. Programa de Educação Tutorial – PET
 
-Cada grupo do PET-UFC estrutura-se em um professor tutor, um professor cotutor, e máximo de doze estudantes bolsistas e seis voluntários. Cabe aos bolsistas zelar pela qualidade acadêmica do programa, participar e apresentar excelente rendimento em todas as atividades programadas pelo professor-tutor, além de publicar ou apresentar um trabalho científico por ano (em grupo ou individualmente) e fazer referência à sua condição de bolsista do PET nos trabalhos publicados e apresentados.
+==Cada grupo do PET-UFC estrutura-se em um professor tutor, um professor cotutor, e máximo de doze estudantes bolsistas e seis voluntários.== Cabe aos bolsistas zelar pela qualidade acadêmica do programa, participar e apresentar excelente rendimento em todas as atividades programadas pelo professor-tutor, além de publicar ou apresentar um trabalho científico por ano (em grupo ou individualmente) e fazer referência à sua condição de bolsista do PET nos trabalhos publicados e apresentados.
 
 PET-SI
 PET-TI conexões de saberes
