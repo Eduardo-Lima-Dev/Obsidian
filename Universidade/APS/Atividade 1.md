@@ -297,3 +297,65 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 
 **RF-10. Listagem de Cronogramas**
 - Exibição das etapas e datas por programa/edital com status atual
+---
+
+## 3. Requisitos Funcionais
+
+### 3.1. Catálogo de Programas
+- **RF001:** O sistema deve listar todos os programas de bolsas e auxílios disponíveis.  
+- **RF002:** O sistema deve permitir busca e filtros por tipo, unidade gestora, campus e status.  
+- **RF003:** O sistema deve exibir detalhes do programa com objetivos, público-alvo, links oficiais e editais ativos.  
+- **RF004:** O sistema deve registrar e apresentar links oficiais de cada programa.  
+- **RF005:** O sistema deve manter taxonomias de tipo, natureza e modalidade para classificação e filtros.  
+
+### 3.2. Editais e Cronogramas
+- **RF006:** O sistema deve permitir criação, edição e encerramento de editais.  
+- **RF007:** O sistema deve permitir salvar rascunhos, publicar e manter histórico de versões.  
+- **RF008:** O sistema deve gerenciar cronogramas de etapas dos editais.  
+
+### 3.3. Inscrições
+- **RF009:** O sistema deve disponibilizar formulário dinâmico configurável por edital.  
+- **RF010:** O sistema deve validar critérios de elegibilidade automaticamente.  
+- **RF011:** O sistema deve permitir salvar inscrições em rascunho e envio final.  
+- **RF012:** O sistema deve gerar protocolo único e enviar notificações ao candidato.  
+
+### 3.4. Análise e Seleção
+- **RF013:** O sistema deve permitir triagem de candidaturas (deferida/indeferida) com justificativa.  
+- **RF014:** O sistema deve suportar avaliação por rubricas e cálculo automático de ranking.  
+- **RF015:** O sistema deve aplicar critérios configuráveis de desempate.  
+- **RF016:** O sistema deve suportar fluxo de recursos administrativos com reapreciação.  
+- **RF017:** O sistema deve publicar resultados preliminares e finais com registros de data e relatório.  
+
+### 3.5. Acompanhamento da Bolsa/Auxílio
+- **RF018:** O sistema deve gerar termo de compromisso para assinatura digital ou upload.  
+- **RF019:** O sistema deve permitir lançamento e acompanhamento de frequência/atividades.  
+- **RF020:** O sistema deve gerenciar fluxos de renovação e prorrogação de bolsas.  
+- **RF021:** O sistema deve registrar desligamento ou suspensão com motivo.  
+
+### 3.6. Integrações e Dados
+- **RF022:** O sistema deve integrar ou importar dados acadêmicos institucionais.  
+- **RF023:** O sistema deve registrar e validar comprovação socioeconômica quando aplicável.  
+- **RF024:** O sistema deve abrir links externos em nova aba e registrar acessos.  
+
+### 3.7. Transparência
+- **RF025:** O sistema deve disponibilizar mural público de editais abertos e encerrados.  
+- **RF026:** O sistema deve publicar relatórios consolidados sobre inscrições e resultados.  
+- **RF027:** O sistema deve registrar trilhas de auditoria de ações críticas.  
+
+### 3.8. Administração
+- **RF028:** O sistema deve implementar RBAC com papéis e permissões por unidade.  
+- **RF029:** O sistema deve permitir cadastro e vínculo de unidades gestoras e campus.  
+- **RF030:** O sistema deve oferecer templates reutilizáveis de editais e formulários.  
+- **RF031:** O sistema deve permitir configurar modelos de notificações automáticas.  
+
+---
+
+## 4. Requisitos Não Funcionais
+
+- **RNF001 – Usabilidade:** O sistema deve ser intuitivo, responsivo e fácil de usar em diferentes dispositivos.  
+- **RNF002 – Performance:** O sistema deve responder buscas e filtros em até 2 segundos para até 50 mil registros.  
+- **RNF003 – Segurança:** O sistema deve implementar autenticação segura (OAuth2/OIDC), criptografia em trânsito e em repouso, além de validação de uploads.  
+- **RNF004 – Compatibilidade:** O sistema deve funcionar nos principais navegadores modernos (Chrome, Firefox, Edge) e integrar-se com sistemas institucionais (SIGAA ou equivalentes).  
+- **RNF005 – Manutenibilidade:** O sistema deve possuir código modular, documentado e com versionamento em repositório Git.  
+- **RNF006 – Escalabilidade:** O sistema deve suportar aumento no número de usuários e dados sem degradação perceptível de desempenho.  
+- **RNF007 – Acessibilidade:** O sistema deve estar em conformidade com WCAG 2.1 nível AA, garantindo acesso a usuários com deficiência.  
