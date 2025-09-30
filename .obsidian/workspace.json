@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+                "file": "Universidade/APS/Atividade 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico"
+              "title": "Atividade 1"
             }
           }
         ],
@@ -112,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+                "file": "Universidade/APS/Atividade 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico"
+              "title": "Sumário de Atividade 1"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+                "file": "Universidade/APS/Atividade 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico"
+              "title": "Links inversos para Atividade 1"
             }
           }
         ]
@@ -234,6 +234,9 @@
   },
   "active": "0a616b8e7bb47c41",
   "lastOpenFiles": [
+    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+    "Universidade/APS/Atividade 1.md",
+    "Universidade/APS",
     "Universidade/TCC 2/Roteiro Entrevistas.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
@@ -261,7 +264,6 @@
     "Soltos/Briefing de Design — Projeto.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
-    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
     "Universidade/TCC 2/Fuxogramas",
     "Universidade/Auditoria/lista01.pdf",
     "Universidade/V&V/Revisao Prova.md",
@@ -270,8 +272,6 @@
     "Universidade/V&V/Trabalhos",
     "Projeto - BulletQuest/Requisitos.md",
     "Videos/✅ BulletQuest.md",
-    "Videos/✅ Meu Racha - Um Sistema para Organizar Seu Futebol.md",
-    "PIXelados",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Imagens/Pasted Image 20250221124322_162.png",
