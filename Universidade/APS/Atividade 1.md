@@ -279,3 +279,12 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 
 **RF-05. Listagem Frequencia**
 
+**RF-06. Notificações Frequencia**
+
+**RF-07. Resultados Auxilios/Bolsas**
+
+**RF-08. Envio de  Documentos**
+
+**RF-09. Crud de Cronogramas**
+
+**RF-09. Crud de Cronogramas**
