@@ -109,10 +109,42 @@ Para mais informações, acesse: www.prograd.ufc.br
 Fonte - https://www.quixada.ufc.br/bolsas-e-auxilios/
 Acesso em 27/09/2025
 
+#  1 - Requisitos Funcionais
+
+**RF-01. Crud Auxilio/Bolsa**
+- Criação/Edição/Exclusão de bolsas e auxílios
+
+**RF-02. Listagem Auxilio/Bolsa**
+- Exibição paginada dos registros de bolsas e auxílios
+
+**RF-03. Busca Auxilio/Bolsa**
+- Pesquisa por nome, tipo, unidade gestora e campus
+
+**RF-04. Crud Frequencia**
+- Criação/Edição/Exclusão de registros de frequência do bolsista
+
+**RF-05. Listagem Frequencia**
+- Exibição paginada de frequências por bolsista, mês e programa
+
+**RF-06. Notificações Frequencia**
+- Envio de alertas sobre pendências, atrasos e reprovação de frequência
+
+**RF-07. Resultados Auxilios/Bolsas**
+- Publicação de listas preliminares e finais (aprovados, suplentes, indeferidos)
+
+**RF-08. Envio de Documentos**
+- Upload de arquivos exigidos por edital com validação de formato e tamanho
+
+**RF-09. Crud de Cronogramas**
+- Criação/Edição/Exclusão de etapas e prazos dos editais
+
+**RF-10. Listagem de Cronogramas**
+- Exibição das etapas e datas por programa/edital com status atual
+
 ---
+# 2 - Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC 
 
-
-# 2 - Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC (IA)
+> **Prompt:** Analise o texto abaixo e gere os requisitos 
 
 ## 1) Escopo Funcional por Módulo
 
@@ -264,10 +296,10 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 - **RNF-05 – Segurança**: OAuth2/OIDC, MFA opcional, criptografia em trânsito (TLS 1.2+), repouso (AES-256), proteção contra upload malicioso (antivírus/clamav e validação MIME).  
 - **RNF-06 – Auditabilidade**: logs imutáveis dos eventos críticos (RF-27).  
 - **RNF-07 – Internacionalização**: PT-BR default; estrutura pronta p/ EN.
--
+
 ---
 
-## 3. Requisitos Funcionais
+# 3. Requisitos Funcionais
 
 ### 3.1. Catálogo de Programas
 - **RF001:** O sistema deve listar todos os programas de bolsas e auxílios disponíveis.  
@@ -329,3 +361,6 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 - **RNF007 – Acessibilidade:** O sistema deve estar em conformidade com WCAG 2.1 nível AA, garantindo acesso a usuários com deficiência.  
 
 ---
+
+# 4 Comparativo
+
