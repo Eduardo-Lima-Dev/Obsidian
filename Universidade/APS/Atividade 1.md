@@ -112,22 +112,196 @@ Acesso em 27/09/2025
 ---
 
 
-# Requisitos Funcionais – Página de Bolsas e Auxílios da UFC
+# Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC
 
-## RF-01 – Listagem de Programas
-- O sistema deve exibir uma lista de todos os programas de bolsas e auxílios disponíveis na UFC.
+## 1) Escopo Funcional por Módulo
 
-## RF-02 – Detalhamento de Programas
-- O sistema deve apresentar descrição completa de cada programa, incluindo objetivos, público-alvo e condições.
+### 2.1 Catálogo de Programas
+**RF-01 – Listagem de Programas**  
+Exibir todos os programas (Ajuda de Custos, Auxílio Moradia, PIBAD, Cultura e Arte, Extensão, Internacionais, Informática, Iniciação Acadêmica, Iniciação Científica, Desporto, PACCE, PID, Monitoria de Projetos, PET).
 
-## RF-03 – Links de Acesso
-- O sistema deve disponibilizar links para páginas externas oficiais de cada programa (ex.: PRAE, PROGRAD, PROINTER, STI, PREX, PRPPG etc.).
+**RF-02 – Busca e Filtros**  
+Permitir busca por texto e filtros por **tipo** (ex.: assistência, monitoria, pesquisa, extensão, internacional), **unidade gestora** (PRAE, PROGRAD, PREX, PRPPG, PROINTER, STI), **campus** (Fortaleza, Sobral, Cariri, Quixadá), **status** (com edital aberto/fechado).
 
-### RF-04 – Programa Ajuda de Custos
-- Exibir apoio a estudantes em eventos acadêmicos, culturais, políticos e esportivos.  
-- Disponibilizar instruções de acesso ao processo de solicitação.
+**RF-03 – Detalhe do Programa**  
+Exibir página do programa com: objetivos, público-alvo, critérios gerais, campus elegíveis, unidade gestora, **links oficiais** e **editais ativos**.
 
-### RF-05 – Programa Auxílio Moradia
-- Informar critérios de elegibilidade (alunos de Sobral, Cariri e Quixadá em vulnerabilidade).  
-- Informar que não impede recebimento de outras bolsas por mérito.  
-- Disponibilizar link para processo de seleção.
+**RF-04 – Links Oficiais**  
+Registrar e exibir URLs oficiais por programa (ex.: PRAE, PROGRAD, PREX, PRPPG, PROINTER, STI).
+
+**RF-05 – Taxonomia e Tipos**  
+Manter taxonomias (tipo de programa; natureza: mérito/assistência; modalidade: bolsa/auxílio/monitoria) para classificação e filtros.
+
+**Critérios de Aceite (RF-01..05)**  
+- Dado que existam ≥ 10 programas, quando o usuário pesquisar “Extensão”, **então** retornar apenas programas PREX/Extensão.  
+- Em “Auxílio Moradia”, **deve** constar campus (Sobral, Cariri, Quixadá) e nota “não impede bolsas por mérito”.
+
+---
+
+### 2.2 Editais e Cronogramas
+**RF-06 – CRUD de Edital**  
+Gestor cria/edita/encerra edital: título, período de inscrição, vagas (se aplicável), requisitos, documentos exigidos, critérios de avaliação, **campus** e **curso(s)** elegíveis.
+
+**RF-07 – Publicação e Versões**  
+Suportar rascunho, publicação e histórico de versões (log de alterações).
+
+**RF-08 – Cronograma**  
+Configurar marcos: inscrições, análise, recursos, resultado preliminar/definitivo, início da bolsa.
+
+**Critérios de Aceite (RF-06..08)**  
+- Ao publicar edital com período válido, **então** o programa passa a exibir “Inscrições Abertas” com contagem regressiva.  
+- Alterações em edital **devem** gerar nova versão e registrar quem alterou.
+
+---
+
+### 2.3 Inscrições (Candidaturas)
+**RF-09 – Formulário Dinâmico por Edital**  
+Gestor define campos obrigatórios/opcionais: dados pessoais/ acadêmicos, renda (quando aplicável), histórico, plano de atividades (quando aplicável), **uploads** (PDF, JPG/PNG) com limite de tamanho e tipo.
+
+**RF-10 – Comprovação de Critérios**  
+Regra de elegibilidade por edital (ex.: campus, curso, período, situação socioeconômica, CR mínimo, não acumulação de bolsas, impedimentos legais). Validações automáticas no envio.
+
+**RF-11 – Rascunho e Envio**  
+Discente pode salvar rascunho e enviar candidatura até o prazo. Após envio, edição só é possível enquanto o edital permitir “retificação”.
+
+**RF-12 – Protocolo e Notificação**  
+Gerar número de protocolo e notificar por e-mail/in-app (confirmação de envio; pendências; deferimento/indeferimento; resultados).
+
+**Critérios de Aceite (RF-09..12)**  
+- Envio sem todos os anexos obrigatórios **deve** bloquear submissão e listar pendências.  
+- Ao enviar, **então** gerar protocolo e e-mail de confirmação.
+
+---
+
+### 2.4 Análise e Seleção
+**RF-13 – Triagem (De/Indeferimento)**  
+Gestor/Comissão visualiza candidaturas, verifica critérios obrigatórios, marca como **Deferida** ou **Indeferida** (com motivo padronizado e texto livre).
+
+**RF-14 – Avaliação com Pontuação**  
+Definir rubricas/ pesos por edital (ex.: vulnerabilidade, mérito acadêmico, aderência ao projeto, produção, experiência). Calcular pontuação e ranking.
+
+**RF-15 – Empate e Critérios de Desempate**  
+Configurar regras (ex.: maior CR, maior vulnerabilidade, veterano/ingressante, idade, sorteio auditável).
+
+**RF-16 – Recursos Administrativos**  
+Abrir janela de recursos; discente envia justificativa/anexos; comissão reavalia e registra decisão.
+
+**RF-17 – Resultado Preliminar e Final**  
+Publicar listas (aprovados, suplentes, indeferidos) com **carimbo de data** e **ata/relatório** de critérios utilizados.
+
+**Critérios de Aceite (RF-13..17)**  
+- Ao finalizar avaliação, o sistema **gera ranking** ordenado e destaca a linha de corte (vagas).  
+- Registro de indeferimento **deve** conter motivo padronizado.
+
+---
+
+### 2.5 Acompanhamento da Bolsa/Auxílio
+**RF-18 – Termo de Compromisso**  
+Gerar termo para assinatura (digital ou upload), com regras específicas: carga horária (ex.: PACCE 12h/semana), proibições (ex.: PID remunerado não pode acumular outra remuneração), metas e entregas.
+
+**RF-19 – Frequência/Atividades**  
+Lançamento de frequência e atividades (monitorias, grupos de estudo, extensão, pesquisa, gestão esportiva). Anexos de comprovação (relatórios, certificados, produção científica – ex.: PET).
+
+**RF-20 – Renovação/Prorrogação**  
+Fluxo para renovar a bolsa conforme desempenho, frequência e adimplência de relatórios.
+
+**RF-21 – Desligamento/Suspensão**  
+Ações com motivo (descumprimento de carga, trancamento, formatura, reprovação em critérios).
+
+**Critérios de Aceite (RF-18..21)**  
+- Ao registrar frequência < limite, **então** o sistema sinaliza risco de desligamento e notifica discente e gestor.  
+- PET: exigir comprovação anual de publicação/apresentação.
+
+---
+
+### 2.6 Integrações e Dados Institucionais
+**RF-22 – Integração Acadêmica (Opcional)**  
+Consultar dados do discente (matrícula, curso, campus, CR, situação) via integração institucional (ex.: SIGAA/ equivalentes) ou importação segura.
+
+**RF-23 – Comprovação Socioeconômica (Quando Aplicável)**  
+Registrar/validar renda per capita, documentos de vulnerabilidade e cruzar com regras do edital (Auxílio Moradia, Iniciação Acadêmica).
+
+**RF-24 – Links Externos**  
+Abrir links oficiais em nova aba com rastreio (cliques) para auditoria de acesso.
+
+**Critérios de Aceite (RF-22..24)**  
+- Se integração estiver indisponível, permitir **autodeclaração** com anexos e marcação de “a validar”.
+
+---
+
+### 2.7 Publicidade e Transparência
+**RF-25 – Mural de Editais**  
+Página pública com editais abertos/encerrados, filtros e exportação (CSV/PDF).
+
+**RF-26 – Resultados e Relatórios**  
+Publicar resultados (preliminar/final) e permitir download de relatórios consolidados (inscrições por campus/curso, índices de deferimento, perfil socioeconômico quando aplicável).
+
+**RF-27 – Trilhas de Auditoria**  
+Registrar ações críticas (publicação de edital, alterações, decisões de avaliação, resultados), com data/hora/usuário.
+
+---
+
+### 2.8 Administração e Segurança
+**RF-28 – RBAC (Papéis e Permissões)**  
+Papéis: Administrador, Gestor do Programa, Avaliador, Discente, Visitante. Permissões granulares por ação e por **escopo de unidade** (PRAE/PROGRAD/PREX/PRPPG/PROINTER/STI).
+
+**RF-29 – Unidades e Campus**  
+Cadastro de unidades gestoras e vínculo de programas/editais a campus específicos.
+
+**RF-30 – Templates de Edital/Formulário**  
+Modelos reutilizáveis por tipo de programa (ex.: Extensão, Monitoria, Pesquisa, Assistência, Internacional).
+
+**RF-31 – Notificações**  
+Configurar templates de e-mail/in-app para: confirmação de inscrição, pendências, decisões, abertura de recursos, publicação de resultados, renovação, frequência pendente.
+
+---
+
+## 3) Requisitos Não Funcionais (essenciais ao desenvolvimento)
+- **RNF-01 – LGPD/Privacidade**: consentimento, finalidade, minimização de dados, perfis de acesso, logs, DPA para processadores.  
+- **RNF-02 – Acessibilidade**: WCAG 2.1 AA (teclado, contraste, ARIA, foco).  
+- **RNF-03 – Disponibilidade**: 99,5% mensal; janelas de manutenção comunicadas.  
+- **RNF-04 – Desempenho**: busca/filtros < 2s (p95) com até 50k candidaturas/ano.  
+- **RNF-05 – Segurança**: OAuth2/OIDC, MFA opcional, criptografia em trânsito (TLS 1.2+), repouso (AES-256), proteção contra upload malicioso (antivírus/clamav e validação MIME).  
+- **RNF-06 – Auditabilidade**: logs imutáveis dos eventos críticos (RF-27).  
+- **RNF-07 – Internacionalização**: PT-BR default; estrutura pronta p/ EN.
+
+---
+
+## 4) Modelos de Dados (mínimo viável)
+
+**Programa**  
+- id, nome, tipo (assistência/monitoria/pesquisa/extensão/internacional/TI/esporte), unidade_gestora, campus[], objetivos (rich text), links_oficiais[].
+
+**Edital**  
+- id, programa_id, título, período_inscrição (início/fim), vagas, requisitos (rich text), documentos_exigidos[], critérios_avaliação (rubricas/pesos), campus[], cursos[], status, cronograma[].
+
+**Candidatura**  
+- id, edital_id, discente_id, dados_acadêmicos (curso, campus, CR), socioeconômicos (quando aplicável), respostas_formulário (JSON), anexos[], status (rascunho/enviado/deferido/indeferido), protocolo, pontuação, posição_ranking, histórico[].
+
+**Frequência/Atividade (quando bolsista)**  
+- id, bolsa_id, mês, horas_registradas, evidências[], validado_por, observado (sim/não).
+
+**Resultado**  
+- edital_id, listas (aprovados, suplentes, indeferidos), publicação (data, versão), ata/relatório.
+
+---
+
+## 5) Fluxos Essenciais (BPMN-lite)
+
+**F1 – Inscrição**  
+Catálogo → Detalhe do Edital → Preencher Formulário (rascunho) → Uploads → Validar Regras → Enviar → Protocolo + Notificação.
+
+**F2 – Avaliação**  
+Triagem (defer/indefer com motivo) → Avaliação por Rubrica → Ranking → Resultado Preliminar → Recursos → Resultado Final → Publicação.
+
+**F3 – Acompanhamento (Bolsista)**  
+Assinar Termo → Lançar Frequência/Atividades → Validação do Gestor → Renovação/Desligamento.
+
+---
+
+## 6) Regras de Negócio Específicas (do documento)
+
+- **Auxílio Moradia**: elegível a Sobral, Cariri e Quixadá; vínculo não impede outras bolsas por mérito.  
+- **PACCE**: 12h/semana; valor atual informado (R$ 400,00) **como campo parametrizável**; grupos de estudo e aprendizagem cooperativa.  
+- **PID**: duas modalidades (remunerada/voluntária); **restrição** – monitor remunerado não pode ter outra atividade remunerada.  
+- **PET**: composição (tutor, cotutor, até 12 bolsistas, 6 voluntários); **obrigação** de publicar/apresentar 1 trabalho/ano e referenciar condição de bolsista.
