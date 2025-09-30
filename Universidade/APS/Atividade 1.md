@@ -264,51 +264,18 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 - **RNF-05 – Segurança**: OAuth2/OIDC, MFA opcional, criptografia em trânsito (TLS 1.2+), repouso (AES-256), proteção contra upload malicioso (antivírus/clamav e validação MIME).  
 - **RNF-06 – Auditabilidade**: logs imutáveis dos eventos críticos (RF-27).  
 - **RNF-07 – Internacionalização**: PT-BR default; estrutura pronta p/ EN.
-
 ---
-
-## 4) Modelos de Dados (mínimo viável)
-
-**Programa**  
-- id, nome, tipo (assistência/monitoria/pesquisa/extensão/internacional/TI/esporte), unidade_gestora, campus[], objetivos (rich text), links_oficiais[].
-
-**Edital**  
-- id, programa_id, título, período_inscrição (início/fim), vagas, requisitos (rich text), documentos_exigidos[], critérios_avaliação (rubricas/pesos), campus[], cursos[], status, cronograma[].
-
-**Candidatura**  
-- id, edital_id, discente_id, dados_acadêmicos (curso, campus, CR), socioeconômicos (quando aplicável), respostas_formulário (JSON), anexos[], status (rascunho/enviado/deferido/indeferido), protocolo, pontuação, posição_ranking, histórico[].
-
-**Frequência/Atividade (quando bolsista)**  
-- id, bolsa_id, mês, horas_registradas, evidências[], validado_por, observado (sim/não).
-
-**Resultado**  
-- edital_id, listas (aprovados, suplentes, indeferidos), publicação (data, versão), ata/relatório.
-
----
-
-## 5) Fluxos Essenciais (BPMN-lite)
-
-**F1 – Inscrição**  
-Catálogo → Detalhe do Edital → Preencher Formulário (rascunho) → Uploads → Validar Regras → Enviar → Protocolo + Notificação.
-
-**F2 – Avaliação**  
-Triagem (defer/indefer com motivo) → Avaliação por Rubrica → Ranking → Resultado Preliminar → Recursos → Resultado Final → Publicação.
-
-**F3 – Acompanhamento (Bolsista)**  
-Assinar Termo → Lançar Frequência/Atividades → Validação do Gestor → Renovação/Desligamento.
-
----
-
-## 6) Regras de Negócio Específicas (do documento)
-
-- **Auxílio Moradia**: elegível a Sobral, Cariri e Quixadá; vínculo não impede outras bolsas por mérito.  
-- **PACCE**: 12h/semana; valor atual informado (R$ 400,00) **como campo parametrizável**; grupos de estudo e aprendizagem cooperativa.  
-- **PID**: duas modalidades (remunerada/voluntária); **restrição** – monitor remunerado não pode ter outra atividade remunerada.  
-- **PET**: composição (tutor, cotutor, até 12 bolsistas, 6 voluntários); **obrigação** de publicar/apresentar 1 trabalho/ano e referenciar condição de bolsista.
-
 
 # Requisitos Funcionais (Eu)
 
 **RF-01. Crud Auxilio/Bolsa**
 - Criação/Edição/Exclusão de Bolsas e auxílios
+
+**RF-02. Listagem Auxilio/Bolsa**
+
+**RF-03. Busca Auxilio/Bolsa**
+
+**RF-04. Crud Frequencia**
+
+**RF-05. Listagem Frequencia**
 
