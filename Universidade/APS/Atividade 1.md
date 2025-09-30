@@ -359,3 +359,5 @@ Configurar templates de e-mail/in-app para: confirmação de inscrição, pendê
 - **RNF005 – Manutenibilidade:** O sistema deve possuir código modular, documentado e com versionamento em repositório Git.  
 - **RNF006 – Escalabilidade:** O sistema deve suportar aumento no número de usuários e dados sem degradação perceptível de desempenho.  
 - **RNF007 – Acessibilidade:** O sistema deve estar em conformidade com WCAG 2.1 nível AA, garantindo acesso a usuários com deficiência.  
+
+---
