@@ -112,7 +112,7 @@ Acesso em 27/09/2025
 ---
 
 
-# Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC
+# Requisitos Funcionais (SRS) – Sistema de Bolsas e Auxílios da UFC (IA)
 
 ## 1) Escopo Funcional por Módulo
 
@@ -305,3 +305,8 @@ Assinar Termo → Lançar Frequência/Atividades → Validação do Gestor → R
 - **PACCE**: 12h/semana; valor atual informado (R$ 400,00) **como campo parametrizável**; grupos de estudo e aprendizagem cooperativa.  
 - **PID**: duas modalidades (remunerada/voluntária); **restrição** – monitor remunerado não pode ter outra atividade remunerada.  
 - **PET**: composição (tutor, cotutor, até 12 bolsistas, 6 voluntários); **obrigação** de publicar/apresentar 1 trabalho/ano e referenciar condição de bolsista.
+
+
+# Requisitos Funcionais (Eu)
+
+**RF-01. 
