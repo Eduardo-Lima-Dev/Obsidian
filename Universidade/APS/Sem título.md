@@ -1,8 +1,8 @@
 - Crud de usuarios
 - Controlar acesso
-- Vender Tickets
-- Planejar cardapio
-- Gestao de tickets
+- Recarga do cartao
+- Crud de cardapio
+- Gestao de cartoes
 - Cobranças e inadinprencias
 - Pagamento
 - Coletar feedbacks
