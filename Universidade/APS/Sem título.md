@@ -3,4 +3,7 @@
 - Vender Tickets
 - Planejar cardapio
 - Aprovar cardapio
-- 
+- Gestao de tickets
+- Cobranças e inadinprencias
+- Pagamento
+- Coletar feedbacks
