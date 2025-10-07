@@ -2,7 +2,7 @@
 - Controlar acesso
 - Recarga do cartao
 - Crud de cardapio
-- Gestao de cartoes
+- Segunda via de cartao
 - Cobranças e inadinprencias
 - Pagamento
 - Coletar feedbacks
