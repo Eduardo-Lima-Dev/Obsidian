@@ -1,8 +1,0 @@
-- Crud de usuarios
-- Controlar acesso
-- Recarga do cartao
-- Crud de cardapio
-- Segunda via de cartao
-- Cobranças e inadinprencias
-- Pagamento
-- Coletar feedbacks
