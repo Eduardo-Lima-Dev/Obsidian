@@ -1,8 +1,7 @@
 - Crud de usuarios
-- Controlar acesso (login)
+- Controlar acesso
 - Vender Tickets
 - Planejar cardapio
-- Aprovar cardapio
 - Gestao de tickets
 - Cobranças e inadinprencias
 - Pagamento
