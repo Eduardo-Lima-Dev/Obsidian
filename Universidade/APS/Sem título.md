@@ -1,0 +1,6 @@
+- Crud de usuarios
+- Controlar acesso (login)
+- Vender Tickets
+- Planejar cardapio
+- Aprovar cardapio
+- 
