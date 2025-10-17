@@ -1,7 +1,5 @@
 ## Estrutura de Pastas
-
 ```
-
 lib/features/dashboard/
 
 ├── controllers/
@@ -47,11 +45,9 @@ lib/features/dashboard/
 ```
 
 ## Etapa 1: Criar Models (lib/features/dashboard/models/)
-
 ### cliente.dart
 
 ```dart
-
 class Cliente {
 
 final String id;
@@ -64,7 +60,6 @@ final String email;
 
 final String telefone;
 
-  
 
 Cliente({
 
@@ -294,26 +289,12 @@ Mover widgets privados para arquivos separados:
 - `_StatCard` → `stat_card.dart`
 - `_ReservationTile` → `reservation_tile.dart`
 - `_StockAlertTile` → `stock_alert_tile.dart`
-
 - `_ClienteCard` → `cliente_card.dart`
-
 - `_ClienteModal` → `cliente_modal.dart`
-
 - `_SidebarItem` → `sidebar_item.dart`
-
-  
-
 Remover underscore e tornar públicos.
-
-  
-
 ## Etapa 4: Criar Sections (lib/features/dashboard/sections/)
-
-  
-
 ### home_section.dart
-
-  
 
 ```dart
 
@@ -350,12 +331,7 @@ children: [
 }
 
 ```
-
-  
-
 ### clientes_section.dart
-
-  
 
 ```dart
 
@@ -392,17 +368,8 @@ children: [
 }
 
 ```
-
-  
-
 ## Etapa 5: Refatorar DashboardScreen
-
-  
-
 Manter como StatefulWidget, mas delegar responsabilidades aos controllers:
-
-  
-
 ```dart
 
 class _DashboardScreenState extends State<DashboardScreen> {
@@ -524,37 +491,17 @@ super.dispose();
 }
 
 ```
-
-  
-
 ## Etapa 6: Atualizar Imports
-
-  
-
 Atualizar `lib/main.dart` para importar de:
-
-  
-
 ```dart
 
 import 'features/dashboard/dashboard_screen.dart';
 
 ```
-
-  
-
 ## Benefícios da Refatoração
-
-  
-
 1. **Separação de Responsabilidades**: Controllers focados, sections independentes
-
 2. **Manutenibilidade**: Arquivos menores e mais focados (~200-400 linhas cada)
-
 3. **Testabilidade**: Controllers podem ser testados isoladamente
-
 4. **Reusabilidade**: Widgets podem ser reutilizados
-
 5. **Escalabilidade**: Fácil adicionar novas sections/features
-
 6. **Tipagem Forte**: Modelos tipados eliminam erros de runtime
