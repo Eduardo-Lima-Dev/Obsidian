@@ -55,12 +55,14 @@
             "id": "076e5dd0d123e5aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md"
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-20 18.41.25.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sem título 1"
             }
           }
         ],
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
+                "file": "Sem título 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-10-20 18.41.25.excalidraw"
+              "title": "Sumário de Sem título 1"
             }
           },
           {
@@ -221,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
+                "file": "Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Drawing 2025-10-20 18.41.25.excalidraw"
+              "title": "Links inversos para Sem título 1"
             }
           }
         ]
@@ -260,8 +262,9 @@
   },
   "active": "076e5dd0d123e5aa",
   "lastOpenFiles": [
-    "Soltos/Projeto Paulin.md",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
+    "Sem título 1.md",
+    "Soltos/Projeto Paulin.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
     "Universidade/APS/Atividade 2.md",
@@ -291,7 +294,6 @@
     "Atividade 3.md",
     "o.md",
     "Universidade/Auditoria/Apresentação 2.md",
-    "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
