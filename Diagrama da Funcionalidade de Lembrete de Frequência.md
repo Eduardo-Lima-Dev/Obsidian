@@ -1,11 +1,4 @@
-# Diagrama da Funcionalidade de Lembrete de Frequência
-
-  
-
 ## Fluxo da Funcionalidade
-
-  
-
 ```mermaid
 
 graph TD
@@ -65,9 +58,6 @@ T --> W[Resposta JSON com Lista de Professores]
 U --> X[Resposta JSON com Confirmação]
 
 ```
-
-  
-
 ## Arquitetura dos Componentes
 
   
@@ -146,12 +136,7 @@ D --> K
 
 ```
 
-  
-
 ## Fluxo de Configuração por Ambiente
-
-  
-
 ```mermaid
 
 graph TD
@@ -179,13 +164,7 @@ I --> K[Adiciona prefixo [DEV] no assunto]
 J --> L[Assunto normal sem prefixo]
 
 ```
-
-  
-
 ## Template do Email
-
-  
-
 ```mermaid
 
 graph TD
@@ -211,8 +190,6 @@ H --> I[Instruções passo-a-passo para registrar frequências]
 I --> J[Informações de contato e assinatura]
 
 ```
-
-  
 
 ## Estrutura de Dados
 
@@ -268,47 +245,28 @@ PROFESSOR ||--|| TIPO_USUARIO : "tem"
 
 ```
 
-  
-
 ## Endpoints Disponíveis
 
-  
-
 | Método | Endpoint | Descrição | Autenticação |
-
 |--------|----------|-----------|--------------|
-
 | POST | `/api/frequencia-reminder/enviar` | Envia lembretes para todos os coordenadores | Não |
-
 | GET | `/api/frequencia-reminder/debug-coordenadores` | Lista todos os professores e coordenadores | Não |
-
 | GET | `/api/frequencia-reminder/test-email` | Testa envio de email simples | Não |
 
-  
-
 ## Configurações por Ambiente
-
-  
 
 ### Desenvolvimento (application-dev.properties)
 
 - `app.email.dev-redirect=autenticacaoc@gmail.com`
-
 - `server.port=8090`
-
 - `app.frontend.url=http://localhost:4200`
 
   
-
 ### Produção (application-prod.properties)
 
 - `app.email.dev-redirect=` (vazio)
-
 - `server.port=8090`
-
 - `app.frontend.url=https://sispropag.ufc.br`
-
-  
 
 ## Logs e Monitoramento
 
