@@ -4,7 +4,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 [[#Additional Instructions]] available below file list
 
 - Not a file: .obsidian/workspace.json
-- Not a file: Sem título 1.md
+- [[Sem título]]
 
 # Additional Instructions
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.

@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "87e70c6d5012191d",
+            "id": "533bbd2de4bda705",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,14 +160,34 @@
               "icon": "lucide-archive",
               "title": "Todas as propriedades"
             }
+          },
+          {
+            "id": "1f6073d360295e53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "57c32a2d7806dfdb",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "fc5e30b4ece8ec94",
         "type": "tabs",
-        "dimension": 22.18683651804671,
+        "dimension": 34.83333333333333,
         "children": [
           {
             "id": "5b3c6f8044a5ead5",
@@ -226,16 +246,42 @@
       "publish:Publicar mudanças": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "205d04c8e2a58c6b",
   "lastOpenFiles": [
+    "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
+    "Diagrama da Funcionalidade de Lembrete de Frequência.md",
+    "Soltos/Projeto Paulin.md",
+    "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
+    "Refatoração Dashboard - Arquitetura por Feature.md",
+    "Universidade/APS/Atividade 2.md",
+    "Universidade/APS/Atividade 2.pdf",
+    "Pasted image 20251007092108.png",
+    "Sumario.md",
+    "Universidade/APS/Atividade 1.md",
+    "Modelos/Modelo de Requisitos.md",
+    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
+    "Universidade/APS",
+    "Universidade/TCC 2/Roteiro Entrevistas.md",
+    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
+    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
+    "Universidade/TCC 2/Roteiro de Perguntas para os Alunos.md",
+    "Universidade/TCC 2/Formulario.md",
+    "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
+    "Universidade/TCC 2/Documentacao/API Institucional_01.pdf",
+    "Modelos/Modelo de Perguntas de Briefing.md",
+    "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
+    "Freela-HomeLife/Briefing.md",
+    "Modelos/Modelo Briefing.md",
+    "Sem título.md",
+    "Drawing 2025-09-11 15.10.10.excalidraw.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Sem título.md",
     "Freela-HomeLife/Drawing 2025-07-09 20.20.56.excalidraw.md",
-    "Freela-HomeLife/Briefing.md",
     "Universidade/Diagramas.md",
     "Atividade 3.md",
     "Sem título 1.md",
@@ -251,18 +297,23 @@
     "Soltos/Briefing de Design — Projeto.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-RD.pdf",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
-    "Universidade/TCC 2/Sugestões de Nomes para o Sistema de Acompanhamento Acadêmico.md",
     "Universidade/TCC 2/Fuxogramas",
     "Universidade/Auditoria/lista01.pdf",
-    "Universidade/V&V/Revisao Prova.md",
     "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
     "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
     "Universidade/V&V/Trabalhos",
+    "Projeto - BulletQuest/Requisitos.md",
     "Videos/✅ BulletQuest.md",
     "Videos/✅ Meu Racha - Um Sistema para Organizar Seu Futebol.md",
     "Videos/✅  Nova Feature - Divisão Automática de Times.md",
     "Projeto - BulletQuest/Pontuacao e Ranking.md",
+    "Projeto - BulletQuest/Ranking.excalidraw.md",
+    "Universidade/TCC 2/Drawing 2025-05-08 17.06.36.excalidraw.md",
+    "Modelos/Modelo de Requisitos.md",
+    "PIXelados/Documento de Requistos.md",
+    "Projeto - BulletQuest/Requisitos do Aplicativo de Organização Gamificado.md",
     "PIXelados",
+    "Soltos/Posts Linkedin",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Imagens/Pasted Image 20250221124322_162.png",
@@ -270,7 +321,6 @@
     "Imagens/Pasted Image 20250223184338_306.png",
     "Imagens/Pasted Image 20250223184307_305.png",
     "Imagens/Pasted Image 20250223184222_304.png",
-    "Soltos/Fluxo de Desenvimento.png",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",

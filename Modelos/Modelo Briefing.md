@@ -1,0 +1,85 @@
+# 📄 Briefing do Projeto — <NOME DO PROJETO>
+
+> **Status:** Rascunho | Em validação | Aprovado  
+> **Última atualização:** DD/MM/AAAA  
+> **Responsável interno:** <nome> • **Cliente/Contato:** <nome — e-mail — telefone>
+
+---
+
+## 1) Contexto & Objetivo
+**Contexto (problema/oportunidade):** <1–3 frases>  
+**Objetivo principal :** <frase única, mensurável>  
+**Descrição do projeto:** <O que é o projeto/O que a empresa faz>  
+
+---
+
+## 2) Stakeholders
+**Cliente/Empresa:** <nome>  
+**Partes interessadas:** <lista com papel/cargo>  
+**Decisor final:** <nome/cargo>  
+**Usuários/Personas:** <breve descrição>
+
+---
+
+## 3) Escopo
+**Entregáveis (alto nível):**
+- [ ] <deliverable 1>
+- [ ] <deliverable 2>
+
+**Fora do escopo (Won’t):**
+- <itens fora do MVP>
+
+---
+
+## 4) Requisitos
+### 4.1 Funcionais
+- **Must:** <itens obrigatórios>
+- **Should:** <itens importantes>
+- **Could:** <desejáveis>
+- **Won’t (MVP):** <postergados>
+
+### 4.2 Não Funcionais
+- **Segurança/Compliance (LGPD, etc.):** <ex.: consentimento, RBAC>
+- **Performance/Disponibilidade:** <ex.: p95 < 300 ms, uptime X%>
+- **Acessibilidade/Compatibilidade:** <ex.: WCAG AA, navegadores>
+- **Observabilidade:** <logs, métricas, alertas>
+
+### 4.3 Integrações
+- <Sistema/Fornecedor> — <tipo de integração> — <link/SDK/API>
+
+### 4.4 Diretrizes de Marca (se houver)
+- Paleta/Tipografia/Referências: <links/observações>
+
+---
+
+## 5) Cronograma & Marcos
+**Início previsto:** DD/MM/AAAA • **Go-live alvo:** DD/MM/AAAA  
+**Marcos:**
+- M1 — Descoberta/Briefing validado: DD/MM
+- M2 — Protótipo navegável: DD/MM
+- M3 — MVP funcional: DD/MM
+- M4 — Homologação: DD/MM
+
+**Ritmo de cerimônias:** <ex.: semanal/quinzenal/mensal>
+
+---
+
+## 6) Orçamento & Infra
+**Infra/Hospedagem:** <ex.: Vercel/AWS/GCP + ambientes Dev/Homolog/Prod>  
+**Estimativas de custo:** <infra, licenças, integrações, mensagens>  
+**Licenças/Power-ups:** <se aplicável>
+
+---
+
+## 7) Comunicação & Aprovação
+**Canais:** <WhatsApp/Email/Slack> • **Frequência:** <ex.: 1×/semana>  
+**Controle de versão de decisões:** <doc/ata/local>  
+**Critério de aprovação:** <quem aprova e como (demo/ata/assinatura)>
+
+---
+
+## 8) Anexos & Referências
+- Protótipos/Design: <link>  
+- Documentos legais/Termos: <link>  
+- Benchmarks/Referências: <links>  
+- Repositórios/Backlog: <links>
