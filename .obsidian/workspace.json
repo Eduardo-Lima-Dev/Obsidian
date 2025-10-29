@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Refatoração Dashboard - Arquitetura por Feature"
             }
+          },
+          {
+            "id": "489c1882f92c17ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-29 16.56.51.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refatoração Dashboard - Arquitetura por Feature.md",
+                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Refatoração Dashboard - Arquitetura por Feature"
+              "title": "Sumário de Drawing 2025-10-29 16.56.51.excalidraw"
             }
           },
           {
@@ -230,8 +242,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9061071dcbed0d7e",
+  "active": "489c1882f92c17ea",
   "lastOpenFiles": [
+    "Refatoração Dashboard - Arquitetura por Feature.md",
+    "Drawing 2025-10-29 16.56.51.excalidraw.md",
+    "Sem título.md",
+    "Sem título",
     "Sumario.md",
     "conflict-files-obsidian-git.md",
     "Universidade/APS/Atividade 2.pdf",
@@ -239,8 +255,6 @@
     "Universidade/APS/Atividade 1.md",
     "Soltos/Projeto Paulin.md",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
-    "Sem título.md",
-    "Refatoração Dashboard - Arquitetura por Feature.md",
     "Pasted image 20251007092108.png",
     "Modelos/Modelo de Perguntas de Briefing.md",
     "Modelos/Modelo Briefing.md",
@@ -269,7 +283,6 @@
     "Universidade/Auditoria/lista01.pdf",
     "Universidade/V&V/PDFs/lista_exerciciosv2.pdf",
     "Universidade/V&V/PDFs/00_apresentação_disciplinae01juntas.pdf",
-    "Universidade/V&V/Trabalhos",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
     "Imagens/Pasted Image 20250221124322_162.png",
