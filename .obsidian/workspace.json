@@ -22,8 +22,21 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
+          },
+          {
+            "id": "ed348459022e34c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-29 16.56.51.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrama da Funcionalidade de Lembrete de Frequência.md",
+                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Diagrama da Funcionalidade de Lembrete de Frequência"
+              "title": "Sumário de Drawing 2025-10-29 16.56.51.excalidraw"
             }
           },
           {
@@ -217,6 +230,7 @@
   },
   "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
+    "Diagrama da Funcionalidade de Lembrete de Frequência.md",
     "Soltos/Footer.excalidraw.md",
     "Soltos/Fluxo de Desenvimento.png",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
@@ -227,7 +241,6 @@
     "Soltos/Curriculo.md",
     "Soltos/Briefing de Design — Projeto.md",
     "Soltos/Atividade.md",
-    "Diagrama da Funcionalidade de Lembrete de Frequência.md",
     "Drawing 2025-10-28 08.39.43.excalidraw.md",
     "Drawing 2025-10-29 16.56.51.excalidraw.md",
     "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
