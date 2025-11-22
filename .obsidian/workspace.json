@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Sumario"
             }
-          },
-          {
-            "id": "f471911f8cdf451c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Soltos/Footer.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Footer.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,13 +97,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Footer.excalidraw.md",
+                "file": "Diagrama da Funcionalidade de Lembrete de Frequência.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Footer.excalidraw"
+              "title": "Sumário de Diagrama da Funcionalidade de Lembrete de Frequência"
             }
           },
           {
@@ -228,8 +215,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f471911f8cdf451c",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
+    "Soltos/Footer.excalidraw.md",
     "Soltos/Fluxo de Desenvimento.png",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
     "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
@@ -275,7 +263,6 @@
     "Imagens/Pasted Image 20250223184411_307.png",
     "Imagens/Pasted Image 20250223184338_306.png",
     "Imagens/Pasted Image 20250223184307_305.png",
-    "Imagens/Pasted Image 20250223184222_304.png",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
