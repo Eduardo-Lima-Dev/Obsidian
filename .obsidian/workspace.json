@@ -27,12 +27,14 @@
             "id": "ed348459022e34c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md"
+                "file": "Diagrama da Funcionalidade de Lembrete de Frequência.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-29 16.56.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "Diagrama da Funcionalidade de Lembrete de Frequência"
             }
           }
         ],
@@ -110,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-10-29 16.56.51.excalidraw.md",
+                "file": "Diagrama da Funcionalidade de Lembrete de Frequência.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-10-29 16.56.51.excalidraw"
+              "title": "Sumário de Diagrama da Funcionalidade de Lembrete de Frequência"
             }
           },
           {
@@ -228,9 +230,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ad11e4c6f173e2",
+  "active": "ed348459022e34c3",
   "lastOpenFiles": [
+    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
+    "Imagens/Pasted image 20251007092108.png",
+    "Principais Comandos do AstroVim.md",
+    "Refatoração Dashboard - Arquitetura por Feature.md",
+    "Excalidraw/Drawing 2025-10-29 16.56.51.excalidraw.md",
     "Diagrama da Funcionalidade de Lembrete de Frequência.md",
+    "Excalidraw/Drawing 2025-10-28 08.39.43.excalidraw.md",
     "Soltos/Footer.excalidraw.md",
     "Soltos/Fluxo de Desenvimento.png",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
@@ -241,12 +249,6 @@
     "Soltos/Curriculo.md",
     "Soltos/Briefing de Design — Projeto.md",
     "Soltos/Atividade.md",
-    "Drawing 2025-10-28 08.39.43.excalidraw.md",
-    "Drawing 2025-10-29 16.56.51.excalidraw.md",
-    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
-    "Pasted image 20251007092108.png",
-    "Principais Comandos do AstroVim.md",
-    "Refatoração Dashboard - Arquitetura por Feature.md",
     "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Sem título.md",
     "conflict-files-obsidian-git.md",
@@ -259,7 +261,6 @@
     "Modelos/Modelo de Perguntas de Briefing.md",
     "Modelos/Modelo Briefing.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
-    "Videos/DarkHarmony.md",
     "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-ES-2023.pdf",
