@@ -124,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2"
+              "title": "Sumário"
             }
           },
           {
@@ -207,7 +206,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2"
+              "title": "Backlinks"
             }
           }
         ]
