@@ -43,10 +43,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2.md"
+                "file": "Excalidraw/Fluxo.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2"
+              "title": "Fluxo"
             }
           }
         ],
@@ -124,12 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Fluxo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Fluxo"
             }
           },
           {
@@ -206,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Fluxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Fluxo"
             }
           }
         ]
@@ -242,15 +244,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3ec0098b0ab61b6a",
+  "active": "f2ad11e4c6f173e2",
   "lastOpenFiles": [
-    "2.md",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Fluxo.md",
+    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
+    "Imagens/Pasted image 20251007092108.png",
+    "Excalidraw/Drawing 2025-10-29 16.56.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-28 08.39.43.excalidraw.md",
     "Universidade/APS/Atividade 2.md",
     "Soltos/Projeto Paulin.md",
     "Sem título.md",
     "Drawing 2025-10-28 08.39.43.excalidraw.md",
     "Diagrama da Funcionalidade de Lembrete de Frequência.md",
-    "conflict-files-obsidian-git.md",
     "Videos/DarkHarmony.md",
     "Universidade/TCC 2/2022_tcc_fjdesousa.pdf",
     "Universidade/TCC 2/2021_tcc_felpinheiro.pdf",
@@ -279,9 +285,6 @@
     "Modelos/Modelo de Perguntas de Briefing.md",
     "Freela-HomeLife/Roteiro de Perguntas para Reunião.md",
     "Freela-HomeLife/Briefing.md",
-    "Modelos/Modelo Briefing.md",
-    "Drawing 2025-09-11 15.10.10.excalidraw.md",
-    "Freela-HomeLife/Documento de Requisitos - Home Life.md",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
     "WhatsApp Image 2025-04-09 at 20.44.29.jpeg",
@@ -289,7 +292,6 @@
     "Imagens/Pasted Image 20250223184411_307.png",
     "Imagens/Pasted Image 20250223184338_306.png",
     "Imagens/Pasted Image 20250223184307_305.png",
-    "Imagens/Pasted Image 20250223184222_304.png",
     "Sem título.canvas",
     "RediUX/Sem título.canvas",
     "RediUX/Tasks.canvas",
