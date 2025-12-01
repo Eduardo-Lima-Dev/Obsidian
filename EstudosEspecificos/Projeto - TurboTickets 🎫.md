@@ -27,7 +27,9 @@ Ainda na pasta `apps`, vamos criar o frontend.
 
 1. Crie o projeto React com Vite: `npm create vite@latest web -- --template react-ts`.
 2. Instale as dependências visuais:
-	```npm install styled-components @zendeskgarden/react-components @zendeskgarden/react-theming react-icons react-router-dom```
+```Bash
+	npm install styled-components @zendeskgarden/react-components@zendeskgarden/react-theming react-icons react-router-dom
+```
 3. **A Missão do Frontend:**
     - Configure o `ThemeProvider` do Zendesk Garden no `App.tsx`.
     - Crie uma rota `/` que lista os tickets.
@@ -45,3 +47,12 @@ export interface Ticket {
 	status: 'open' | 'closed'; 
 }
 ```
+3. No `package.json` da `api` e da `web`, adicione essa dependência local.
+4. **Resultado:** Se você mudar o tipo no pacote `types`, o Backend (que envia) e o Frontend (que recebe) vão acusar erro se não estiverem alinhados. Isso é o poder do monorepo.
+
+#### Passo 5: Rodando tudo junto
+
+Na raiz do projeto `turbo-tickets`:
+
+1. Rode `npx turbo dev`.
+2. O Turborepo vai iniciar o NestJS (porta 3000, por exemplo) e o Vite (porta 5173) ao mesmo tempo, em um único terminal.
