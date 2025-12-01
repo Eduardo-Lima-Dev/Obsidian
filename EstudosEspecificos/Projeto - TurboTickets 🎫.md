@@ -27,4 +27,21 @@ Ainda na pasta `apps`, vamos criar o frontend.
 
 1. Crie o projeto React com Vite: `npm create vite@latest web -- --template react-ts`.
 2. Instale as dependências visuais:
-	
+	```npm install styled-components @zendeskgarden/react-components @zendeskgarden/react-theming react-icons react-router-dom```
+3. **A Missão do Frontend:**
+    - Configure o `ThemeProvider` do Zendesk Garden no `App.tsx`.
+    - Crie uma rota `/` que lista os tickets.
+    - Use o componente `Table` do Zendesk Garden para mostrar os dados vindos da API.
+
+#### Passo 4: O "Pulo do Gato" (Compartilhamento de Tipos)
+
+Aqui é onde o Turborepo brilha e você domina o TypeScript.
+1. Na pasta `packages`, crie uma pasta `types`.
+2. Crie um `index.ts` exportando uma interface, por exemplo:
+```TypeScript
+export interface Ticket { 
+	id: string; 
+	subject: string; 
+	status: 'open' | 'closed'; 
+}
+```
