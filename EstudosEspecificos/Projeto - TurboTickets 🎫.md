@@ -1,5 +1,14 @@
 **O Desafio:** Criar um monorepo onde o Backend serve dados de tickets e processa um fluxo de dados (streams), e o Frontend consome isso usando a interface visual da Zendesk.
 
+```Plaintext
+turbo-tickets/
+├── apps/
+│   ├── api (NestJS - Backend)
+│   └── web (React + Vite + Zendesk Garden - Frontend)
+├── packages/
+│   ├── ts-config (Configurações compartilhadas)
+│   └── types (Interfaces compartilhadas entre Front e Back - O Pulo do Gato 🐱)
+```
 ### Roadmap de Execução (Passo a Passo)
 
 #### Passo 1: O Chão de Fábrica (Setup do Turborepo)
