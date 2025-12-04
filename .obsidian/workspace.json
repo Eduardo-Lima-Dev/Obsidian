@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EstudosEspecificos/Documento de Requisitos Funcionais.md",
+                "file": "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Documento de Requisitos Funcionais"
+              "title": "Sumário de Projeto - TurboTickets 🎫"
             }
           },
           {
@@ -244,10 +244,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7db6bd17e7d0b89d",
+  "active": "79c3b114d4ef5c18",
   "lastOpenFiles": [
-    "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
+    "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
     "Sumario.md",
     "EstudosEspecificos",
     "conflict-files-obsidian-git.md",
