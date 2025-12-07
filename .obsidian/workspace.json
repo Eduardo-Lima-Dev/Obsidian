@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos/A Magia dos Apps Offline.md",
+                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/A Magia dos Apps Offline.md",
+                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de A Magia dos Apps Offline"
+              "title": "Sumário de Drawing 2025-12-06 23.40.19.excalidraw"
             }
           },
           {
@@ -256,10 +256,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "79c3b114d4ef5c18",
+  "active": "7fbc33bc3f41896b",
   "lastOpenFiles": [
+    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
-    "Videos/A Magia dos Apps Offline.md",
     "Videos/Apps Ofiline",
     "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
