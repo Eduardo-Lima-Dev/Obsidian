@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "A Magia dos Apps Offline"
             }
+          },
+          {
+            "id": "c32f9e1583ef285f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-06 23.40.19.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
+                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de A Magia dos Apps Offline"
+              "title": "Sumário de Drawing 2025-12-06 23.40.19.excalidraw"
             }
           },
           {
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
+                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para A Magia dos Apps Offline"
+              "title": "Links inversos para Drawing 2025-12-06 23.40.19.excalidraw"
             }
           }
         ]
@@ -240,18 +252,19 @@
       "export-graph-view:Export graph view": false
     }
   },
-  "active": "79c3b114d4ef5c18",
+  "active": "c32f9e1583ef285f",
   "lastOpenFiles": [
+    "Pasted Image 20251207000058_002.png",
+    "Imagens/Screenshot 2025-12-06 at 23-48-30 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
+    "Sem título.md",
+    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "Videos/Apps Ofiline/Sem título 1.md",
     "Videos/Apps Ofiline/Sem título.md",
-    "Sem título.md",
     "Videos/Apps Ofiline/Sem título.base",
-    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
-    "Screenshot 2025-12-06 at 23-48-30 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
-    "Screenshot 2025-12-06 at 23-46-36 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
-    "Screenshot 2025-12-06 at 23-43-38 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
+    "Imagens/Screenshot 2025-12-06 at 23-46-36 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
+    "Imagens/Screenshot 2025-12-06 at 23-43-38 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
     "Videos/Apps Ofiline",
     "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
     "Sumario.md",
@@ -282,7 +295,6 @@
     "Soltos/Curriculo.md",
     "Soltos/Briefing de Design — Projeto.md",
     "Soltos/Atividade.md",
-    "Excalidraw/Drawing 2024-09-16 16.27.29.excalidraw.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
