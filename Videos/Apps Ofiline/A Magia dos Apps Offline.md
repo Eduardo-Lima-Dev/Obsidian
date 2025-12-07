@@ -8,6 +8,8 @@ plataforma:
 ---
  Sabe aquela mágica da tecnologia que a gente usa todo santo dia e nem para para pensar? Pois é, hoje a gente vai desvendar uma delas. Como é que os nossos aplicativos preferidos conseguem funcionar, tipo, numa boa, mesmo quando a gente está sem internet. E aí, já aconteceu de estar, sei lá, no metrô, no meio do nada, com aquele sinal péssimo e mesmo assim conseguir curtir uma foto ou mandar uma mensagem?
 
+![[Screenshot 2025-12-06 at 23-43-38 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png]]
+
  Fica a pergunta, né? Como é que isso funciona se não tem conexão? Parasfetizaria, mas olha, é pura tecnologia. Pensa só no Instagram, por exemplo. Dois toques rapidinhos na tela e pronto, o coraçãozinho de like aparece. Ou então no WhatsApp.
 
  A gente digita a mensagem, aperta para enviar e ela fica lá, sabe? Com o famoso reloginho do lado, só esperando a hora certa de ir. O mais legal é que a ação acontece ali, na nossa frente, na tela do celular. E nem importa se tem internet ou não. Beleza, então vamos mergulhar de cabeça nisso. O nome técnico para essa mágica toda é Arquitetura Offline First. E olha, isso é um dos desafios mais interessantes e super comuns
@@ -15,7 +17,7 @@ plataforma:
  para quem desenvolve aplicativos instalados, sabe? Tipo apps de celular ou até os tais dos PWIs. Mas, ó, para entender como essa mágica funciona, primeiro a gente precisa dar uma olhada em como as coisas eram antes, no jeito mais tradicional. Aquele caminho que depende tipo 100% da internet. Isso vai deixar o contraste bem claro.
 
  No modelo antigo, a coisa era bem direta, sabe? Clicou para curtir, o celular na mesma hora tentava mandar essa informação lá para o servidor do aplicativo. Tinha internet? Ufa, beleza, ação confirmada. Mas e se não tivesse? A ação simplesmente falhava, dava aquela mensagem de erro e pronto, nada acontecia. Super frustrante, né?
-
+![[Screenshot 2025-12-06 at 23-43-38 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png]]
  E é exatamente aqui que a mágica acontece. O pulo do gato. A solução para essa frustração toda é uma baita mudança de estratégia. Em vez de o app tentar ir direto para a internet, a primeira parada da informação é dentro do nosso próprio celular. Vamos ver como isso funciona na prática.
 
  Então, a sacada é basicamente essa. Quando a gente faz alguma coisa, tipo, sei lá, manda uma mensagem, o aplicativo primeiro salva essa ação num cantinho ali na memória do próprio aparelho. Ele não tenta mandar de cara para o servidor principal lá na internet, não.
