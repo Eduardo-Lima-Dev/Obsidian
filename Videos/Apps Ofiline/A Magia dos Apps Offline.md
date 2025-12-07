@@ -25,13 +25,19 @@ plataforma:
 
  Então, o processo todo fica mais ou menos assim. Passo 1, a gente faz a ação. Passo 2, o app guarda essa informação no banco de dados local. Aí, passo 3, um programinha ali, rodando quietinho em segundo plano, fica só na espreita, esperando a internet voltar. E finalmente, passo 4, assim que o sinal aparece, pá!
 
- Essa rotina pega os dados que estavam guardados e manda tudo para o servidor principal. Genial, né? Fala a verdade. Agora, atenção, porque o ponto crucial é este aqui. O aplicativo não fica mais naquela neurose de tem internet, não tem? Não.
+ Essa rotina pega os dados que estavam guardados e manda tudo para o servidor principal. Genial, né? Fala a verdade. 
+
+![[Screenshot 2025-12-06 at 23-46-36 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png]]
+ 
+ Agora, atenção, porque o ponto crucial é este aqui. O aplicativo não fica mais naquela neurose de tem internet, não tem? Não.
 
  A grande sacada é que ele passa a tratar o banco de dados do celular como se ele fosse o principal, o oficial. A ação é registrada ali na hora e mandar para a nuvem vira uma tarefa secundária, uma coisa que acontece depois. Essa é a grande virada de chave, a mudança de mentalidade.
 
  Mas é claro que nem tudo são flores, né? Essa solução, que é super engenhosa, acaba criando seus próprios desafios. E um dos mais interessantes, principalmente para quem desenvolve, é como lidar com conflitos de dados. Para entender, imagina só essa situação aqui. Duas pessoas têm acesso à mesma informação, ok? Uma delas, sem internet, vai lá e edita os dados de um cliente. Ao mesmo tempo, a outra pessoa, também offline, resolve apagar o cadastro desse mesmíssimo cliente.
 
  E aí, o que será que acontece quando os dois celulares finalmente se conectam à internet? Pois é, aí que o quebra-cabeça começa. De um lado, o usuário A editou a informação. Do outro, o usuário B apagou tudo. E agora, qual ação vale? O sistema deve ignorar a exclusão e salvar a edição ou deve seguir com a exclusão e jogar a edição fora? Resolver esse tipo de impasse é um desafio e tanto. E existem várias estratégias diferentes para lidar com isso.
+
+
 
  Mas olha, apesar de toda essa complexidade rolando nos bastidores, o resultado final pra gente que tá usando o aplicativo é uma experiência que flui e que é uma beleza, sem nenhuma interrupção. E por que isso é tão importante? Primeiro, porque o app parece sempre super rápido, ágil. Afinal, a ação é confirmada ali, na hora, localmente. Isso cria uma experiência que não para, que não fica travando por causa da conexão.
 
