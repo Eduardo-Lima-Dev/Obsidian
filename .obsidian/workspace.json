@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "7fbc33bc3f41896b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-06 23.40.19.excalidraw"
+            }
+          },
+          {
             "id": "7db6bd17e7d0b89d",
             "type": "leaf",
             "state": {
@@ -246,13 +258,14 @@
   },
   "active": "79c3b114d4ef5c18",
   "lastOpenFiles": [
-    "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
+    "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Videos/A Magia dos Apps Offline.md",
+    "Videos/Apps Ofiline",
+    "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "Sumario.md",
     "EstudosEspecificos",
     "conflict-files-obsidian-git.md",
-    "Sem título",
     "Universidade/PDS/aula-separacao-interesses-encapsulamento.pdf",
     "Universidade/PDS/aula-ppoo-3.2-lsp_v2.pdf",
     "Universidade/PDS/aula-ppoo-3.1-intro-srp-ocp_v4.pdf",
@@ -283,7 +296,6 @@
     "Universidade/APS/Atividade 2.md",
     "Universidade/APS/Atividade 1.md",
     "Soltos/Projeto Paulin.md",
-    "Modelos/Modelo de Perguntas de Briefing.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",

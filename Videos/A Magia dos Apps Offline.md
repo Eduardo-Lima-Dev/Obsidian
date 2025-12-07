@@ -7,6 +7,15 @@ estado: Nao Gravado
 plataforma:
 ---
  Sabe aquela mágica da tecnologia que a gente usa todo santo dia e nem para para pensar? Pois é, hoje a gente vai desvendar uma delas. Como é que os nossos aplicativos preferidos conseguem funcionar, tipo, numa boa, mesmo quando a gente está sem internet. E aí, já aconteceu de estar, sei lá, no metrô, no meio do nada, com aquele sinal péssimo e mesmo assim conseguir curtir uma foto ou mandar uma mensagem?
+graph TD
+    A[Usuário realiza ação<br/>ex: Clica em 'Curtir'] --> B{Tem Internet agora?};
+    B -- Sim --> C[App envia dados ao Servidor];
+    C --> D[Servidor confirma];
+    D --> E[App mostra sucesso];
+    B -- Não --> F[App mostra ERRO];
+    F --> G[Ação é perdida];
+    style F fill:#ffcccb,stroke:#f00
+    style G fill:#ffcccb,stroke:#f00
 
  Fica a pergunta, né? Como é que isso funciona se não tem conexão? Parasfetizaria, mas olha, é pura tecnologia. Pensa só no Instagram, por exemplo. Dois toques rapidinhos na tela e pronto, o coraçãozinho de like aparece. Ou então no WhatsApp.
 
