@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
+                "file": "Videos/A Magia dos Apps Offline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto - TurboTickets 🎫"
+              "title": "A Magia dos Apps Offline"
             }
           },
           {
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
+                "file": "Videos/A Magia dos Apps Offline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Projeto - TurboTickets 🎫"
+              "title": "Sumário de A Magia dos Apps Offline"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "79c3b114d4ef5c18",
   "lastOpenFiles": [
-    "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "EstudosEspecificos/Projeto - TurboTickets 🎫.md",
+    "Videos/A Magia dos Apps Offline.md",
+    "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "Sumario.md",
     "EstudosEspecificos",
     "conflict-files-obsidian-git.md",
@@ -283,7 +284,6 @@
     "Universidade/APS/Atividade 1.md",
     "Soltos/Projeto Paulin.md",
     "Modelos/Modelo de Perguntas de Briefing.md",
-    "Modelos/Modelo Briefing.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Imagens/WhatsApp Image 2025-04-09 at 20.44.29 1.jpeg",
