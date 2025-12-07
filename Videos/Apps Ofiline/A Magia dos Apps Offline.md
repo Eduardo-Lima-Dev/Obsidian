@@ -37,7 +37,7 @@ plataforma:
 
  E aí, o que será que acontece quando os dois celulares finalmente se conectam à internet? Pois é, aí que o quebra-cabeça começa. De um lado, o usuário A editou a informação. Do outro, o usuário B apagou tudo. E agora, qual ação vale? O sistema deve ignorar a exclusão e salvar a edição ou deve seguir com a exclusão e jogar a edição fora? Resolver esse tipo de impasse é um desafio e tanto. E existem várias estratégias diferentes para lidar com isso.
 
-
+![[Screenshot 2025-12-06 at 23-48-30 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png]]
 
  Mas olha, apesar de toda essa complexidade rolando nos bastidores, o resultado final pra gente que tá usando o aplicativo é uma experiência que flui e que é uma beleza, sem nenhuma interrupção. E por que isso é tão importante? Primeiro, porque o app parece sempre super rápido, ágil. Afinal, a ação é confirmada ali, na hora, localmente. Isso cria uma experiência que não para, que não fica travando por causa da conexão.
 
