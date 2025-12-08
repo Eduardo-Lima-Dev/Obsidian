@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
+                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-12-06 23.40.19.excalidraw"
+              "title": "Sumário de A Magia dos Apps Offline"
             }
           },
           {
@@ -252,7 +252,7 @@
       "export-graph-view:Export graph view": false
     }
   },
-  "active": "c32f9e1583ef285f",
+  "active": "79c3b114d4ef5c18",
   "lastOpenFiles": [
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Pasted Image 20251207000130_009.png",
