@@ -1,74 +1,36 @@
-# Fluxo de Teste - Cadastro de Projetos para 2026
-
-  
-
 Este documento descreve o fluxo completo para testar a funcionalidade de inclusão de projetos para o ano de 2026 no frontend do sistema PROPAG.
-
-  
-
 ## Pré-requisitos
 
-  
-
 1. **Login no sistema**: É necessário estar autenticado no sistema
-
 2. **Edital para 2026**:
 
 - Deve existir um edital cadastrado para o ano de 2026 no sistema
-
 - ⚠️ **O edital deve estar com status "aberto" = true** para permitir cadastro de novos projetos
-
 - O nome do edital geralmente contém o ano (ex: "Edital PROPAG 2026")
 
 3. **Usuário adequado**: O usuário deve ser do tipo "professor" ou "coordenador" (não administrador)
 
 - Administradores não têm acesso à opção "Cadastrar projeto" no menu
-
-  
-
 ## Fluxo de Navegação
-
-  
-
 ### 1. Acessar o Menu Principal
 
 - **Rota**: `/menu` ou `/` (após login)
-
 - **Como acessar**: Após fazer login, você será redirecionado para o menu
-
-  
-
 ### 2. Iniciar Cadastro de Projeto
 
 - **Rota**: `/cadastro_projeto`
-
 - **Como acessar**: No menu, na seção de dados do usuário (painel direito), clique em **"Cadastrar projeto"**
-
-  
-
 **⚠️ Validações Automáticas ao Clicar em "Cadastrar projeto":**
 
 1. O sistema verifica se existe pelo menos um edital **aberto** no momento
-
 - Se não houver edital aberto, será exibido o alerta: "Não existe edital aberto no momento"
-
 - Para testar projetos de 2026, é necessário que exista um edital de 2026 com status "aberto" = true
 
-2. O sistema verifica se você possui rascunhos salvos
-
+1. O sistema verifica se você possui rascunhos salvos
 - Se houver rascunhos, será exibido o alerta: "você tem rascunhos salvos!" e você será redirecionado para `/rascunhos_salvos`
-
 - Se não houver rascunhos, os dados serão limpos e você será redirecionado para `/cadastro_projeto`
-
-  
-
 - **Descrição**: Esta é a primeira etapa do cadastro
-
-  
-
 #### Tela 1: Dados do Coordenador (`/cadastro_projeto`)
-
-  
 
 **Campos obrigatórios:**
 
@@ -699,24 +661,14 @@ Após finalizar o cadastro na última etapa (Referências), o sistema:
 **Solução**:
 
 - Você será redirecionado para `/rascunhos_salvos`
-
 - Você pode continuar um rascunho existente ou criar um novo projeto após finalizar/excluir os rascunhos
-
-  
-
 ### Problema: Não consigo ver a opção "Cadastrar projeto" no menu
 
 **Solução**:
 
 - Verifique se você está logado como professor/coordenador (não administrador)
-
 - Administradores não têm acesso a essa funcionalidade
-
-  
-
 ## Rotas Resumidas
-
-  
 
 | Etapa | Rota | Descrição |
 
