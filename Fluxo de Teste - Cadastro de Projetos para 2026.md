@@ -654,8 +654,6 @@ Após finalizar o cadastro na última etapa (Referências), o sistema:
 
 - Um administrador precisa cadastrar/abrir o edital no backend
 
-  
-
 ### Problema: "você tem rascunhos salvos!"
 
 **Solução**:
