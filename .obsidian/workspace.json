@@ -24,21 +24,45 @@
             }
           },
           {
-            "id": "cc0e67bd5d21a0e2",
+            "id": "82364c693b832b0a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Pasted Image 20251207000130_009.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20251207000130_009"
+            }
+          },
+          {
+            "id": "2c991b848f9c807f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Pasted Image 20251207000113_004.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20251207000113_004"
+            }
+          },
+          {
+            "id": "800efd04b66d4c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluxo de Teste - Cadastro de Projetos para 2026.md",
+                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluxo de Teste - Cadastro de Projetos para 2026"
+              "title": "A Magia dos Apps Offline"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluxo de Teste - Cadastro de Projetos para 2026.md",
+                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Fluxo de Teste - Cadastro de Projetos para 2026"
+              "title": "Sumário de A Magia dos Apps Offline"
             }
           },
           {
@@ -240,20 +264,24 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "cc0e67bd5d21a0e2",
+  "active": "800efd04b66d4c76",
   "lastOpenFiles": [
-    "Sumario.md",
+    "Refatoração Dashboard - Arquitetura por Feature.md",
+    "Principais Comandos do AstroVim.md",
+    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
     "Fluxo de Teste - Cadastro de Projetos para 2026.md",
-    "Drawing 2025-12-17 20.50.17.excalidraw.md",
+    "Diagrama da Funcionalidade de Lembrete de Frequência.md",
     "Drawing 2025-12-17 20.50.37.excalidraw.md",
+    "Drawing 2025-12-17 20.50.17.excalidraw.md",
+    "Imagens/Pasted Image 20251207000058_002.png",
+    "Imagens/Pasted Image 20251207000113_004.png",
+    "Imagens/Pasted Image 20251207000130_009.png",
+    "Sumario.md",
     "Sem título.base",
     "Soltos/Sem título.base",
     "Soltos/Documentação de Projeto e Metodologia de Trabalho Freelance.md",
     "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
-    "Pasted Image 20251207000130_009.png",
-    "Pasted Image 20251207000113_004.png",
-    "Pasted Image 20251207000058_002.png",
     "Imagens/Screenshot 2025-12-06 at 23-48-30 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "Videos/Apps Ofiline/Sem título 1.md",
@@ -271,11 +299,7 @@
     "Universidade/PDS/aula-introducao-projeto-software.pdf",
     "Universidade/PDS/aula-grasp-2.3-indirecao-variacoesprotegidas-revisao.pdf",
     "Excalidraw/Fluxo.md",
-    "Diagrama da Funcionalidade de Lembrete de Frequência.md",
-    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
     "Imagens/Pasted image 20251007092108.png",
-    "Principais Comandos do AstroVim.md",
-    "Refatoração Dashboard - Arquitetura por Feature.md",
     "Excalidraw/Drawing 2025-10-29 16.56.51.excalidraw.md",
     "Excalidraw/Drawing 2025-10-28 08.39.43.excalidraw.md",
     "Soltos/Footer.excalidraw.md",
@@ -285,7 +309,6 @@
     "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
     "Soltos/divisao-times.md",
     "Soltos/cardDestaque.excalidraw.md",
-    "Soltos/Curriculo.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Sem título.canvas",
