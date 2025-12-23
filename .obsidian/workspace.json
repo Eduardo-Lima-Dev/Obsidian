@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "A Magia dos Apps Offline"
             }
+          },
+          {
+            "id": "516dbc13a802efa7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-12-23 11.38.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-23 11.38.16.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
+                "file": "Drawing 2025-12-23 11.38.16.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de A Magia dos Apps Offline"
+              "title": "Sumário de Drawing 2025-12-23 11.38.16.excalidraw"
             }
           },
           {
@@ -252,10 +264,11 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "6035029e11e0da62",
+  "active": "516dbc13a802efa7",
   "lastOpenFiles": [
-    "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
+    "Drawing 2025-12-23 11.38.16.excalidraw.md",
+    "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
     "Principais Comandos do AstroVim.md",
     "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
