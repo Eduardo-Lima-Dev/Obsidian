@@ -50,15 +50,17 @@
             }
           },
           {
-            "id": "516dbc13a802efa7",
+            "id": "42086fc5d275024d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-12-23 11.38.16.excalidraw.md"
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-23 11.38.16.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ],
@@ -136,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2025-12-23 11.38.16.excalidraw.md",
+                "file": "Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2025-12-23 11.38.16.excalidraw"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -264,10 +266,11 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "516dbc13a802efa7",
+  "active": "42086fc5d275024d",
   "lastOpenFiles": [
-    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Drawing 2025-12-23 11.38.16.excalidraw.md",
+    "Sem título.md",
+    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
     "Principais Comandos do AstroVim.md",
@@ -309,7 +312,6 @@
     "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
     "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
     "Soltos/divisao-times.md",
-    "Soltos/cardDestaque.excalidraw.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Sem título.canvas",
