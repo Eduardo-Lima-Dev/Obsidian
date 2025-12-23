@@ -24,30 +24,6 @@
             }
           },
           {
-            "id": "82364c693b832b0a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Pasted Image 20251207000130_009.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251207000130_009"
-            }
-          },
-          {
-            "id": "2c991b848f9c807f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/Pasted Image 20251207000113_004.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251207000113_004"
-            }
-          },
-          {
             "id": "800efd04b66d4c76",
             "type": "leaf",
             "state": {
@@ -62,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,6 +242,8 @@
   },
   "active": "800efd04b66d4c76",
   "lastOpenFiles": [
+    "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
+    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
     "Principais Comandos do AstroVim.md",
     "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
@@ -280,8 +258,6 @@
     "Sem título.base",
     "Soltos/Sem título.base",
     "Soltos/Documentação de Projeto e Metodologia de Trabalho Freelance.md",
-    "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
-    "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Imagens/Screenshot 2025-12-06 at 23-48-30 Online FlowChart & Diagrams Editor - Mermaid Live Editor.png",
     "EstudosEspecificos/Documento de Requisitos Funcionais.md",
     "Videos/Apps Ofiline/Sem título 1.md",
