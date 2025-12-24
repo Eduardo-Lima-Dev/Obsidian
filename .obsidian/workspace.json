@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migrate ID.md",
+                "file": "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migrate ID"
+              "title": "Roteiro de Testes de Usabilidade"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Migrate ID.md",
+                "file": "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Migrate ID"
+              "title": "Sumário de Roteiro de Testes de Usabilidade"
             }
           },
           {
@@ -268,8 +268,10 @@
   },
   "active": "42086fc5d275024d",
   "lastOpenFiles": [
-    "Drawing 2025-12-23 11.38.16.excalidraw.md",
+    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
+    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
     "Migrate ID.md",
+    "Drawing 2025-12-23 11.38.16.excalidraw.md",
     "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
     "Videos/Apps Ofiline/Drawing 2025-12-06 23.40.19.excalidraw.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
@@ -301,7 +303,6 @@
     "Universidade/PDS/aula-ppoo-3.2-lsp_v2.pdf",
     "Universidade/PDS/aula-ppoo-3.1-intro-srp-ocp_v4.pdf",
     "Universidade/PDS/aula-introducao-projeto-software.pdf",
-    "Universidade/PDS/aula-grasp-2.3-indirecao-variacoesprotegidas-revisao.pdf",
     "Excalidraw/Fluxo.md",
     "Imagens/Pasted image 20251007092108.png",
     "Excalidraw/Drawing 2025-10-29 16.56.51.excalidraw.md",
@@ -310,8 +311,6 @@
     "Soltos/Fluxo de Desenvimento.png",
     "Soltos/Drawing 2025-10-20 18.41.25.excalidraw.md",
     "Soltos/Drawing 2025-07-17 14.45.55.excalidraw.md",
-    "Soltos/Drawing 2025-02-14 10.34.27.excalidraw.md",
-    "Soltos/divisao-times.md",
     "Universidade/TCC 2/Fuxogramas/Fluxograma-CC-2024-01.jpg",
     "Universidade/TCC 2/Fuxogramas/FluxogramaCC-2013.jpg",
     "Sem título.canvas",

@@ -10,14 +10,13 @@ tipo: Atividade
 - **Medir a satisfação** e a percepção de usabilidade geral dos participantes.
 
 ## 2. Perfil dos Participantes
-- **Quantidade**: 15–18 estudantes de graduação
+- **Quantidade**: 15–18 estudantes de graduação minimo
 - **Critério**: sem experiência prévia com o protótipo  
-- **Ambiente**: laboratório ou sessão remota (Meet) com gravação de tela e áudio
+- **Ambiente**: laboratório ou sessão remota (Meet)
 
 ## 3. Materiais e Métricas
-- **Materiais**: computador com navegador, cronômetro, questionários (pré e pós), consentimento informado  
+- **Materiais**: computador com navegador, questionários (pós), consentimento informado  
 - **Métricas**:  
-  - **Tempo em cada tarefa**  
   - **Taxa de sucesso** (completar x sem ajuda)  
   - **Número de erros e obstáculos**  
   - **SUS** (System Usability Scale)  
