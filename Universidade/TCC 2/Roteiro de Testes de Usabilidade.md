@@ -19,7 +19,6 @@ tipo: Atividade
 - **Métricas**:  
   - **Taxa de sucesso** (completar x sem ajuda)  
   - **Número de erros e obstáculos**  
-  - **SUS** (System Usability Scale)  
   - **Feedback qualitativo** (comentários espontâneos)
 
 ## 4. Cenário
@@ -42,13 +41,9 @@ tipo: Atividade
 ---
 ## 6. Métricas Coletadas
 - **Taxa de sucesso** por tarefa (participantes que completaram sem ajuda).
-- **Tempo médio** para cada tarefa.
 - **Número de erros** e pontos de auxílio.
 - **Comentários qualitativos** (dificuldades, elogios, sugestões).
 
 ## 7. Questionário Pós-Teste
-- **SUS** (System Usability Scale) – 10 perguntas de escala Likert.
+- 10 perguntas de escala Likert.
 - Questões abertas:
-  1. O que você mais gostou no sistema?
-  2. O que você menos gostou?
-  3. Sugestões de melhoria.
