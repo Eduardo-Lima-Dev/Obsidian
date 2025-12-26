@@ -53,14 +53,12 @@
             "id": "42086fc5d275024d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Roteiro de Testes de Usabilidade"
+              "icon": "lucide-file-text",
+              "title": "Documento de Requisitos do Sistema"
             }
           }
         ],
@@ -138,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
+                "file": "Universidade/TCC 2/Documento de Requisitos do Sistema.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Roteiro de Testes de Usabilidade"
+              "title": "Sumário de Documento de Requisitos do Sistema"
             }
           },
           {
@@ -268,8 +266,9 @@
   },
   "active": "42086fc5d275024d",
   "lastOpenFiles": [
-    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
+    "Universidade/TCC 2/Documento de Requisitos do Sistema.md",
     "Universidade/TCC 2/Roteiro de Testes de Usabilidade.md",
+    "Universidade/TCC 2/Roteiro de Testes de Usabilidade.pdf",
     "Migrate ID.md",
     "Drawing 2025-12-23 11.38.16.excalidraw.md",
     "Videos/Apps Ofiline/A Magia dos Apps Offline.md",
