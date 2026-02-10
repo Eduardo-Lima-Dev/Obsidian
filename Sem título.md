@@ -1,1 +1,2 @@
-- Onboarding - 4 imagens 
+- Onboarding - 4 Mini resumos das funcionalidades principais
+- 
