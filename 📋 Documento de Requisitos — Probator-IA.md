@@ -168,71 +168,36 @@ PROVAS ||--o{ CORRECOES : "tem"
 | RF-06 | Ao selecionar uma matéria, o professor deve visualizar a opção de criar uma nova prova. |
 ### 3.3 Geração de Provas
 
-  
-
-| ID | Requisito |
-
-|-------|-----------|
-
-| RF-07 | O sistema deve gerar questões de múltipla escolha por meio de IA. |
-
-| RF-08 | O professor pode definir o número de questões da prova (ex.: 10 questões). |
-
-| RF-09 | O professor pode definir o nível de dificuldade da prova: Fácil, Médio ou Difícil. |
-
+| ID    | Requisito                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------- |
+| RF-07 | O sistema deve gerar questões de múltipla escolha por meio de IA.                                                   |
+| RF-08 | O professor pode definir o número de questões da prova (ex.: 10 questões).                                          |
+| RF-09 | O professor pode definir o nível de dificuldade da prova: Fácil, Médio ou Difícil.                                  |
 | RF-10 | Ao solicitar a criação de uma prova, o frontend realiza requisição ao backend, que retorna as questões disponíveis. |
-
-| RF-11 | As questões retornadas devem ser exibidas em uma página dedicada. |
-
-  
+| RF-11 | As questões retornadas devem ser exibidas em uma página dedicada.                                                   |
 
 ### 3.4 Embaralhamento
 
-  
-
 | ID | Requisito |
-
 |----|-----------|
-
 | RF-12 | O professor pode embaralhar as questões selecionadas por meio de um botão dedicado. |
-
 | RF-13 | O embaralhamento deve reorganizar a ordem das questões e das alternativas, mantendo a resposta correta consistente. |
-
-  
 
 ### 3.5 Gabarito e Exportação
 
-  
-
 | ID | Requisito |
-
 |----|-----------|
-
 | RF-14 | O sistema deve permitir a geração de um gabarito completo, com as respostas corretas identificadas (não apenas as alternativas). |
-
 | RF-15 | O professor pode exportar a prova e o gabarito em formato PDF. |
-
 | RF-16 | O professor pode fazer o download do PDF ou enviá-lo para impressão diretamente pelo sistema. |
 
-  
-
 ---
-
-  
-
 ## 4. Cenários de Uso
-
-  
 
 ### Cenário 1 — Criação de Prova com Embaralhamento e Gabarito
 
-  
-
 **Ator:** Professor
-
 **Pré-condição:** Professor cadastrado e autenticado no sistema.
-
-  
 
 ```
 
@@ -268,25 +233,13 @@ disponibilizando download e opção de impressão.
 
 ```
 
-  
-
 **Resultado esperado:** Professor obtém PDF da prova embaralhada e do respectivo gabarito.
 
-  
-
 ---
-
-  
-
 ### Cenário 2 — Criação de Prova sem Embaralhamento
 
-  
-
 **Ator:** Professor
-
 **Pré-condição:** Professor cadastrado e autenticado no sistema.
-
-  
 
 ```
 
@@ -316,32 +269,19 @@ disponibilizando download e opção de impressão.
 
 ```
 
-  
-
 **Resultado esperado:** Professor obtém PDF da prova na ordem original e do respectivo gabarito.
 
-  
-
 ---
-
-  
-
 ## 5. Requisitos Não Funcionais (Sugeridos)
-
-  
 
 | ID | Requisito |
 
 |----|-----------|
 
 | RNF-01 | As senhas devem ser armazenadas com hash seguro (ex.: bcrypt). |
-
 | RNF-02 | O sistema deve responder à geração de questões em no máximo 10 segundos. |
-
 | RNF-03 | O PDF gerado deve ser fiel ao layout exibido no frontend. |
-
 | RNF-04 | O sistema deve ser responsivo e acessível via navegador web. |
-
 | RNF-05 | As rotas de criação e gerenciamento de provas devem ser protegidas por autenticação. |
 
   
