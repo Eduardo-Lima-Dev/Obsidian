@@ -275,21 +275,14 @@ disponibilizando download e opção de impressão.
 ## 5. Requisitos Não Funcionais (Sugeridos)
 
 | ID | Requisito |
-
 |----|-----------|
-
 | RNF-01 | As senhas devem ser armazenadas com hash seguro (ex.: bcrypt). |
 | RNF-02 | O sistema deve responder à geração de questões em no máximo 10 segundos. |
 | RNF-03 | O PDF gerado deve ser fiel ao layout exibido no frontend. |
 | RNF-04 | O sistema deve ser responsivo e acessível via navegador web. |
 | RNF-05 | As rotas de criação e gerenciamento de provas devem ser protegidas por autenticação. |
 
-  
-
 ---
-
-  
-
 ## 6. Fluxo Simplificado do Sistema
 
   
@@ -332,8 +325,6 @@ L --> M([Fim])
 
 ## 7. Rotas do Sistema
 
-  
-
 ### `POST /auth/register`
 
 **Payload (Requisição):**
@@ -354,8 +345,6 @@ L --> M([Fim])
 
 ```
 
-  
-
 ### `POST /auth/login`
 
 **Payload (Requisição):**
@@ -372,8 +361,6 @@ L --> M([Fim])
 
 ```
 
-  
-
 ### `GET /dashboard`
 
 **Resposta de Sucesso:**
@@ -384,23 +371,21 @@ L --> M([Fim])
 
 "status": "success",
 
-"data": {
-
-"id": "uuid",
-
-"nome": "Professor",
-
-"email": "[EMAIL_ADDRESS]",
-
-"materia": "Geografia"
-
-}
+	"data": {
+	
+	"id": "uuid",
+	
+	"nome": "Professor",
+	
+	"email": "[EMAIL_ADDRESS]",
+	
+	"materia": "Geografia"
+	
+	}
 
 }
 
 ```
-
-  
 
 ### `GET /dashboard/materia/:id`
 
@@ -416,53 +401,53 @@ L --> M([Fim])
 
 "questoes": [
 
-{
-
-"id": "uuid",
-
-"enunciado": "Enunciado da questão",
-
-"alternativas": [
-
-{
-
-"id": "uuid",
-
-"texto": "Alternativa 1"
-
+	{
+	
+	"id": "uuid",
+	
+	"enunciado": "Enunciado da questão",
+	
+	"alternativas": [
+	
+	{
+	
+	"id": "uuid",
+	
+	"texto": "Alternativa 1"
+	
+	},
+	
+	{
+	
+	"id": "uuid",
+	
+	"texto": "Alternativa 2"
+	
+	},
+	
+	{
+	
+	"id": "uuid",
+	
+	"texto": "Alternativa 3"
+	
 },
 
-{
-
-"id": "uuid",
-
-"texto": "Alternativa 2"
-
-},
-
-{
-
-"id": "uuid",
-
-"texto": "Alternativa 3"
-
-},
-
-{
-
-"id": "uuid",
-
-"texto": "Alternativa 4"
-
-}
-
-],
-
-"resposta_correta": "uuid"
-
-}
-
-]
+	{
+	
+	"id": "uuid",
+	
+	"texto": "Alternativa 4"
+	
+	}
+	
+	],
+	
+	"resposta_correta": "uuid"
+	
+	}
+	
+	]
 
 }
 
