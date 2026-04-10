@@ -453,8 +453,6 @@ L --> M([Fim])
 
 ```
 
-  
-
 ### `POST /materia/criar-prova`
 
 **Payload (Requisição):**
@@ -472,8 +470,6 @@ L --> M([Fim])
 }
 
 ```
-
-  
 
 ### `POST /embaralhar`
 
@@ -534,8 +530,6 @@ L --> M([Fim])
 }
 
 ```
-
-  
 
 ### `GET /gabarito`
 
@@ -598,9 +592,6 @@ L --> M([Fim])
 }
 
 ```
-
-  
-
 ### `GET /pdf`
 
 **Resposta de Sucesso:**
@@ -614,19 +605,8 @@ L --> M([Fim])
 }
 
 ```
-
-  
-
 ## Referencias de Documentação
 
-  
-
 [NotebookLM](https://docs.cloud.google.com/gemini/enterprise/notebooklm-enterprise/docs/api-notebooks?hl=pt-br)
-
-  
-
 [NotebookLM Não-Oficial](https://github.com/teng-lin/notebooklm-py)
-
-  
-
 [NotebookLM Não-Oficial V2](https://github.com/gnh1201/notebooklm-rest-api)
