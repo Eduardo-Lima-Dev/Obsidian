@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📋 Documento de Requisitos — Probator-IA.md",
+                "file": "Soltos/PIN Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📋 Documento de Requisitos — Probator-IA"
+              "title": "PIN Hydra"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋 Documento de Requisitos — Probator-IA.md",
+                "file": "Soltos/PIN Hydra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 📋 Documento de Requisitos — Probator-IA"
+              "title": "Sumário de PIN Hydra"
             }
           },
           {
@@ -218,11 +218,18 @@
   },
   "active": "80bfdb6ce12dbb57",
   "lastOpenFiles": [
-    "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
+    "Soltos/Projeto Paulin.md",
+    "Soltos/ProjetoJit.excalidraw.md",
+    "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
+    "Soltos/Sem título.base",
+    "Soltos/cardDestaque.excalidraw.md",
+    "Soltos/Briefing de Design — Projeto.md",
+    "Soltos/Atividade.md",
+    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
     "📋 Documento de Requisitos — Probator-IA.md",
+    "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Videos/✅ Como perdi todo o banco de dados do Meu Racha.md",
     "Videos/✅  Nova Feature - Divisão Automática de Times.md",
-    "Orçamento de Infraestrutura relacionada a pagamento e servidores.md",
     "Relatório de Padrões de Projeto - Pinheiro Society.md",
     "Refatoração Dashboard - Arquitetura por Feature.md",
     "Principais Comandos do AstroVim.md",
