@@ -17,7 +17,7 @@ _(Tom: claro, objetivo)_
 ## 1:05–1:45 — Streams
 
 Versão curta (para caber no vídeo):  
-“No código, stream é o fluxo de bytes da API `java.io`. O projeto define `JogadorOutputStream` e `JogadorInputStream`: classes que embrulham um `DataOutputStream` / `DataInputStream` e implementam o contrato de `OutputStream` / `InputStream` — no mesmo espírito dos filtros da biblioteca (composição sobre outro stream). Elas serializam e desserializam arrays de `Jogador` para qualquer origem ou destino, por exemplo o `OutputStream` do socket TCP no `ManipuladorCliente`.”
+“No código, stream é o fluxo de bytes da API `java.io`(29 Output). O projeto define `JogadorOutputStream` e `JogadorInputStream`: classes que embrulham um `DataOutputStream` / `DataInputStream` (31, 40–47 Output) e implementam o contrato de `OutputStream` / `InputStream` — no mesmo espírito dos filtros da biblioteca (composição sobre outro stream). Elas serializam e desserializam arrays de `Jogador` para qualquer origem ou destino, por exemplo o `OutputStream` do socket TCP no `ManipuladorCliente`.”
 
 Por que mudou: deixa claro que não é só “decorator” de nome (em Java os filtros oficiais são `FilterInputStream`/`FilterOutputStream`), mas o mesmo padrão de uso: um stream “de cima” delega para um stream “de baixo” (`Data*` + bytes do socket).
 
@@ -25,15 +25,15 @@ Por que mudou: deixa claro que não é só “decorator” de nome (em Java os 
 
 ## Onde apontar enquanto fala (ordem sugerida)
 
-|O que você está dizendo|Arquivo|Linhas (aponte o dedo/cursor aqui)|
-|---|---|---|
-|“fluxo de bytes da `java.io`”, “OutputStream / InputStream”|`JogadorOutputStream.java`|29 — `extends OutputStream`|
-|mesmo para entrada|`JogadorInputStream.java`|25 — `extends InputStream`|
-|“embrulham DataOutputStream / DataInputStream”, “destino pode ser socket”|`JogadorOutputStream.java`|31, 40–47 — campo `destino` e construtor que recebe `OutputStream destino`|
-|idem para leitura|`JogadorInputStream.java`|27–34 — campo `origem` e construtor com `InputStream origem`|
-|“empacotar / serializar o array”|`JogadorOutputStream.java`|50–57 — `enviar()` escreve quantidade e cada jogador|
-|“desempacotar / montar o array”|`JogadorInputStream.java`|42–50 — `receber()` lê quantidade e chama `lerJogador()`|
-|“no socket TCP, na prática”|`ManipuladorCliente.java`|139–142 — `LIST_RESP` + `new JogadorOutputStream(..., dos)` + `enviar()`|
+| O que você está dizendo                                                   | Arquivo                    | Linhas (aponte o dedo/cursor aqui)                                         |
+| ------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------- |
+| “fluxo de bytes da `java.io`”, “OutputStream / InputStream”               | `JogadorOutputStream.java` | 29 — `extends OutputStream`                                                |
+| mesmo para entrada                                                        | `JogadorInputStream.java`  | 25 — `extends InputStream`                                                 |
+| “embrulham DataOutputStream / DataInputStream”, “destino pode ser socket” | `JogadorOutputStream.java` | 31, 40–47 — campo `destino` e construtor que recebe `OutputStream destino` |
+| idem para leitura                                                         | `JogadorInputStream.java`  | 27–34 — campo `origem` e construtor com `InputStream origem`               |
+| “empacotar / serializar o array”                                          | `JogadorOutputStream.java` | 50–57 — `enviar()` escreve quantidade e cada jogador                       |
+| “desempacotar / montar o array”                                           | `JogadorInputStream.java`  | 42–50 — `receber()` lê quantidade e chama `lerJogador()`                   |
+| “no socket TCP, na prática”                                               | `ManipuladorCliente.java`  | 139–142 — `LIST_RESP` + `new JogadorOutputStream(..., dos)` + `enviar()`   |
 
 Detalhe extra se sobrar 5 s: no Output, o protocolo binário está no comentário do topo — `JogadorOutputStream.java` 14–24 (e o espelho em `JogadorInputStream.java` 13–23).
 
