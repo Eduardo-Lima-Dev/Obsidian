@@ -17,7 +17,7 @@ _(Tom: claro, objetivo)_
 ## 1:05–1:45 — Streams
 
 Versão curta (para caber no vídeo):  
-“No código, stream é o fluxo de bytes da API `java.io`(29 Output). O projeto define `JogadorOutputStream` e `JogadorInputStream`: classes que embrulham um `DataOutputStream` / `DataInputStream` (31, 40–47 Output) e implementam o contrato de `OutputStream` / `InputStream` — no mesmo espírito dos filtros da biblioteca (composição sobre outro stream). Elas serializam e desserializam arrays de `Jogador` para qualquer origem ou destino, por exemplo o `OutputStream` do socket TCP no `ManipuladorCliente`.”
+“No código, stream é o fluxo de bytes da API `java.io`(29 Output). O projeto define `JogadorOutputStream` e `JogadorInputStream`: classes que embrulham um `DataOutputStream` / `DataInputStream` (31, 40–47 Output) e implementam o contrato de `OutputStream` / `InputStream` — no mesmo espírito dos filtros da biblioteca (composição sobre outro stream). Elas serializam e desserializam arrays  (50–57 Input) de `Jogador` para qualquer origem ou destino, por exemplo o `OutputStream` do socket TCP no `ManipuladorCliente`(139–142 ManipuladorCliente).”
 
 Por que mudou: deixa claro que não é só “decorator” de nome (em Java os filtros oficiais são `FilterInputStream`/`FilterOutputStream`), mas o mesmo padrão de uso: um stream “de cima” delega para um stream “de baixo” (`Data*` + bytes do socket).
 
