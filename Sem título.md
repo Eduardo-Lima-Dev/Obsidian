@@ -16,6 +16,15 @@ _(Tom: claro, objetivo)_
 
 ## 1:05–1:45 — Streams
 
+1) Streams `Jogador*` e uso no socket
+
+No código, stream é o fluxo de bytes da API `java.io`: a saída customizada estende explicitamente `OutputStream` (`src/streams/JogadorOutputStream.java` linha 29), e a entrada estende `InputStream` (`src/streams/JogadorInputStream.java` linha 25). O projeto define `JogadorOutputStream` e `JogadorInputStream`: elas encapsulam um `DataOutputStream` / `DataInputStream` no construtor e no campo interno (`JogadorOutputStream.java` linhas 31 e 40–47; `JogadorInputStream.java` linhas 27 e 32–34), no mesmo espírito dos filtros da biblioteca — composição em cima de outro stream. A serialização do array (escrever quantidade e cada jogador) está em `enviar()` (`JogadorOutputStream.java` linhas 50–57); a desserialização (ler o array) está em `receber()` (`JogadorInputStream.java` linhas 42–50). O destino típico no servidor é o `OutputStream` do `Socket`, reutilizando o `DataOutputStream` já aberto — por exemplo ao montar a lista: opcode e em seguida `JogadorOutputStream(..., dos)` + `enviar()` (`src/network/ManipuladorCliente.java` linhas 139–142).
+
+---
+
+2) TCP unicast, multithread e cuidado com `close`
+
+A conexão de aplicação é TCP em unicast (um canal P2P com o servidor): a porta vem de `Protocolo.PORTA` com `ServerSocket` (`src/network/ServidorMultiThread.java` linha 53; `src/network/Protocolo.java` linhas 21–22). O servidor multithread fica em loop: cada `accept()` cria um `Thread(new ManipuladorCliente(socket))`, _daemon_, e dá `start()` (`ServidorMultiThread.java` linhas 54–59), então cada cliente tem uma thread de tratamento. Não se deve chamar `close()` no `JogadorOutputStream` dentro do loop de atendimento com o mesmo `dos` do socket: o comentário de `ManipuladorCliente` deixa explícito que isso fecharia o socket subjacente (`ManipuladorCliente.java` linhas 25–27); o encerramento da conexão fica no `try-with-resources` do próprio `Socket` no `run()` (`ManipuladorCliente.java` linhas 37–39), não no wrapper de jogador.
 
 ---
 
