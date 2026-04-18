@@ -16,40 +16,26 @@ _(Tom: claro, objetivo)_
 
 ## 1:05–1:45 — Streams
 
-Versão curta (para caber no vídeo):  
-“No código, stream é o fluxo de bytes da API `java.io`(29 Output). O projeto define `JogadorOutputStream` e `JogadorInputStream`: classes que embrulham um `DataOutputStream` / `DataInputStream` (31, 40–47 Output) e implementam o contrato de `OutputStream` / `InputStream` — no mesmo espírito dos filtros da biblioteca (composição sobre outro stream). Elas serializam e desserializam arrays  (50–57 Input) de `Jogador` para qualquer origem ou destino, por exemplo o `OutputStream` do socket TCP no `ManipuladorCliente`(139–142 ManipuladorCliente).”
-
-Por que mudou: deixa claro que não é só “decorator” de nome (em Java os filtros oficiais são `FilterInputStream`/`FilterOutputStream`), mas o mesmo padrão de uso: um stream “de cima” delega para um stream “de baixo” (`Data*` + bytes do socket).
-
----
-
-## Onde apontar enquanto fala (ordem sugerida)
-
-| O que você está dizendo                                                   | Arquivo                    | Linhas (aponte o dedo/cursor aqui)                                         |
-| ------------------------------------------------------------------------- | -------------------------- | -------------------------------------------------------------------------- |
-| “fluxo de bytes da `java.io`”, “OutputStream / InputStream”               | `JogadorOutputStream.java` | 29 — `extends OutputStream`                                                |
-| mesmo para entrada                                                        | `JogadorInputStream.java`  | 25 — `extends InputStream`                                                 |
-| “embrulham DataOutputStream / DataInputStream”, “destino pode ser socket” | `JogadorOutputStream.java` | 31, 40–47 — campo `destino` e construtor que recebe `OutputStream destino` |
-| idem para leitura                                                         | `JogadorInputStream.java`  | 27–34 — campo `origem` e construtor com `InputStream origem`               |
-| “empacotar / serializar o array”                                          | `JogadorOutputStream.java` | 50–57 — `enviar()` escreve quantidade e cada jogador                       |
-| “desempacotar / montar o array”                                           | `JogadorInputStream.java`  | 42–50 — `receber()` lê quantidade e chama `lerJogador()`                   |
-| “no socket TCP, na prática”                                               | `ManipuladorCliente.java`  | 139–142 — `LIST_RESP` + `new JogadorOutputStream(..., dos)` + `enviar()`   |
-
-Detalhe extra se sobrar 5 s: no Output, o protocolo binário está no comentário do topo — `JogadorOutputStream.java` 14–24 (e o espelho em `JogadorInputStream.java` 13–23).
-
----
-
-“A conexão principal é TCP em unicast: um servidor multithread aceita vários clientes; cada um tem uma thread. Detalhe importante: não se fecha o stream de jogador dentro do loop, senão fecha o socket.”
 
 ---
 
 ## 1:45–2:35 — Serialização
 
-“A serialização é manual: não usa `Serializable` do Java.”
+Parágrafo 1 — serialização manual
 
-“No TCP, as mensagens têm opcode de um byte — login, listar, avaliar, encerrar — e payloads em tipos binários; listas e times usam o protocolo binário dos `Jogador*Stream`.”
+A serialização é manual e explícita: os objetos viram bytes com `writeInt`/`writeUTF`/etc., sem depender do mecanismo `Serializable` do Java — isso está documentado no projeto (`README.md` linhas 3–4 e 34) e materializado nas classes de stream, por exemplo o comentário de que `JogadorOutputStream` “serializa um array de Jogadores em bytes” (`src/streams/JogadorOutputStream.java` linhas 10–12). Para o canal UDP, o JSON também é montado à mão, com comentário de implementação mínima sem dependências externas (`src/utils/JsonMensagem.java` linhas 7–10).
 
-“Já para avisos e resultado ‘para todo mundo’, entra UDP multicast em um grupo da rede, com JSON montado à mão — sem biblioteca — com tipos como aviso e times prontos em texto. TCP para sessão e dados estruturados; multicast para um-para-muitos.”
+---
+
+Parágrafo 2 — TCP: opcode + payload + Jogador*
+
+No TCP, cada mensagem segue o formato `[1 byte opcode][payload…]`, descrito no cabeçalho de `Protocolo` (`src/network/Protocolo.java` linhas 6–7 e 24–26). As operações que você citou aparecem nas constantes e nos comentários de payload: login `0x01` (`Protocolo.java` linhas 29–30), listar `0x10` / resposta `0x11` (`Protocolo.java` linhas 39–46), avaliar `0x20` (`Protocolo.java` linhas 49–50), encerrar `0x50` / resposta `0x51` (`Protocolo.java` linhas 79–87). O próprio `LIST_RESP` documenta que o servidor manda `JogadorOutputStream` e o cliente lê com `JogadorInputStream.receber()` (`Protocolo.java` linhas 42–45). Na prática, após escrever o opcode da lista, o servidor instancia `JogadorOutputStream` em cima do mesmo `DataOutputStream` do socket (`src/network/ManipuladorCliente.java` linhas 139–142); no encerramento, cada time vem como `numeroTime` + payload da mesma stream (`ManipuladorCliente.java` linhas 300–307, alinhado a `Protocolo.java` linhas 82–86).
+
+---
+
+Parágrafo 3 — UDP multicast + JSON + papéis TCP vs UDP
+
+Para avisos e resultado para todo mundo, o servidor usa UDP multicast: o grupo e a porta estão em constantes (`Protocolo.java` linhas 102–104). O envio monta um `JsonMensagem`, converte com `toJson()` em bytes UTF-8 e dispara um `DatagramPacket` para o grupo (`ServidorMultiThread.java` linhas 95–109); existe atalho `"AVISO"` (`ServidorMultiThread.java` linhas 116–118) e envio dos times como texto multilinha com tipo `"TIMES"` (`ServidorMultiThread.java` linhas 121–142). O JSON string é gerado concatenando chaves e valores em `toJson()`, com escape manual em `esc` (`JsonMensagem.java` linhas 32–49). No cliente, `MulticastSocket` + `joinGroup` e `JsonMensagem.fromJson` ao receber (`ClienteMulticast.java` linhas 33–46). Em uma frase: TCP concentra sessão e dados tipados/opcodes; multicast UDP faz um-para-muitos para notificações (`ClienteInterativo.java` linhas 17–18 comentam o papel da thread UDP em paralelo ao TCP).
 
 ---
 
