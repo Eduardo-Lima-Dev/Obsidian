@@ -25,13 +25,12 @@
             "id": "be5b4b019a1926cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
+                "file": "Soltos/Sem título.base",
+                "viewName": "Tabela"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-table",
               "title": "Sem título"
             }
           }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md",
+                "file": "Soltos/Sem título.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,8 +217,8 @@
   },
   "active": "be5b4b019a1926cf",
   "lastOpenFiles": [
-    "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Sem título.md",
+    "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
     "Soltos/PIN Hydra.md",
     "Soltos/Projeto Paulin.md",
     "Soltos/ProjetoJit.excalidraw.md",
