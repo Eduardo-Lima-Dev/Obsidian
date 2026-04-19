@@ -22,16 +22,15 @@
             }
           },
           {
-            "id": "be5b4b019a1926cf",
+            "id": "173158e5a69db25a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "Soltos/Sem título.base",
-                "viewName": "Tabela"
+                "file": "Drawing 2026-04-19 15.41.03.excalidraw.md"
               },
-              "icon": "lucide-table",
-              "title": "Sem título"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-19 15.41.03.excalidraw"
             }
           }
         ],
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86ad6ed5299c66b7",
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soltos/Sem título.base",
+                "file": "Drawing 2026-04-19 15.41.03.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Drawing 2026-04-19 15.41.03.excalidraw"
             }
           },
           {
@@ -215,15 +215,17 @@
       "export-graph-view:Export graph view": false
     }
   },
-  "active": "be5b4b019a1926cf",
+  "active": "173158e5a69db25a",
   "lastOpenFiles": [
-    "Sem título.md",
     "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
+    "Drawing 2026-04-19 15.41.03.excalidraw.md",
+    "Sem título 1.md",
+    "Soltos/Sem título.base",
+    "Sem título.md",
     "Soltos/PIN Hydra.md",
     "Soltos/Projeto Paulin.md",
     "Soltos/ProjetoJit.excalidraw.md",
     "Soltos/Roteiro de Testes de Usuário – Home-Life.md",
-    "Soltos/Sem título.base",
     "Soltos/cardDestaque.excalidraw.md",
     "Soltos/Briefing de Design — Projeto.md",
     "Soltos/Atividade.md",
