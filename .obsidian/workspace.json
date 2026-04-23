@@ -32,9 +32,23 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-04-19 15.41.03.excalidraw"
             }
+          },
+          {
+            "id": "53f28eed0367a142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exemplos de requisição — cadastro de utilizador (front).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exemplos de requisição — cadastro de utilizador (front)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2026-04-19 15.41.03.excalidraw.md",
+                "file": "Exemplos de requisição — cadastro de utilizador (front).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Drawing 2026-04-19 15.41.03.excalidraw"
+              "title": "Sumário de Exemplos de requisição — cadastro de utilizador (front)"
             }
           },
           {
@@ -214,12 +228,12 @@
       "export-graph-view:Export graph view": false
     }
   },
-  "active": "173158e5a69db25a",
+  "active": "53f28eed0367a142",
   "lastOpenFiles": [
     "Drawing 2026-04-19 15.41.03.excalidraw.md",
+    "Exemplos de requisição — cadastro de utilizador (front).md",
     "Drawing 2026-04-19 15.41.03.excalidraw.png",
     "Videos/✅ Meu Racha - Como Um Botão Derrubou Meu Banco de Dados.md",
-    "Sem título 1.md",
     "Soltos/Sem título.base",
     "Sem título.md",
     "Soltos/PIN Hydra.md",
