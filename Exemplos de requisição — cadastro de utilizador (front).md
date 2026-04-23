@@ -112,15 +112,9 @@ Authorization: Bearer <access_token>
 
 **Aluno — `POST {BASE_URL}/usuarios/coordenador/alunos`**
 
-  
-
 Mesmo corpo JSON. A resposta inclui `senhaTemporaria` (mostrar uma vez ou enviar por canal seguro).
 
-  
-
 **Exemplo com `fetch`:**
-
-  
 
 ```javascript
 
@@ -150,31 +144,18 @@ cursoId: cursoIdDoCoordenador,
 
 ```
 
-  
-
 ---
-
-  
 
 ## 4. Clínica cria coordenador (autenticado)
 
-  
-
 Requer JWT com role **CLINICA**.
-
-  
-
 **`POST {BASE_URL}/clinica/{clinicaId}/coordenadores`**
-
-  
 
 ```http
 
 Authorization: Bearer <access_token>
 
 ```
-
-  
 
 ```json
 
@@ -190,27 +171,15 @@ Authorization: Bearer <access_token>
 
 ```
 
-  
-
 A resposta inclui `senhaTemporaria` para o novo coordenador.
-
-  
 
 ---
 
-  
-
 ## 5. Gerar convite (antes do registo público)
 
-  
-
 Requer JWT de **PROFESSOR** ou **COORDENADOR**.
-
-  
-
 **`POST {BASE_URL}/convites`**
 
-  
 
 ```http
 
@@ -218,11 +187,7 @@ Authorization: Bearer <access_token>
 
 ```
 
-  
-
 Convite para aluno (professor ou coordenador):
-
-  
 
 ```json
 
@@ -230,11 +195,7 @@ Convite para aluno (professor ou coordenador):
 
 ```
 
-  
-
 Convite para professor (apenas coordenador):
-
-  
 
 ```json
 
@@ -242,23 +203,12 @@ Convite para professor (apenas coordenador):
 
 ```
 
-  
-
 Usa o `token` devolvido na resposta como `conviteToken` nos endpoints de registo das secções 1 e 2.
 
-  
-
 ---
-
-  
-
 ## 6. Login (após existir utilizador)
 
-  
-
 **`POST {BASE_URL}/auth/login`**
-
-  
 
 ```json
 
@@ -272,22 +222,12 @@ Usa o `token` devolvido na resposta como `conviteToken` nos endpoints de registo
 
 ```
 
-  
-
 Resposta típica: `access_token`, `token_type` (`Bearer`). Usar o token nos endpoints autenticados acima.
 
-  
 
 ---
-
-  
-
 ## Notas
 
-  
-
 - `senha` nos registos públicos tem comprimento mínimo de **8** caracteres (validação do backend).
-
 - Valores de `tipo` em convites correspondem ao enum `TipoConvite` no Prisma (`CADASTRO_ALUNO`, `CADASTRO_PROFESSOR`).
-
 - Documentação interativa: Swagger em `/api/docs` (em produção pode exigir HTTP Basic, conforme configuração do ambiente).
