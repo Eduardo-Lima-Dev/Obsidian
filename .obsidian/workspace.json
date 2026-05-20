@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Debito Tecnico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Debito Tecnico"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Debito Tecnico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título 1"
+              "title": "Sumário de Debito Tecnico"
             }
           },
           {
@@ -259,7 +259,7 @@
   "active": "64bc3dc383048673",
   "lastOpenFiles": [
     "Apresentacao Manutencao.md",
-    "Sem título 1.md",
+    "Debito Tecnico.md",
     "Sem título.md",
     "Exemplos de requisição — cadastro de utilizador (front).md",
     "Drawing 2026-04-19 15.41.03.excalidraw.md",
