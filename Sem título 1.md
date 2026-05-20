@@ -1,0 +1,1 @@
+Em `_buildUpdateData`, os arrays usam checagem por truthiness (`if (dto.alergias) ...`). Além de não diferenciar bem “campo ausente” vs “campo presente como []”, isso fica especialmente problemático quando o DTO de PATCH aplica defaults. Prefira checar presença (`dto.alergias !== undefined`, ou `'alergias' in dto`) para que PATCH só altere arrays quando o cliente enviar o campo.
