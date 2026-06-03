@@ -764,153 +764,89 @@ Estude primeiro:
 80. Por que usar build multi-stage?
 81. Como você lidaria com variáveis de ambiente em produção?
 82. O que não deve ir para dentro da imagem Docker?
-    
 83. Como você subiria banco, API e frontend em ambiente de homologação?
-    
 84. Como você faria deploy desse projeto em uma EC2?
-    
 85. Como você configuraria HTTPS para essa aplicação?
-    
 86. Como você monitoraria se a aplicação caiu?
-    
 87. Como você faria rollback de uma versão com bug?
-    
 88. Como você lidaria com logs em containers?
-    
 89. Como você separaria ambiente de desenvolvimento, homologação e produção?
-    
 90. Que melhorias você faria no pipeline de deploy?
-    
 
 ---
 
 ## 8. Segurança Web e LGPD
 
 91. Quais dados pessoais o sistema armazena?
-    
 92. CPF e e-mail exigem quais cuidados de segurança?
-    
 93. Como você evitaria vazamento de dados pessoais em logs?
-    
 94. Como você protegeria a API contra envio automatizado ou abuso?
-    
 95. Como você lidaria com CORS nesse projeto?
-    
 96. Qual a diferença entre autenticação e autorização?
-    
 97. Se fosse adicionado login administrativo, você usaria localStorage ou cookie httpOnly? Por quê?
-    
 98. Como você lidaria com CSRF em uma aplicação com cookie?
-    
 99. Como você aplicaria princípios da LGPD nesse sistema?
-    
 100. Como você implementaria exclusão ou anonimização de dados de um cliente?
-    
 
 ---
 
 ## 9. Testes automatizados
 
 101. Que testes você escreveu ou escreveria primeiro nesse projeto?
-    
 102. Como você testaria a validação de CPF?
-    
 103. Como você testaria o caso de CPF duplicado?
-    
 104. Como você testaria o formulário no frontend?
-    
 105. Qual a diferença entre teste unitário, teste de integração e teste end-to-end?
-    
 106. Como você mockaria a camada de banco em um teste unitário?
-    
 107. Quando vale a pena testar com banco real?
-    
 108. Como você testaria a API de cadastro com Supertest?
-    
 109. Que cenários de erro são importantes nesse projeto?
-    
 110. Como você mediria cobertura de testes?
-    
 111. Cobertura alta garante qualidade? Por quê?
-    
 112. O que você colocaria em um pipeline de CI antes do deploy?
-    
 
 ---
 
 ## 10. Escalabilidade, performance e evolução para a vaga
 
 113. Se esse sistema tivesse muitos acessos, onde poderiam surgir gargalos?
-    
 114. Como Redis poderia ser usado nesse projeto?
-    
 115. Que dados fariam sentido cachear?
-    
 116. Como você invalidaria cache quando uma cor fosse alterada?
-    
 117. Como você processaria uma importação grande de clientes sem carregar tudo em memória?
-    
 118. Onde streams do Node poderiam ser úteis?
-    
 119. Se o sistema virasse um e-commerce, como você modelaria catálogo, estoque e pedidos?
-    
 120. Como você integraria esse sistema a um ERP externo?
-    
 121. Como você lidaria com falhas temporárias de uma API externa?
-    
 122. Quando usaria fila em vez de processar tudo na requisição HTTP?
-    
 123. Como você garantiria idempotência em integrações?
-    
 124. Como você lidaria com webhooks de pagamento?
-    
 125. Como você adicionaria notificações push com Firebase FCM?
-    
 126. Como você adaptaria esse backend para ser consumido por um app React Native?
-    
 127. O que muda no armazenamento de dados entre web e mobile?
-    
 128. O que você guardaria em AsyncStorage e o que não guardaria?
-    
 129. Quando usaria AWS S3 nesse projeto?
-    
 130. Quando usaria Lambda em vez de colocar tudo dentro da API?
-    
 
 ---
 
 ## 11. Code review e postura de nível pleno
 
 131. Se você fosse revisar esse projeto como tech lead, o que observaria primeiro?
-    
 132. Que decisões você defenderia com segurança?
-    
 133. Que decisões você mudaria se tivesse mais tempo?
-    
 134. Qual foi o maior trade-off técnico do projeto?
-    
 135. Qual parte do projeto você considera mais madura?
-    
 136. Qual parte está mais frágil?
-    
 137. Que bug você acha que poderia passar despercebido nesse sistema?
-    
 138. Como você priorizaria melhorias pós-entrega?
-    
 139. Como você comunicaria limitações técnicas para um PO ou cliente?
-    
 140. Como você equilibraria prazo curto com qualidade?
-    
 141. O que você faria se recebesse uma regra ambígua do cliente?
-    
 142. Como você documentaria decisões técnicas para a próxima equipe?
-    
 143. Como você lidaria com feedback negativo em code review?
-    
 144. Como você garantiria que outro dev consiga rodar o projeto localmente?
-    
 145. Qual seria seu plano para transformar esse teste em um MVP real?
-    
 
 ---
 
@@ -919,33 +855,19 @@ Estude primeiro:
 Se o tempo for curto, priorize treinar estas:
 
 1. Quais requisitos você identificou no enunciado e como traduziu isso em solução técnica?
-    
 2. Por que você escolheu PostgreSQL e como modelou cliente/cor?
-    
 3. Como você garantiu que o cliente só consiga se cadastrar uma vez?
-    
 4. Por que validar dados no frontend e também no backend?
-    
 5. Por que usar TypeScript nesse projeto?
-    
 6. Como você organizou o monorepo e por quê?
-    
 7. Como Docker ajuda na entrega e deploy desse projeto?
-    
 8. Como você protegeria uma área administrativa?
-    
 9. Quais dados pessoais existem e como aplicaria LGPD?
-    
 10. Que testes você escreveu ou escreveria primeiro?
-    
 11. Qual ponto fraco do seu projeto você melhoraria primeiro?
-    
 12. Como você evoluiria esse projeto para suportar mobile?
-    
 13. Onde Redis entraria nesse sistema?
-    
 14. Como você prepararia o projeto para uma equipe continuar o desenvolvimento?
-    
 15. Se tivesse mais uma semana, quais melhorias faria e em qual ordem?
 
 ---
