@@ -63,6 +63,7 @@ Estude e explique em voz alta:
 > “No projeto, eu optei por armazenar o JWT em cookie httpOnly para reduzir exposição do token a XSS. O backend valida o token via JwtStrategy e protege rotas com Guard. Como melhoria, eu adicionaria RBAC com roles e refresh token.”
 
 **Fontes aplicadas:** [F1], [F2]
+Fontes: ()
 
 ---
 
