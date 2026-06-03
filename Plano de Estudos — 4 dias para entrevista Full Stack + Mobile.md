@@ -1,4 +1,4 @@
-# Plano de Estudos — 4 dias para entrevista Full Stack + Mobile
+
 
 > **Carga máxima:** 4 dias × 3h por dia = **12 horas**
 >
