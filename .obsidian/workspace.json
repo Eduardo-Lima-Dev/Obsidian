@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "Debito Tecnico"
             }
+          },
+          {
+            "id": "3cd4d3527a583adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cronograma de 4 dias — 3h por dia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronograma de 4 dias — 3h por dia"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debito Tecnico.md",
+                "file": "Cronograma de 4 dias — 3h por dia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Debito Tecnico"
+              "title": "Sumário de Cronograma de 4 dias — 3h por dia"
             }
           },
           {
@@ -256,10 +270,11 @@
       "export-graph-view:Export graph view": false
     }
   },
-  "active": "64bc3dc383048673",
+  "active": "3cd4d3527a583adc",
   "lastOpenFiles": [
-    "Apresentacao Manutencao.md",
     "Debito Tecnico.md",
+    "Cronograma de 4 dias — 3h por dia.md",
+    "Apresentacao Manutencao.md",
     "Sem título.md",
     "Exemplos de requisição — cadastro de utilizador (front).md",
     "Drawing 2026-04-19 15.41.03.excalidraw.md",
