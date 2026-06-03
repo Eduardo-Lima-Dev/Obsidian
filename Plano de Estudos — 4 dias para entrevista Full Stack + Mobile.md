@@ -644,81 +644,389 @@ Estude primeiro:
 
 # 4. Perguntas prováveis da entrevista
 
-## Sobre o projeto
+## Possíveis perguntas da entrevista técnica — versão ajustada para nível pleno
 
-1. Por que você escolheu monorepo com pnpm + Turborepo?
-2. Que problema o `dependsOn: ["^build"]` resolve?
-3. Explique o algoritmo de validação de CPF.
-4. Por que o schema Zod fica no pacote shared?
-5. Por que armazenar JWT em cookie httpOnly?
-6. Como mitigou o risco de CSRF?
-7. Como funciona o rate limiting?
-8. Por que o login tem limite menor que o global?
-9. Explique o Dockerfile multi-stage.
-10. Como o Nginx serve a SPA e faz proxy da API?
-11. Descreva o pipeline de CI/CD.
-12. Por que usar `$transaction([findMany, count])`?
-13. Como funciona a paginação?
-14. Como trata CPF/email duplicado?
-15. Por que `onDelete: Restrict` na relação Customer → Color?
-16. Como funciona o debounce da busca?
+> Foco: perguntas mais prováveis para uma entrevista de nível pleno, considerando que o teste exigia uma aplicação com TypeScript, React, Node.js, PostgreSQL, Docker e repositório único. A ideia não é só explicar o que foi feito, mas defender decisões, apontar limitações e propor evolução profissional do projeto.
 
 ---
 
-## TypeScript / Node
+## 1. Entendimento do problema e decisões de produto
 
-17. Diferença entre `interface` e `type`.
-18. O que são generics?
-19. `unknown` vs `any`.
-20. Como o NestJS usa decorators?
-21. O que `@Injectable()` faz?
-22. Como processar arquivo grande sem estourar memória?
-23. O que o modo `strict` melhora?
-
----
-
-## React / Frontend
-
-24. Quando usar estado local, Context ou Zustand?
-25. O que é custom hook?
-26. `useEffect` vs `useCallback` vs `useMemo`.
-27. Como garantir responsividade a partir de um Figma?
-28. Como proteger uma rota privada no React Router?
-
----
-
-## Banco de dados
-
-29. Como modelaria catálogo, estoque e pedidos?
-30. O que é migration?
-31. `migrate dev` vs `migrate deploy`.
-32. Como otimizar uma query lenta?
-33. PostgreSQL vs MongoDB.
-34. Onde entraria Redis?
+1. Quais requisitos funcionais e não funcionais você identificou a partir do enunciado do teste?
+2. O enunciado dizia que o cliente deveria preencher o formulário uma única vez. Como você garantiu isso tecnicamente?
+    
+3. Você tratou CPF e e-mail como únicos. Por que essa decisão faz sentido para esse caso?
+    
+4. Como você lidaria se o cliente depois pedisse para permitir atualização dos dados cadastrados?
+    
+5. A cor preferida foi limitada às cores do arco-íris, mas o enunciado dizia que isso poderia mudar posteriormente. Como sua modelagem facilita ou dificulta essa mudança?
+    
+6. O campo “observações” deveria ter algum limite de tamanho? Onde essa regra deveria ser validada?
+    
+7. O que você faria diferente se esse formulário fosse usado por milhares de usuários por dia?
+    
+8. Quais decisões você tomou pensando em uma futura equipe mantendo o projeto?
+    
+9. Que partes do projeto estão mais preparadas para evolução e quais ainda precisam melhorar?
+    
+10. Se esse sistema virasse um produto real, quais seriam as primeiras features que você adicionaria?
+    
 
 ---
 
-## Arquitetura, integrações e segurança
+## 2. Arquitetura e organização do projeto
 
-35. Como integraria com ERP/TOTVS?
-36. Como faria fluxo de PIX?
-37. O que é tokenização?
-38. Por que webhooks precisam ser idempotentes?
-39. Como funcionam push notifications com FCM?
-40. Como adicionaria RBAC?
-41. O que muda para rodar com redundância?
-42. Que cuidados teria com LGPD?
-43. Quando usar EC2, Lambda e S3?
+11. Por que você escolheu organizar o código em um único repositório?
+    
+12. Quais são as vantagens e desvantagens de usar monorepo nesse cenário?
+    
+13. O que você separou entre frontend, backend e pacote compartilhado?
+    
+14. Que tipo de código faz sentido ficar em um pacote `shared`?
+    
+15. Que tipo de código não deveria ficar no `shared`?
+    
+16. Como você evitaria acoplamento excessivo entre frontend e backend dentro de um monorepo?
+    
+17. Como você organizaria esse projeto se ele crescesse para ter aplicativo mobile, painel admin e API pública?
+    
+18. Como você garantiria padronização de código em uma equipe maior?
+    
+19. Quais decisões do projeto mostram preocupação com manutenção?
+    
+20. O que você considera débito técnico no projeto atual?
+    
 
 ---
 
-## Testes e qualidade
+## 3. Backend, API e regras de negócio
 
-44. Que testes escreveria para `CustomersService`?
-45. Como mockaria o Prisma?
-46. Diferença entre teste unitário, integração e e2e.
-47. O que o Supertest faz?
-48. O que você procura em code review?
+21. Como você estruturou as responsabilidades entre controller, service e camada de banco?
+    
+22. Que validações acontecem antes de salvar um cliente?
+    
+23. Você valida os dados apenas no frontend ou também no backend? Por quê?
+    
+24. Como sua API responde quando o CPF ou e-mail já existe?
+    
+25. Como você diferencia erro de validação, erro de conflito e erro interno?
+    
+26. Como você garantiria respostas padronizadas de erro em toda a API?
+    
+27. Como você versionaria essa API se futuramente surgisse um app mobile consumindo os mesmos endpoints?
+    
+28. Como você lidaria com uma alteração de contrato entre frontend e backend?
+    
+29. Como você implementaria paginação, busca e filtros no painel administrativo?
+    
+30. Como você protegeria endpoints administrativos?
+    
+31. Como você adicionaria autenticação para administradores?
+    
+32. Como você implementaria autorização por perfis, por exemplo admin e operador?
+    
+33. Como você evitaria abuso de requisições no endpoint de cadastro?
+    
+34. Como você lidaria com logs de erro sem expor dados pessoais?
+    
+35. Que pontos da API você considera mais críticos para testar?
+    
+
+---
+
+## 4. Banco de dados, PostgreSQL e modelagem
+
+36. Por que PostgreSQL é uma boa escolha para esse teste?
+    
+37. Como você modelou cliente e cor preferida?
+    
+38. Por que deixar cor em uma tabela separada pode ser melhor do que usar um enum fixo?
+    
+39. Quais campos deveriam ter índice nesse sistema?
+    
+40. Qual a diferença entre validar CPF único na aplicação e garantir unicidade no banco?
+    
+41. Como você lidaria com concorrência se dois cadastros com o mesmo CPF chegassem ao mesmo tempo?
+    
+42. O que é uma migration e por que ela é importante em produção?
+    
+43. Como você faria rollback de uma migration problemática?
+    
+44. Como você lidaria com alteração futura no modelo, por exemplo adicionar telefone ou endereço?
+    
+45. O campo CPF deveria ser armazenado formatado ou apenas com números? Por quê?
+    
+46. Como você trataria dados sensíveis nesse banco?
+    
+47. Quando você usaria transação nesse projeto?
+    
+48. Como você investigaria uma query lenta?
+    
+49. Como evitaria problema de N+1 caso o painel começasse a listar mais dados relacionados?
+    
+50. O que mudaria se o projeto precisasse suportar múltiplos clientes/empresas, ou seja, multi-tenant?
+    
+
+---
+
+## 5. Frontend React e experiência do usuário
+
+51. Como você organizou os componentes da tela de cadastro?
+    
+52. Como você garantiu que o usuário sabe que o cadastro foi bem-sucedido?
+    
+53. Como você evita múltiplos envios do mesmo formulário?
+    
+54. Como você trata estados de loading, erro e sucesso?
+    
+55. Como você garante que o formulário seja responsivo?
+    
+56. Como você lidaria com acessibilidade nesse formulário?
+    
+57. Quais validações devem aparecer imediatamente para o usuário?
+    
+58. Quais validações só podem ser confirmadas pelo backend?
+    
+59. Por que usar uma biblioteca de formulário em vez de controlar tudo manualmente com `useState`?
+    
+60. Quando você usaria `useState`, `useReducer`, Context API ou Zustand?
+    
+61. O que seria um bom custom hook nesse projeto?
+    
+62. Como você lidaria com internacionalização se o sistema precisasse suportar outro idioma?
+    
+63. Como você protegeria uma rota administrativa no frontend?
+    
+64. Como você evitaria duplicação de regras de validação entre front e back?
+    
+65. Que testes de interface você escreveria para esse formulário?
+    
+
+---
+
+## 6. TypeScript, validação e qualidade de código
+
+66. Como TypeScript ajudou nesse projeto?
+    
+67. Qual a diferença entre `type` e `interface`?
+    
+68. Quando você usaria `unknown` em vez de `any`?
+    
+69. O que o modo `strict` do TypeScript ajuda a prevenir?
+    
+70. Como você tiparia corretamente o payload de criação de cliente?
+    
+71. Como você garantiria que o tipo usado no frontend é compatível com o backend?
+    
+72. Qual o papel do Zod, Joi ou bibliotecas semelhantes em uma aplicação profissional?
+    
+73. O que pode dar errado se a aplicação confiar apenas nos tipos do TypeScript?
+    
+74. Como você organizaria ESLint e Prettier em um monorepo?
+    
+75. Como você revisaria um PR para garantir qualidade em TypeScript?
+    
+
+---
+
+## 7. Docker, deploy e ambiente de produção
+
+76. Por que o enunciado menciona Docker como requisito importante?
+    
+77. O que é uma imagem Docker?
+    
+78. Qual a diferença entre Dockerfile e docker-compose?
+    
+79. Como você estruturaria um Dockerfile para frontend e backend?
+    
+80. Por que usar build multi-stage?
+    
+81. Como você lidaria com variáveis de ambiente em produção?
+    
+82. O que não deve ir para dentro da imagem Docker?
+    
+83. Como você subiria banco, API e frontend em ambiente de homologação?
+    
+84. Como você faria deploy desse projeto em uma EC2?
+    
+85. Como você configuraria HTTPS para essa aplicação?
+    
+86. Como você monitoraria se a aplicação caiu?
+    
+87. Como você faria rollback de uma versão com bug?
+    
+88. Como você lidaria com logs em containers?
+    
+89. Como você separaria ambiente de desenvolvimento, homologação e produção?
+    
+90. Que melhorias você faria no pipeline de deploy?
+    
+
+---
+
+## 8. Segurança Web e LGPD
+
+91. Quais dados pessoais o sistema armazena?
+    
+92. CPF e e-mail exigem quais cuidados de segurança?
+    
+93. Como você evitaria vazamento de dados pessoais em logs?
+    
+94. Como você protegeria a API contra envio automatizado ou abuso?
+    
+95. Como você lidaria com CORS nesse projeto?
+    
+96. Qual a diferença entre autenticação e autorização?
+    
+97. Se fosse adicionado login administrativo, você usaria localStorage ou cookie httpOnly? Por quê?
+    
+98. Como você lidaria com CSRF em uma aplicação com cookie?
+    
+99. Como você aplicaria princípios da LGPD nesse sistema?
+    
+100. Como você implementaria exclusão ou anonimização de dados de um cliente?
+    
+
+---
+
+## 9. Testes automatizados
+
+101. Que testes você escreveu ou escreveria primeiro nesse projeto?
+    
+102. Como você testaria a validação de CPF?
+    
+103. Como você testaria o caso de CPF duplicado?
+    
+104. Como você testaria o formulário no frontend?
+    
+105. Qual a diferença entre teste unitário, teste de integração e teste end-to-end?
+    
+106. Como você mockaria a camada de banco em um teste unitário?
+    
+107. Quando vale a pena testar com banco real?
+    
+108. Como você testaria a API de cadastro com Supertest?
+    
+109. Que cenários de erro são importantes nesse projeto?
+    
+110. Como você mediria cobertura de testes?
+    
+111. Cobertura alta garante qualidade? Por quê?
+    
+112. O que você colocaria em um pipeline de CI antes do deploy?
+    
+
+---
+
+## 10. Escalabilidade, performance e evolução para a vaga
+
+113. Se esse sistema tivesse muitos acessos, onde poderiam surgir gargalos?
+    
+114. Como Redis poderia ser usado nesse projeto?
+    
+115. Que dados fariam sentido cachear?
+    
+116. Como você invalidaria cache quando uma cor fosse alterada?
+    
+117. Como você processaria uma importação grande de clientes sem carregar tudo em memória?
+    
+118. Onde streams do Node poderiam ser úteis?
+    
+119. Se o sistema virasse um e-commerce, como você modelaria catálogo, estoque e pedidos?
+    
+120. Como você integraria esse sistema a um ERP externo?
+    
+121. Como você lidaria com falhas temporárias de uma API externa?
+    
+122. Quando usaria fila em vez de processar tudo na requisição HTTP?
+    
+123. Como você garantiria idempotência em integrações?
+    
+124. Como você lidaria com webhooks de pagamento?
+    
+125. Como você adicionaria notificações push com Firebase FCM?
+    
+126. Como você adaptaria esse backend para ser consumido por um app React Native?
+    
+127. O que muda no armazenamento de dados entre web e mobile?
+    
+128. O que você guardaria em AsyncStorage e o que não guardaria?
+    
+129. Quando usaria AWS S3 nesse projeto?
+    
+130. Quando usaria Lambda em vez de colocar tudo dentro da API?
+    
+
+---
+
+## 11. Code review e postura de nível pleno
+
+131. Se você fosse revisar esse projeto como tech lead, o que observaria primeiro?
+    
+132. Que decisões você defenderia com segurança?
+    
+133. Que decisões você mudaria se tivesse mais tempo?
+    
+134. Qual foi o maior trade-off técnico do projeto?
+    
+135. Qual parte do projeto você considera mais madura?
+    
+136. Qual parte está mais frágil?
+    
+137. Que bug você acha que poderia passar despercebido nesse sistema?
+    
+138. Como você priorizaria melhorias pós-entrega?
+    
+139. Como você comunicaria limitações técnicas para um PO ou cliente?
+    
+140. Como você equilibraria prazo curto com qualidade?
+    
+141. O que você faria se recebesse uma regra ambígua do cliente?
+    
+142. Como você documentaria decisões técnicas para a próxima equipe?
+    
+143. Como você lidaria com feedback negativo em code review?
+    
+144. Como você garantiria que outro dev consiga rodar o projeto localmente?
+    
+145. Qual seria seu plano para transformar esse teste em um MVP real?
+    
+
+---
+
+## Perguntas mais prováveis de cair
+
+Se o tempo for curto, priorize treinar estas:
+
+1. Quais requisitos você identificou no enunciado e como traduziu isso em solução técnica?
+    
+2. Por que você escolheu PostgreSQL e como modelou cliente/cor?
+    
+3. Como você garantiu que o cliente só consiga se cadastrar uma vez?
+    
+4. Por que validar dados no frontend e também no backend?
+    
+5. Por que usar TypeScript nesse projeto?
+    
+6. Como você organizou o monorepo e por quê?
+    
+7. Como Docker ajuda na entrega e deploy desse projeto?
+    
+8. Como você protegeria uma área administrativa?
+    
+9. Quais dados pessoais existem e como aplicaria LGPD?
+    
+10. Que testes você escreveu ou escreveria primeiro?
+    
+11. Qual ponto fraco do seu projeto você melhoraria primeiro?
+    
+12. Como você evoluiria esse projeto para suportar mobile?
+    
+13. Onde Redis entraria nesse sistema?
+    
+14. Como você prepararia o projeto para uma equipe continuar o desenvolvimento?
+    
+15. Se tivesse mais uma semana, quais melhorias faria e em qual ordem?
 
 ---
 
