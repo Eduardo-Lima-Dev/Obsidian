@@ -683,147 +683,86 @@ Estude primeiro:
 ## 3. Backend, API e regras de negócio
 
 21. Como você estruturou as responsabilidades entre controller, service e camada de banco?
-    
 22. Que validações acontecem antes de salvar um cliente?
-    
 23. Você valida os dados apenas no frontend ou também no backend? Por quê?
-    
 24. Como sua API responde quando o CPF ou e-mail já existe?
-    
 25. Como você diferencia erro de validação, erro de conflito e erro interno?
-    
 26. Como você garantiria respostas padronizadas de erro em toda a API?
-    
 27. Como você versionaria essa API se futuramente surgisse um app mobile consumindo os mesmos endpoints?
-    
 28. Como você lidaria com uma alteração de contrato entre frontend e backend?
-    
 29. Como você implementaria paginação, busca e filtros no painel administrativo?
-    
 30. Como você protegeria endpoints administrativos?
-    
 31. Como você adicionaria autenticação para administradores?
-    
 32. Como você implementaria autorização por perfis, por exemplo admin e operador?
-    
 33. Como você evitaria abuso de requisições no endpoint de cadastro?
-    
 34. Como você lidaria com logs de erro sem expor dados pessoais?
-    
 35. Que pontos da API você considera mais críticos para testar?
-    
 
 ---
 
 ## 4. Banco de dados, PostgreSQL e modelagem
 
 36. Por que PostgreSQL é uma boa escolha para esse teste?
-    
 37. Como você modelou cliente e cor preferida?
-    
 38. Por que deixar cor em uma tabela separada pode ser melhor do que usar um enum fixo?
-    
 39. Quais campos deveriam ter índice nesse sistema?
-    
 40. Qual a diferença entre validar CPF único na aplicação e garantir unicidade no banco?
-    
 41. Como você lidaria com concorrência se dois cadastros com o mesmo CPF chegassem ao mesmo tempo?
-    
 42. O que é uma migration e por que ela é importante em produção?
-    
 43. Como você faria rollback de uma migration problemática?
-    
 44. Como você lidaria com alteração futura no modelo, por exemplo adicionar telefone ou endereço?
-    
 45. O campo CPF deveria ser armazenado formatado ou apenas com números? Por quê?
-    
 46. Como você trataria dados sensíveis nesse banco?
-    
 47. Quando você usaria transação nesse projeto?
-    
 48. Como você investigaria uma query lenta?
-    
 49. Como evitaria problema de N+1 caso o painel começasse a listar mais dados relacionados?
-    
 50. O que mudaria se o projeto precisasse suportar múltiplos clientes/empresas, ou seja, multi-tenant?
-    
 
 ---
 
 ## 5. Frontend React e experiência do usuário
 
 51. Como você organizou os componentes da tela de cadastro?
-    
 52. Como você garantiu que o usuário sabe que o cadastro foi bem-sucedido?
-    
 53. Como você evita múltiplos envios do mesmo formulário?
-    
 54. Como você trata estados de loading, erro e sucesso?
-    
 55. Como você garante que o formulário seja responsivo?
-    
 56. Como você lidaria com acessibilidade nesse formulário?
-    
 57. Quais validações devem aparecer imediatamente para o usuário?
-    
 58. Quais validações só podem ser confirmadas pelo backend?
-    
 59. Por que usar uma biblioteca de formulário em vez de controlar tudo manualmente com `useState`?
-    
 60. Quando você usaria `useState`, `useReducer`, Context API ou Zustand?
-    
 61. O que seria um bom custom hook nesse projeto?
-    
 62. Como você lidaria com internacionalização se o sistema precisasse suportar outro idioma?
-    
 63. Como você protegeria uma rota administrativa no frontend?
-    
 64. Como você evitaria duplicação de regras de validação entre front e back?
-    
 65. Que testes de interface você escreveria para esse formulário?
-    
 
 ---
 
 ## 6. TypeScript, validação e qualidade de código
 
 66. Como TypeScript ajudou nesse projeto?
-    
 67. Qual a diferença entre `type` e `interface`?
-    
 68. Quando você usaria `unknown` em vez de `any`?
-    
 69. O que o modo `strict` do TypeScript ajuda a prevenir?
-    
 70. Como você tiparia corretamente o payload de criação de cliente?
-    
 71. Como você garantiria que o tipo usado no frontend é compatível com o backend?
-    
 72. Qual o papel do Zod, Joi ou bibliotecas semelhantes em uma aplicação profissional?
-    
 73. O que pode dar errado se a aplicação confiar apenas nos tipos do TypeScript?
-    
 74. Como você organizaria ESLint e Prettier em um monorepo?
-    
 75. Como você revisaria um PR para garantir qualidade em TypeScript?
-    
 
 ---
 
 ## 7. Docker, deploy e ambiente de produção
 
 76. Por que o enunciado menciona Docker como requisito importante?
-    
 77. O que é uma imagem Docker?
-    
 78. Qual a diferença entre Dockerfile e docker-compose?
-    
 79. Como você estruturaria um Dockerfile para frontend e backend?
-    
 80. Por que usar build multi-stage?
-    
 81. Como você lidaria com variáveis de ambiente em produção?
-    
 82. O que não deve ir para dentro da imagem Docker?
     
 83. Como você subiria banco, API e frontend em ambiente de homologação?
