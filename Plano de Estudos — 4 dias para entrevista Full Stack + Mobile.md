@@ -654,48 +654,29 @@ Estude primeiro:
 
 1. Quais requisitos funcionais e não funcionais você identificou a partir do enunciado do teste?
 2. O enunciado dizia que o cliente deveria preencher o formulário uma única vez. Como você garantiu isso tecnicamente?
-    
 3. Você tratou CPF e e-mail como únicos. Por que essa decisão faz sentido para esse caso?
-    
 4. Como você lidaria se o cliente depois pedisse para permitir atualização dos dados cadastrados?
-    
 5. A cor preferida foi limitada às cores do arco-íris, mas o enunciado dizia que isso poderia mudar posteriormente. Como sua modelagem facilita ou dificulta essa mudança?
-    
 6. O campo “observações” deveria ter algum limite de tamanho? Onde essa regra deveria ser validada?
-    
 7. O que você faria diferente se esse formulário fosse usado por milhares de usuários por dia?
-    
 8. Quais decisões você tomou pensando em uma futura equipe mantendo o projeto?
-    
 9. Que partes do projeto estão mais preparadas para evolução e quais ainda precisam melhorar?
-    
 10. Se esse sistema virasse um produto real, quais seriam as primeiras features que você adicionaria?
-    
 
 ---
 
 ## 2. Arquitetura e organização do projeto
 
 11. Por que você escolheu organizar o código em um único repositório?
-    
 12. Quais são as vantagens e desvantagens de usar monorepo nesse cenário?
-    
 13. O que você separou entre frontend, backend e pacote compartilhado?
-    
 14. Que tipo de código faz sentido ficar em um pacote `shared`?
-    
 15. Que tipo de código não deveria ficar no `shared`?
-    
 16. Como você evitaria acoplamento excessivo entre frontend e backend dentro de um monorepo?
-    
 17. Como você organizaria esse projeto se ele crescesse para ter aplicativo mobile, painel admin e API pública?
-    
 18. Como você garantiria padronização de código em uma equipe maior?
-    
 19. Quais decisões do projeto mostram preocupação com manutenção?
-    
 20. O que você considera débito técnico no projeto atual?
-    
 
 ---
 
