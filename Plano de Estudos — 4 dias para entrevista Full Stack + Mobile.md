@@ -975,3 +975,5 @@ A melhor preparação, considerando o tempo curto, é:
 4. **Responder com exemplos reais do projeto.**
 
 Não tente passar a impressão de domínio profundo em tudo. Para uma entrevista de pleno, pesa muito mais mostrar raciocínio técnico, consciência de trade-offs e capacidade de evoluir o sistema.
+
+![[Pasted image 20260604090639.png]]
